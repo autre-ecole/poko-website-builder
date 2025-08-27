@@ -28,11 +28,9 @@ Site web en (re)construction {.callout}
 
 # Bienvenue à l'Autre École
 
-<div class="hero">
-  <div class="hero-content">
-    <p class="tagline">Une école Freinet où chaque enfant est acteur de ses apprentissages dans un environnement coopératif et bienveillant.</p>
-  </div>
-</div>
+Une école Freinet où chaque enfant est acteur de ses apprentissages dans un environnement coopératif et bienveillant.
+
+<img src="/_images/Batiment-accueil.webp" alt="" style="aspect-ratio: 2;" />
 
 ## Notre identité
 
@@ -40,55 +38,33 @@ L'Autre École est un établissement d'enseignement fondamental libre subvention
 
 Nous accueillons les enfants de 2½ à 12 ans dans un cadre à taille humaine où l'apprentissage se fait par la coopération, l'expression libre et la responsabilisation.
 
-<div class="featured-boxes">
-  <div class="featured-box">
-    <h3>Pédagogie active</h3>
-    <p>Une approche Freinet où l'enfant construit ses apprentissages à partir de ses expériences, de ses intérêts et de la vie coopérative.</p>
-    <p><a href="/pedagogie/" class="read-more">En savoir plus</a></p>
-  </div>
-  <div class="featured-box">
-    <h3>Vie participative</h3>
-    <p>Une structure de cogestion unique où parents et équipe pédagogique s'engagent ensemble pour faire vivre le projet d'école.</p>
-    <p><a href="/projet-d-etablissement/" class="read-more">Découvrir notre organisation</a></p>
-  </div>
-  <div class="featured-box">
-    <h3>Vivre ensemble</h3>
-    <p>Un lieu d'épanouissement où les enfants développent leur autonomie et leur sens des responsabilités dans le respect de chacun.</p>
-    <p><a href="/valeurs/" class="read-more">Nos valeurs</a></p>
-  </div>
-</div>
+{% section "switcher-width-prose.njk", {"blocks":[{"type":"markdown","value":"### Pédagogie active{% n %}{% n %}Une approche Freinet où l'enfant construit ses apprentissages à partir de ses expériences, de ses intérêts et de la vie coopérative.{% n %}{% n %}[En savoir plus sur notre pédagogie]({{ 'pedagogie' | locale_url }})"},{"value":"### Vie participative{% n %}{% n %}Une structure de cogestion unique où parents et équipe pédagogique s'engagent ensemble pour faire vivre le projet d'école.{% n %}{% n %}[Découvrir notre organisation]({{ 'projet-d-etablissement' | locale_url }})","type":"markdown"},{"value":"### Vivre ensemble{% n %}{% n %}Un lieu d'épanouissement où les enfants développent leur autonomie et leur sens des responsabilités dans le respect de chacun.{% n %}{% n %}[Nos valeurs]({{ \"valeurs\" | locale_url }})","type":"markdown"}]} %}
+
+<img src="/_images/bandeau-papier.webp" alt="" />
 
 ## Actualités et vie de l'école
 
-  
-  <div class="news-sidebar">
-    <h3>Vie quotidienne</h3>
-    <ul class="news-list">
-      <li><a href="/la-vie-de-l-ecole/">Rythmes et organisation de la journée</a></li>
-      <li><a href="/equipe/">Notre équipe d'animateurs</a></li>
-      <li><a href="/articles/">Journal et publications</a></li>
-    </ul>
-  </div>
-</div>
+### Vie quotidienne
+
+- [Rythmes et organisation de la journée]({{ "la-vie-de-l-ecole" | locale_url }})
+- [Notre équipe d'animateurs]({{ "equipe" | locale_url }})
+- [Journal et publications]({{ "articles" | locale_url }})
 
 ## Un projet éducatif unique
 
-L'Autre École se distingue par son approche globale de l'éducation qui s'articule autour de principes fondamentaux :
+L'Autre École se distingue par son approche globale de l'éducation qui s'articule autour de principes fondamentaux:
 
-- **Méthodes naturelles d'apprentissage** : apprendre en faisant, par tâtonnement expérimental et en fonction des besoins réels
-- **Expression libre et créative** : donner la parole à l'enfant sous toutes ses formes
-- **Organisation coopérative** : décisions collectives et responsabilités partagées
-- **Ouverture sur le monde** : ancrer les apprentissages dans la réalité sociale et culturelle
+- **Méthodes naturelles d'apprentissage**: apprendre en faisant, par tâtonnement expérimental et en fonction des besoins réels
+- **Expression libre et créative**: donner la parole à l'enfant sous toutes ses formes
+- **Organisation coopérative**: décisions collectives et responsabilités partagées
+- **Ouverture sur le monde**: ancrer les apprentissages dans la réalité sociale et culturelle
 
-<p class="hero-buttons cluster">
-      <a href="/ecole/" class="button">Découvrir notre école</a>
-      <a href="/inscription/" class="button button-accent">Informations inscriptions</a>
-    </p>
+[Découvrir notre école]({{ "ecole" | locale_url }}) [Informations inscriptions]({{ "inscription" | locale_url }}) {.cluster}
 
-## Ressources 
+<img src="/_images/IMG_4865.webp" alt="" style="aspect-ratio:4;" />
 
-<div class="resources-contacts">
-  <div class="resources-col">
-    <p>Consultez nos documents institutionnels, les outils pédagogiques et les ressources pour les familles.</p>
-    <p><a href="/ressources/" class="button button-outline">Accéder aux ressources</a></p>
-  </div>
+## Ressources
+
+Consultez nos documents institutionnels, les outils pédagogiques et les ressources pour les familles.
+
+[Accéder aux ressources]({{ "ressources" | locale_url }})

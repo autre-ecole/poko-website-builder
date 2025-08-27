@@ -3,6 +3,7 @@ translationKey: la-vie-de-l-ecole
 status: published
 name: La vie de l'école
 ---
+
 # La vie de l'école
 
 L'Autre École est un lieu de vie collégiale où se concrétisent au quotidien les valeurs de coopération, de liberté responsable et de solidarité. Notre organisation quotidienne et les événements qui rythment l'année reflètent directement notre projet pédagogique et nos options fondamentales.
@@ -15,17 +16,19 @@ L'école ouvre ses portes à 8h et les referme à 18h du lundi au vendredi. Le m
 
 ### Journée type
 
-Notre journée est organisée pour favoriser l'équilibre entre les différents temps d'apprentissage et le respect des rythmes des enfants :
+Notre journée est organisée pour favoriser l'équilibre entre les différents temps d'apprentissage et le respect des rythmes des enfants:
 
-- **8h00 - 8h25** : Accueil progressif des enfants
-- **8h30 - 9h00** : Début des cours. Élèves présents en classe et prêts**&#32;**à participer aux activités collectives.
-- **10h10 - 10h40** : Petite détente (récréation
-- **10h40 - 12h20** : Activités de classe
-- **12h20 - 13h40** : Repas en classe suivi de la grande détente dans la cour
-- **13h40 - 15h20** : Activités diverses (projets, sorties, travail en groupe)
-- **15h20 - 15h30** : Clôture de la classe et réalisation des services
-- **15h30 - 16h00** : Heure des parents
-- **16h00 - 18h00** : Garderie (avec collations à 16h et 17h)
+- **8h00 - 8h25**: Accueil progressif des enfants
+- **8h30 - 9h00**: Début des cours. Élèves présents en classe et prêts à participer aux activités collectives.
+- **10h10 - 10h40**: Petite détente (récréation)
+- **10h40 - 12h20**: Activités de classe
+- **12h20 - 13h40**: Repas en classe suivi de la grande détente dans la cour
+- **13h40 - 15h20**: Activités diverses (projets, sorties, travail en groupe)
+- **15h20 - 15h30**: Clôture de la classe et réalisation des services
+- **15h30 - 16h00**: Heure des parents
+- **16h00 - 18h00**: Garderie (avec collations à 16h et 17h)
+
+{% partial "gallery-la-vie-de-lecole.md" %}
 
 ### Les sortie
 
@@ -35,7 +38,7 @@ Les enfants sortent du bâtiment pour l'heure des parents (entre 15h30 et 16h). 
 
 À partir de 16h, les enfants présents dans la cour sont comptabilisés à la garderie. Ils reçoivent deux collations (une première à 16h et une deuxième à 17h).
 
-Tarifs:
+**Tarifs:**
 
 - 2€ pour 1 enfant
 - 3,50€ pour 2 enfants
@@ -56,7 +59,7 @@ En maternelle, les classes organisent un repas collectif hebdomadaire et des col
 
 Les temps de détente sont communs aux enfants de maternelle et de primaire. Cette organisation décloisonnée favorise les interactions entre enfants d'âges différents et contribue à la cohésion au sein de l'école.
 
-Les enfants disposent d'espaces variés :
+Les enfants disposent d'espaces variés:
 
 - Une cour avec bac à sable et modules de jeux
 - Un terrain d'aventures avec balançoire et espace pour construire des cabanes
@@ -70,7 +73,7 @@ Dans le respect de notre vision de l'enfant comme un être responsable, les dép
 
 ### Le Forum
 
-Chaque lundi matin, tous les enfants et les animateurs se rassemblent dans l'espace central de l'école pour le Forum. Ce moment important permet :
+Chaque lundi matin, tous les enfants et les animateurs se rassemblent dans l'espace central de l'école pour le Forum. Ce moment important permet:
 
 - Le partage d'informations générales
 - L'annonce des anniversaires de la semaine
@@ -83,7 +86,7 @@ Ce rituel hebdomadaire renforce le sentiment d'appartenance à une communauté �
 
 Structure essentielle qui organise la vie coopérative de l'école, le conseil se réunit chaque semaine. Il rassemble deux délégués de chaque classe primaire et un animateur. Les classes maternelles sont représentées par des enfants plus âgés.
 
-Le conseil traite :
+Le conseil traite:
 
 - Des relations entre les classes
 - De l'organisation d'activités communes
@@ -94,7 +97,7 @@ Le conseil traite :
 
 Une après-midi par semaine, des activités sont organisées en ateliers. Les enfants, dès la 3e maternelle, y sont répartis de manière verticale, mélangeant ainsi les différents âges.
 
-Les thèmes proposés sont variés :
+Les thèmes proposés sont variés:
 
 - Arts plastiques
 - Musique
@@ -103,22 +106,31 @@ Les thèmes proposés sont variés :
 - Environnement
 - Sciences
 - Arts de la parole
+- …
 
 L'enfant choisit l'atelier auquel il participera. Il y a généralement 5 cycles d'ateliers par an, permettant ainsi à chacun de découvrir différentes activités.
+
+### Le nettoyage des classes
+
+Durant l'année 3 tours de nettoyage des classes sont assurés par les parents. Ces moments sont planifier à l'avance.
+
+### Repas et collations collectives
+
+En d'accueil et ce jusqu'en 3e maternelle sont organisé chaque semaine par une famille des repas et collations collectives. Les parents peuvent s'inscrive 2-3x sur l'année pour la classe de leurs enfants.
 
 ## Les temps forts de l'année scolaire
 
 ### Événements annuels
 
-- **Journée portes ouvertes** (printemps) : ouverture de l'école aux familles intéressées par notre pédagogie
-- **Fête de l'école** (juin) : moment convivial réunissant toute la communauté scolaire
-- **Assemblées générales** : deux réunions annuelles pour définir les grandes orientations de l'école
-- **Marché de Noël** : vente d'objets fabriqués par les enfants au profit de projets solidaires
-- **Soirée des parents** : moment de rencontre informel entre les familles
+- **Soirée des parents**: moment de rencontre informel entre les familles
+- **Marché de Noël**: vente d'objets fabriqués par les enfants au profit de projets solidaires
+- **Journée portes ouvertes** (printemps): ouverture de l'école aux familles intéressées par notre pédagogie
+- **Fête de l'école** (juin): moment convivial réunissant toute la communauté scolaire
+- **Assemblées générales**: deux réunions annuelles pour définir les grandes orientations de l'école
 
 ### Classes de dépaysement (classes vertes)
 
-Tous les ans, dès la deuxième maternelle, chaque classe part en séjour dans le cadre d'un projet pédagogique spécifique. Ces séjours constituent des moments privilégiés pour :
+Tous les ans, dès la deuxième maternelle, chaque classe part en séjour dans le cadre d'un projet pédagogique spécifique. Ces séjours constituent des moments privilégiés pour:
 
 - Renforcer la cohésion du groupe
 - Vivre ensemble dans un autre contexte
@@ -127,7 +139,7 @@ Tous les ans, dès la deuxième maternelle, chaque classe part en séjour dans l
 
 ### Sorties culturelles et pédagogiques
 
-Tout au long de l'année, de nombreuses sorties sont organisées :
+Tout au long de l'année, de nombreuses sorties sont organisées:
 
 - Spectacles (théâtre, danse, musique)
 - Visites de musées et d'expositions
@@ -138,14 +150,13 @@ Tout au long de l'année, de nombreuses sorties sont organisées :
 
 ### Les commissions
 
-La vie de l'école repose sur l'engagement des parents et des animateurs au sein de différentes commissions thématiques :
+La vie de l'école repose sur l'engagement des parents et des animateurs au sein de différentes commissions thématiques:
 
-- Commission Pédagogie
-- Commission Bâtiment et Jardin
-- Commission Communication
-- Commission Fêtes et Événements
-- Commission Finances
-- Commission Informatique
+- Commission **Travaux**
+- Commission **Jardin**
+- Commission **Fêtes**
+- Commission **Finances**
+- Commission **Informatique**
 
 Chaque commission se réunit régulièrement pour travailler sur ses projets et rendre compte de ses actions lors des assemblées générales.
 
@@ -153,10 +164,10 @@ Chaque commission se réunit régulièrement pour travailler sur ses projets et 
 
 Pour assurer une communication fluide entre tous les acteurs de l'école :
 
-- **Billet du Jeudi** : lettre d'information hebdomadaire envoyée par voie électronique à toutes les familles
-- **Réunions de classe** : organisées en début d'année pour présenter le fonctionnement de la classe
-- **Entretiens individuels** : trois rendez-vous formels par an entre les familles et les animateurs
-- **Tableau d'affichage** : informations importantes et annonces de la vie de l'école
+- **Billet du Jeudi**: lettre d'information hebdomadaire envoyée par voie électronique à toutes les familles
+- **Réunions de classe**: organisées en début d'année pour présenter le fonctionnement de la classe
+- **Entretiens individuels**: trois rendez-vous formels par an entre les familles et les animateurs
+- **Tableau d'affichage**: informations importantes et annonces de la vie de l'école
 
 ## Conseil de classe
 
@@ -165,23 +176,3 @@ Il a lieu une fois par semaine, pendant 50 minutes.
 Durant la semaine, les enfants peuvent venir accrocher au panneau le sujet dont ils veulent parler. Il y a trois catégories : ce qui va bien; ce qui ne va pas; propositions. Un enfant est désigné secrétaire et notera les décisions prises.
 
 Le président (celui qui gère le conseil) lit les papiers (selon l’ordre de l’affichage), donne la parole et peut faire des remarques si elles sont jugées nécessaires. Une liste a été réalisée par les enfants, avec les règles à respecter. Elle est affichée au mur, bien visible.
-
-<!--
-
-## Conseil d’école
-
-Une fois par semaine, avec deux délégués par classe.
-
-## L’entretien
-
-## Le travail individuel
-
-## Créations et recherches mathématiques
-
-## Lecture – écriture avec textes libres
-
-## La correspondance
-
-## Vers le Pacifique
-
--->
