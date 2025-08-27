@@ -3,7 +3,6 @@ translationKey: la-vie-de-l-ecole
 status: published
 name: La vie de l'école
 ---
-
 # La vie de l'école
 
 L'Autre École est un lieu de vie collégiale où se concrétisent au quotidien les valeurs de coopération, de liberté responsable et de solidarité. Notre organisation quotidienne et les événements qui rythment l'année reflètent directement notre projet pédagogique et nos options fondamentales.
@@ -30,7 +29,7 @@ Notre journée est organisée pour favoriser l'équilibre entre les différents 
 
 {% partial "gallery-la-vie-de-lecole.md" %}
 
-### Les sortie
+### Les sorties
 
 Les enfants sortent du bâtiment pour l'heure des parents (entre 15h30 et 16h). C'est le moment où les plus grands peuvent quitter seuls l'école (s'ils ont une carte de sortie) et où les parents viennent chercher leur(s) enfant(s).
 
@@ -112,7 +111,7 @@ L'enfant choisit l'atelier auquel il participera. Il y a généralement 5 cycles
 
 ### Le nettoyage des classes
 
-Durant l'année 3 tours de nettoyage des classes sont assurés par les parents. Ces moments sont planifier à l'avance.
+Durant l'année, 3 tours de nettoyage des classes sont assurés par les parents. Ces moments sont planifier à l'avance.
 
 ### Repas et collations collectives
 
