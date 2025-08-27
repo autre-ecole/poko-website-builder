@@ -1,6 +1,8 @@
 import path from "node:path";
-import { fileURLToPath } from "node:url";
-import Nunjucks from "nunjucks";
+// import { fileURLToPath } from "node:url";
+// import Nunjucks from "nunjucks";
+import { transform as lightningTransform } from "lightningcss";
+
 // -------- Plugins
 import directoryOutputPlugin from "@11ty/eleventy-plugin-directory-output";
 import { RenderPlugin, IdAttributePlugin, I18nPlugin } from "@11ty/eleventy";
@@ -16,15 +18,24 @@ import autoCollections from "./src/config-11ty/plugins/auto-collections/index.js
 import htmlClassesTransform from "./src/config-11ty/plugins/html-classes-transform/index.js";
 import populateInputDir from "./src/config-11ty/plugins/populateInputDir/index.js";
 import partialsPlugin from "./src/config-11ty/plugins/partials/index.js";
+import buildExternalCSS from "./src/config-11ty/plugins/buildExternalCSS/index.js";
+import pluginUnoCSS from "./src/config-11ty/plugins/plugin-eleventy-unocss/index.js";
 // import keystaticPassthroughFiles from './src/config-11ty/plugins/keystaticPassthroughFiles/index.js';
 // -------- Plugins Markdown
+import markdownItContainer from "markdown-it-container";
+// import { container as markdownItContainer } from "@mdit/plugin-container"
+import markdownItMark from "markdown-it-mark";
+import markdownItLinkAttributes from "markdown-it-link-attributes";
 import markdownItAttrs from "markdown-it-attrs";
+import markdownItBracketedSpans from "markdown-it-bracketed-spans";
 // -------- Env Variables
 import * as env from "./env.config.js";
 import {
+  DEBUG,
   CMS_IMPORT,
   ELEVENTY_RUN_MODE,
   BUILD_LEVEL,
+  MINIFY,
   WORKING_DIR,
   WORKING_DIR_ABSOLUTE,
   CONTENT_DIR,
@@ -37,10 +48,7 @@ import {
   PROD_URL,
   languages,
 } from "./env.config.js";
-// import * as markdocTags from "./src/config-markdoc/tags/index.js";
-// import * as markdocNodes from "./src/config-markdoc/nodes/index.js";
 import eleventyComputed from "./src/data/eleventyComputed.js";
-// import Markdoc from "@markdoc/markdoc";
 
 // Eleventy Config
 import {
@@ -61,13 +69,16 @@ import {
 } from "./src/config-11ty/filters/index.js";
 import {
   newLine,
+  fetchFile as fetchFileShortcode,
   image,
   gallery,
   wrapper,
 } from "./src/config-11ty/shortcodes/index.js";
 // import { ogImageSelected } from "./src/config-11ty/shortcodes/index.js";
 
-console.log("---------ENV-----------\n", env, "\n---------/ENV---------");
+if (DEBUG) {
+  console.log("---------ENV-----------\n", env, "\n---------/ENV---------");
+}
 
 // TODOS:
 // - Look at persisting images in cache between builds: https://github.com/11ty/eleventy-img/issues/285
@@ -94,6 +105,25 @@ function shouldNotRender(data) {
     return true;
   }
   return false;
+}
+
+function mditRenderContainerTag(tagName, tokens, idx, options, env, Renderer) {
+  tokens[idx].tag = tagName;
+  return Renderer.renderToken(tokens, idx, options);
+}
+function mRCTOptions(tagName) {
+  return {
+    render: function (tokens, idx, options, env, Renderer) {
+      return mditRenderContainerTag(
+        tagName,
+        tokens,
+        idx,
+        options,
+        env,
+        Renderer
+      );
+    },
+  };
 }
 
 /**
@@ -151,7 +181,97 @@ export default async function (eleventyConfig) {
   });
 
   // --------------------- Plugins Markdown
-  eleventyConfig.amendLibrary("md", (mdLib) => mdLib.use(markdownItAttrs));
+  eleventyConfig.amendLibrary(
+    "md",
+    (mdLib) =>
+      mdLib
+        // https://github.com/markdown-it/markdown-it-container
+        // .use(markdownItContainer, "@", {
+        //   render: function (tokens, idx) {
+        //     const token = tokens[idx];
+        //     const attrsStr =
+        //       token.attrs
+        //         ?.map(([name, value]) => `${name}="${value}"`)
+        //         ?.join(" ") || "";
+        //     const tagMatch = token.info
+        //       .trim()
+        //       .match(/^@\s*([a-zA-Z0-9]+)\s*(.*)$/);
+        //     const tag = tagMatch ? tagMatch[1] : "div";
+
+        //     console.log({ token, idx, tag, attrsStr });
+
+        //     return token.nesting === 1 ? `<${tag} ${attrsStr}>` : `</${tag}>`;
+        //   },
+        // })
+        .use(markdownItContainer, "section", mRCTOptions("section"))
+        .use(markdownItContainer, "aside", mRCTOptions("aside"))
+        .use(markdownItContainer, "article", mRCTOptions("article"))
+        .use(markdownItContainer, "footer", mRCTOptions("footer"))
+        .use(markdownItContainer, "header", mRCTOptions("header"))
+        .use(markdownItContainer, "nav", mRCTOptions("nav"))
+        .use(markdownItContainer, "main", mRCTOptions("main"))
+        .use(markdownItContainer, "div", mRCTOptions("div"))
+        .use(markdownItContainer, "block")
+        .use(markdownItContainer, "flow")
+        .use(markdownItContainer, "grid-auto")
+        .use(markdownItContainer, "cluster")
+        .use(markdownItContainer, "switcher")
+
+        // .use(markdownItContainer, {
+        //   name: "@",
+        //   // render: function (tokens, idx) {
+        //   //   const token = tokens[idx];
+        //   //   const attrsStr =
+        //   //     token.attrs
+        //   //       ?.map(([name, value]) => `${name}="${value}"`)
+        //   //       ?.join(" ") || "";
+        //   //   const tagMatch = token.info
+        //   //     .trim()
+        //   //     .match(/^@\s*([a-zA-Z0-9]+)\s*(.*)$/);
+        //   //   const tag = tagMatch ? tagMatch[1] : "div";
+
+        //   //   return token.nesting === 1 ? `<${tag} ${attrsStr}>` : `</${tag}>`;
+        //   // },
+        //   openRender: (tokens, idx, _options) => {
+        //     const token = tokens[idx];
+        //     const attrsStr =
+        //       token.attrs
+        //         ?.map(([name, value]) => `${name}="${value}"`)
+        //         ?.join(" ") || "";
+        //     const tagMatch = token.info
+        //       .trim()
+        //       .match(/^@\s*([a-zA-Z0-9]+)\s*(.*)$/);
+        //     const tag = tagMatch ? tagMatch[1] : "div";
+
+        //     console.log({ token, tag, attrsStr, _options });
+
+        //     return `<${tag} ${attrsStr}>`;
+        //   },
+        //   closeRender: (tokens, idx, _options) => {
+        //     const tagMatch = tokens[idx].info
+        //       .trim()
+        //       .match(/^@\s*([a-zA-Z0-9]+)\s*(.*)$/);
+        //     const tag = tagMatch ? tagMatch[1] : "div";
+
+        //     console.log({ token: tokens[idx], tag, _options });
+
+        //     return `</${tag}>`;
+        //   },
+        // })
+        // .use(markdownItContainer, { name: "block" })
+        // .use(markdownItContainer, { name: "flow" })
+        // .use(markdownItContainer, { name: "grid-auto" })
+        // .use(markdownItContainer, { name: "cluster" })
+        // .use(markdownItContainer, { name: "switcher" })
+
+        .use(markdownItMark) // https://github.com/markdown-it/markdown-it-mark
+        .use(markdownItLinkAttributes) // https://github.com/crookedneighbor/markdown-it-link-attributes
+        .use(markdownItAttrs) // https://github.com/arve0/markdown-it-attrs
+        .use(markdownItBracketedSpans) // https://github.com/mb21/markdown-it-bracketed-spans
+  );
+
+  // --------------------- Bundles
+  eleventyConfig.addBundle("html");
 
   // --------------------- Plugins Early
   eleventyConfig.addPlugin(directoryOutputPlugin);
@@ -183,6 +303,25 @@ export default async function (eleventyConfig) {
       `${WORKING_DIR}/_components/**/*.webc`,
     ],
     useTransform: true,
+    bundlePluginOptions: {
+      transforms: [
+        async function (content) {
+          let { type, page } = this;
+
+          if (type === "css") {
+            let { code, map } = lightningTransform({
+              // filename: 'style.css',
+              code: Buffer.from(content),
+              minify: MINIFY,
+              // sourceMap: true
+            });
+
+            return code;
+          }
+          return content;
+        },
+      ],
+    },
   });
   eleventyConfig.addPlugin(pluginIcons, {
     sources: [
@@ -193,10 +332,15 @@ export default async function (eleventyConfig) {
       },
       {
         name: "tabler",
-        path: "node_modules/@tabler/icons/icons",
+        path: "node_modules/@tabler/icons/icons/outline",
+      },
+      {
+        name: "tablerFilled",
+        path: "node_modules/@tabler/icons/icons/filled",
       },
     ],
   });
+  await eleventyConfig.addPlugin(buildExternalCSS);
   // TODO: import those classes from a data file
   eleventyConfig.addPlugin(htmlClassesTransform, {
     classes: {
@@ -205,11 +349,7 @@ export default async function (eleventyConfig) {
       // body: "imported-body-class",
     },
   });
-  // TODO: Try integrating CSS into every html file
-  // TODO: Choose method
-  // - 11ty Bundler
-  // - UnoCSS with [bun-plugin-unocss](https://github.com/stacksjs/bun-plugin-unocss)
-  // eleventyConfig.addPlugin(embedPageCss);
+  await eleventyConfig.addPlugin(pluginUnoCSS);
 
   // --------------------- Populate files and default content
   // Populate Default Content: Copy `src/content-static/` to `dist`
@@ -238,7 +378,11 @@ export default async function (eleventyConfig) {
   // Populate Default Content with virtual templates
   await eleventyConfig.addPlugin(populateInputDir, {
     // logLevel: 'debug',
-    sources: ["src/content"],
+    sources: [
+      // TODO: Make this selectable from the CMS
+      "src/themes/default",
+      "src/content",
+    ],
   });
   // Populate Default Content with virtual templates
   await eleventyConfig.addPlugin(partialsPlugin, {
@@ -246,6 +390,7 @@ export default async function (eleventyConfig) {
       path.join(WORKING_DIR, PARTIALS_DIR),
       path.join("src/content/_partials"),
     ],
+    shortcodeAliases: ["partial", "section"],
   });
   // Copy files (Keystatic)
   // Retrieve public files from the _files directory
@@ -292,7 +437,15 @@ export default async function (eleventyConfig) {
 
   // --------------------- Shortcodes
   // eleventyConfig.addAsyncShortcode("partial", partialShortcode);
+  // eleventyConfig.addShortcode("section", function (...rest) {
+  //   console.log(rest);
+  //   return "SECTIONS";
+  // });
   eleventyConfig.addShortcode("n", newLine);
+  await eleventyConfig.addNunjucksAsyncShortcode(
+    "fetchFile",
+    fetchFileShortcode
+  );
   eleventyConfig.addShortcode("image", image);
   eleventyConfig.addShortcode("gallery", gallery);
   eleventyConfig.addPairedShortcode("wrapper", wrapper);
@@ -309,4 +462,17 @@ export default async function (eleventyConfig) {
   //     return element;
   //   }
   // );
+
+  // --------------------- Bundles (late to override WebC Plugin)
+  // eleventyConfig.addPlugin(function (eleventyConfig) {
+  //   eleventyConfig.addBundle("css", {
+  //     // File extension used for bundle file output, defaults to bundle name
+  //     outputFileExtension: "css",
+  //     // Name of shortcode for use in templates, defaults to bundle name
+  //     shortcodeName: "css",
+  //     // shortcodeName: false, // disable this feature.
+  //     // Any <style> tags in the HTML should be included in this bundle -> https://www.11ty.dev/docs/plugins/bundle/#bundling-html-node-content
+  //     bundleHtmlContentFromSelector: "style",
+  //   });
+  // });
 }
