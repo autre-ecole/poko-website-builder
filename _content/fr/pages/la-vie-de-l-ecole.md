@@ -113,10 +113,6 @@ L'enfant choisit l'atelier auquel il participera. Il y a généralement 5 cycles
 
 Durant l'année, 3 tours de nettoyage des classes sont assurés par les parents. Ces moments sont planifier à l'avance.
 
-### Repas et collations collectives
-
-En d'accueil et ce jusqu'en 3e maternelle sont organisé chaque semaine par une famille des repas et collations collectives. Les parents peuvent s'inscrive 2-3x sur l'année pour la classe de leurs enfants.
-
 ## Les temps forts de l'année scolaire
 
 ### Événements annuels
