@@ -1,0 +1,14 @@
+<div class="side-dy-side">
+  {% for block in blocks %}
+    {% if block.type == "image" %}
+<img src="{{ block.src }}" alt="{{ block.alt }}" />
+    {% endif %}
+  {% endfor %}
+</div>
+
+{% css %}
+.side-dy-side {
+    display: flex;
+    flex-direction: row;
+    gap: var(--step-0); }
+{% endcss %}

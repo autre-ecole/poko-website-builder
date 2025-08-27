@@ -5,6 +5,7 @@ name: Inscription
 eleventyNavigation:
   order: 20
 ---
+
 # S'inscrire à l'Autre École
 
 ## Une inscription qui est avant tout une adhésion
@@ -17,9 +18,7 @@ Conformément à nos Options Fondamentales, nous considérons que:
 
 Cette adhésion implique une réelle cohérence entre les valeurs véhiculées à l'école et celles transmises dans le milieu familial, ainsi qu'une participation active des parents à la vie de l'école.
 
-<img src="/_images/IMG_4718.webp" alt="" />
-
-<img src="/_images/patchwork-1.webp" alt="" />
+{% section "side-by-side.njk", {"blocks":[{"src":"/_images/IMG_4718.webp","alt":"","title":"","width":null,"aspectRatio":null,"loading":"","imgAttrs":"","type":"image"},{"src":"/_images/patchwork-1.webp","alt":"","title":"","width":null,"aspectRatio":null,"loading":"","imgAttrs":"","type":"image"}]} %}
 
 ## Comprendre notre projet avant de s'engager
 
@@ -42,7 +41,7 @@ Cette structure verticale signifie que chaque classe accueille des enfants d'âg
 
 Le nombre de places disponibles varie d'année en année en fonction des départs et est généralement plus important en classes maternelles qu'en primaire.
 
-<img src="/_images/IMG_4860.webp" alt="" />
+<img src="/_images/IMG_4860.webp" alt="" style="aspect-ratio:4;" />
 
 ## Processus d'inscription
 

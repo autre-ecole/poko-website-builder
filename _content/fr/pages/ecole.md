@@ -85,4 +85,4 @@ _Le livre d'Henry Landroit «Histoire de l'Autre École 1973-1996» qui retrace 
 .h2 {margin-block-start: 0;}
 {% endcss %}
 
-{% partial "Gallery-lecole.md" %}
+{% partial "gallery-lecole.md" %}

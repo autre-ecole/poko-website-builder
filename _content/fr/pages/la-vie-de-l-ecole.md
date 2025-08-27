@@ -3,6 +3,7 @@ translationKey: la-vie-de-l-ecole
 status: published
 name: La vie de l'école
 ---
+
 # La vie de l'école
 
 L'Autre École est un lieu de vie collégiale où se concrétisent au quotidien les valeurs de coopération, de liberté responsable et de solidarité. Notre organisation quotidienne et les événements qui rythment l'année reflètent directement notre projet pédagogique et nos options fondamentales.
@@ -18,8 +19,8 @@ L'école ouvre ses portes à 8h et les referme à 18h du lundi au vendredi. Le m
 Notre journée est organisée pour favoriser l'équilibre entre les différents temps d'apprentissage et le respect des rythmes des enfants:
 
 - **8h00 - 8h25**: Accueil progressif des enfants
-- **8h30 - 9h00**: Début des cours. Élèves présents en classe et prêts**&#32;**à participer aux activités collectives.
-- **10h10 - 10h40**: Petite détente (récréation
+- **8h30 - 9h00**: Début des cours. Élèves présents en classe et prêts à participer aux activités collectives.
+- **10h10 - 10h40**: Petite détente (récréation)
 - **10h40 - 12h20**: Activités de classe
 - **12h20 - 13h40**: Repas en classe suivi de la grande détente dans la cour
 - **13h40 - 15h20**: Activités diverses (projets, sorties, travail en groupe)
@@ -175,23 +176,3 @@ Il a lieu une fois par semaine, pendant 50 minutes.
 Durant la semaine, les enfants peuvent venir accrocher au panneau le sujet dont ils veulent parler. Il y a trois catégories : ce qui va bien; ce qui ne va pas; propositions. Un enfant est désigné secrétaire et notera les décisions prises.
 
 Le président (celui qui gère le conseil) lit les papiers (selon l’ordre de l’affichage), donne la parole et peut faire des remarques si elles sont jugées nécessaires. Une liste a été réalisée par les enfants, avec les règles à respecter. Elle est affichée au mur, bien visible.
-
-<!--
-
-## Conseil d’école
-
-Une fois par semaine, avec deux délégués par classe.
-
-## L’entretien
-
-## Le travail individuel
-
-## Créations et recherches mathématiques
-
-## Lecture – écriture avec textes libres
-
-## La correspondance
-
-## Vers le Pacifique
-
--->

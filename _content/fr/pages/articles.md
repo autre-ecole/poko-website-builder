@@ -5,27 +5,29 @@ name: Articles
 eleventyNavigation:
   order: 9
 ---
+
 # La parole de l'Autre École
 
 Cette page rassemble les articles, réflexions et témoignages rédigés par les différents acteurs de notre communauté éducative: animateurs, parents, enfants et partenaires. Chaque contribution illustre une facette de notre projet pédagogique et de notre vie coopérative.
 
 ## Nos derniers articles
 
-<div class="articles-list">
-{%- for post in collections.articles -%}
-  <article class="article-card">
+<div class="articles-list grid-auto">
+{%- for post in collections.articles | first(3) -%}
+  <article class="article-card breakout-clickable">
     <h3 class="h4"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
     <div class="article-meta">
-      <span class="article-date">{{ post.date | toLocaleString(lang, { dateStyle: "short" }) }}</span>
+      <time datetime="{{ post.date | dateToSlug }}" class="article-date">{{ post.date | toLocaleString(lang, { year: "numeric", month: "long", day: "numeric" }) }}</time>
       {% if post.data.author %}<span class="article-author">par {{ post.data.author }}</span>{% endif %}
     </div>
     {% if post.data.description %}
     <p class="article-description">{{ post.data.description }}</p>
     {% endif %}
-    <a href="{{ post.url }}" class="read-more">Lire la suite</a>
   </article>
 {%- endfor -%}
 </div>
+
+Retrouvez la liste complète des articles dans notre [archive](/articles-archive/).
 
 ## Contribuer à la réflexion collective
 
@@ -48,3 +50,5 @@ Bientôt disponible : accès aux articles classés par thématiques (pédagogie 
   <p>Aucun article n'est publié pour le moment. Revenez prochainement !</p>
 </div>
 {% endif %}
+
+{% partial "styles-articles-list.md" %}

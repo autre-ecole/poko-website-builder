@@ -39,9 +39,10 @@
   /* Colors: Default palette */
   --color-text: var(--blue);
   --color-bg: var(--white);
-  /* --color-border: var(); */
+  --color-border: var(--yellow);
   /* --color-outline: var(); */
   --color-text-decoration: var(--yellow);
+  --color-text--marker: var(--yellow);
   /* --color-text-emphasis: var(); */
   /* --color-shadow has to be used manually in box-shadow definitions */
   --color-shadow: var(--gray-shadow);
@@ -86,6 +87,10 @@
   --deco-thickness-hover: 1.2em;
   --deco-offset: -0.2em;
   --deco-offset-hover: -0.9em;
+  /* --deco-thickness: 40%;
+  --deco-thickness-hover: 100%;
+  --deco-offset: -20%;
+  --deco-offset-hover: -80%; */
   --box-shadow-grid: 0px 15px 30px var(--color-shadow);
   --border-radius-grid: 12px;
 }
@@ -109,17 +114,28 @@ a {
   text-decoration-skip-ink: none;
   text-decoration-thickness: var(--deco-thickness);
   text-underline-offset: var(--deco-offset);
-  transition: text-decoration-thickness 0.2s ease-in-out,
+  transition: color 0.2s ease-in-out, text-decoration 0.2s ease-in-out,
+    text-decoration-thickness 0.2s ease-in-out,
     text-underline-offset 0.2s ease-in-out;
+  /* transition: text-decoration 0.2s ease-in-out; */
 }
 a:hover {
-  background: none;
+  background-color: transparent;
   text-decoration-thickness: var(--deco-thickness-hover);
   text-underline-offset: var(--deco-offset-hover);
 }
 /* Remove special link styles on image links */
 a:has(> :is(img, picture):only-child) {
   text-decoration: none;
+}
+/* TODO: Transitioning text-decoration-thickness does not work on Chromium */
+/* Target Chrome */
+/* TODO: Will need to be updated */
+@supports (text-size-adjust: none) {
+  a {
+    transition: color 0s ease-in-out, text-decoration 0s,
+      text-decoration-thickness 0s, text-underline-offset 0s;
+  }
 }
 
 /* General Layout */
@@ -152,8 +168,10 @@ body > header {
     color: inherit;
     &:not([aria-current]) {
       text-decoration-thickness: 0;
+      text-decoration-color: transparent;
       &:hover {
         text-decoration-thickness: var(--deco-thickness-hover);
+        text-decoration-color: var(--color-text-decoration);
       }
     }
   }
@@ -198,6 +216,15 @@ main > img,
 main > picture {
   display: block;
   margin-block: var(--step-4);
+}
+
+/* Galleries */
+.gallery.grid-auto {
+  --width-column-min: calc(var(--width-max) / 7);
+  --width-column-max: calc(var(--width-max) / 2);
+  & img {
+    aspect-ratio: 1;
+  }
 }
 
 /* Unique Elements */
