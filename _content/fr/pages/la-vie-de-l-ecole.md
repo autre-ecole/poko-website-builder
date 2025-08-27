@@ -172,6 +172,6 @@ Pour assurer une communication fluide entre tous les acteurs de l'école :
 
 Il a lieu une fois par semaine, pendant 50 minutes.
 
-Durant la semaine, les enfants peuvent venir accrocher au panneau le sujet dont ils veulent parler. Il y a trois catégories : ce qui va bien; ce qui ne va pas; propositions. Un enfant est désigné secrétaire et notera les décisions prises.
+Durant la semaine, les enfants peuvent venir accrocher au panneau le sujet dont ils veulent parler. Il y a trois catégories: ce qui va bien; ce qui ne va pas; propositions. Un enfant est désigné secrétaire et notera les décisions prises.
 
 Le président (celui qui gère le conseil) lit les papiers (selon l’ordre de l’affichage), donne la parole et peut faire des remarques si elles sont jugées nécessaires. Une liste a été réalisée par les enfants, avec les règles à respecter. Elle est affichée au mur, bien visible.
