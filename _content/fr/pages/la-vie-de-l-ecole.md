@@ -111,7 +111,7 @@ L'enfant choisit l'atelier auquel il participera. Il y a généralement 5 cycles
 
 ### Le nettoyage des classes
 
-Durant l'année, 3 tours de nettoyage des classes sont assurés par les parents. Ces moments sont planifier à l'avance.
+Durant l'année, 3 tours de nettoyage des classes sont assurés par les parents. Ces moments sont planifiés à l'avance.
 
 ## Les temps forts de l'année scolaire
 
