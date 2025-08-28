@@ -83,8 +83,8 @@ Cet engagement parental est l'une des spécificités et des forces de notre proj
 
 ## Informations pratiques
 
-**Pour l'année 2024-2025**, la liste de demandes de préinscription est déjà clôturée.
+**Pour l'année 2025-2026**, la liste de demandes de préinscription est déjà clôturée.
 
-**Pour l'année 2025-2026**, nous vous invitons à consulter notre site web à partir d'octobre 2025 pour connaître les dates des prochaines séances d'information.
+**Pour l'année 2026-2027**, nous vous invitons à consulter notre site web à partir d'octobre 2025 pour connaître les dates des prochaines séances d'information.
 
 _Merci de noter que pour des raisons organisationnelles, nous ne sommes pas en mesure de répondre aux demandes individuelles par téléphone concernant les inscriptions. Toutes les informations nécessaires seront communiquées lors des séances d'information et sur notre site web._

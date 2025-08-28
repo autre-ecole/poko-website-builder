@@ -30,6 +30,8 @@ Le ROI détaille les règles de vie commune et les aspects pratiques du fonction
 <a href="/assets/files/ROI_fondamental-2024.pdf">Télécharger le Règlement d'Ordre Intérieur</a>
 </p>
 
+{#
+
 ### Règlement des Études
 
 Ce document précise notre approche de l'évaluation, l'organisation des apprentissages et le suivi du parcours scolaire des enfants.
@@ -38,6 +40,8 @@ Ce document précise notre approche de l'évaluation, l'organisation des apprent
 ?? {% icon "tabler:download" %}
 <a href="/assets/files/Reglement_des_etudes.pdf">Télécharger le Règlement des Études</a>
 </p>
+
+#}
 
 ### Projet d'établissement
 
@@ -55,6 +59,8 @@ En cas d'absence de votre enfant en âge d'obligation scolaire (dès 5 ans), vou
 {% icon "tabler:download" %}
 <a href="/assets/files/Justificatif-Absence-AE.pdf">Télécharger le justificatif d'absence</a>
 </p>
+
+{#
 
 ### Formulaires d'autorisation
 
@@ -78,6 +84,8 @@ Retrouvez les dates importantes de l'année scolaire (congés, fêtes, journées
 ?? {% icon "tabler:download" %}
 <a href="/assets/files/Calendrier-scolaire-2024-2025.pdf">Calendrier scolaire 2024-2025</a>
 </p>
+
+#}
 
 ## Outils pédagogiques
 
@@ -103,11 +111,7 @@ Les parents de l'Autre École reçoivent l'agenda, actualisé tout au long de l'
 
 ### Séances d'information pour les nouvelles familles
 
-Si le projet de vie de l'Autre École vous intéresse, prenez bonne note de la date de nos séances d'information :
-
-**Pour l'année scolaire 2025-2026, les séances d'information auront lieu le mardi 10 décembre 2024, à 16h30 et à 17h30.**
-
-Pour plus d'informations sur le processus d'inscription, consultez notre [page dédiée aux inscriptions](/inscription/).
+Si le projet de vie de l'Autre École vous intéresse, rendez-vous sur la [page dédiée aux inscriptions](/inscription/) pour connaitre les modalités ainsi que la date de notre prochaine séance d'information.
 
 ## Réseau Freinet et partenaires
 

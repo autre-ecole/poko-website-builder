@@ -9,14 +9,14 @@
   alt="{{ item.data.name }}"
   loading="lazy"
   aria-hidden="true"
-  width="450"
+  width="350"
 />
 <img
   class="person front"
   src="{{ item.data.preview.image.src }}"
   alt="{{ item.data.name }}"
   loading="lazy"
-  width="450"
+  width="350"
 />
 </figure>
 <p><strong>{{ item.data.name }}</strong></p>
@@ -38,11 +38,20 @@
 </div>
 
 {% css %}
-.people.grid-auto { --width-column-min: calc(var(--width-max) / 6); --width-column-max: calc(var(--width-max) / 3); }
-.people.grid-auto .front-and-back { margin: 0; box-shadow: var(--box-shadow-grid); border-radius: var(--border-radius-grid); overflow: hidden; }
+.people.grid-auto {
+  --width-column-min: calc(var(--width-max) / 8);
+  --width-column-max: calc(var(--width-max) / 3);
+}
+.people.grid-auto .front-and-back {
+  margin: 0;
+  box-shadow: var(--box-shadow-grid);
+  border-radius: var(--border-radius-grid);
+  overflow: hidden;
+}
 .person.front { background: var(--color-bg); }
 .person { max-inline-size: 450px; aspect-ratio: 1; }
 .people .h5 { margin-block-start: 0; }
+
 /* Front and back animation */
 .front-and-back > .front { opacity: 1; transition: opacity 0.1s ease-in-out; }
 .front-and-back:hover > .front { opacity: 0; }

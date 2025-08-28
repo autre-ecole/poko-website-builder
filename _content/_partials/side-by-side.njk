@@ -1,7 +1,7 @@
 <div class="side-dy-side">
   {% for block in blocks %}
     {% if block.type == "image" %}
-<img src="{{ block.src }}" alt="{{ block.alt }}" />
+<div><img src="{{ block.src }}" alt="{{ block.alt }}" eleventy:widths="250,450,650" /></div>
     {% endif %}
   {% endfor %}
 </div>
@@ -10,5 +10,9 @@
 .side-dy-side {
     display: flex;
     flex-direction: row;
-    gap: var(--step-0); }
+    gap: 1rem;
+    & img, & picture {
+        aspect-ratio: 1.68;
+    }
+}
 {% endcss %}

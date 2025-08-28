@@ -220,8 +220,8 @@ main > picture {
 
 /* Galleries */
 .gallery.grid-auto {
-  --width-column-min: calc(var(--width-max) / 7);
-  --width-column-max: calc(var(--width-max) / 2);
+  --width-column-min: calc(var(--width-max) / 8);
+  --width-column-max: calc(var(--width-max) / 3);
   & img {
     aspect-ratio: 1;
   }

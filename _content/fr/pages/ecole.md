@@ -5,6 +5,7 @@ name: L'école
 eleventyNavigation:
   order: 2
 ---
+
 # L'Autre École
 
 Un lieu de vie et d'épanouissement {.h2}
@@ -46,7 +47,7 @@ La vie quotidienne à l'Autre École est rythmée par des moments collectifs str
 
 Notre projet d'établissement détaille les objectifs pédagogiques et les moyens mis en œuvre pour les atteindre, en conformité avec les prescrits légaux et les Options Fondamentales de l'école. Il est régulièrement actualisé par l'équipe pédagogique et le pouvoir organisateur pour rester en phase avec les besoins des enfants et l'évolution de la société.
 
-_Pour plus d'informations pratiques sur le fonctionnement quotidien de l'école, consultez notre [Règlement d'Ordre Intérieur et notre Règlement des Études]({{ "ressources" | locale_url }})._
+_Pour plus d'informations pratiques sur le fonctionnement quotidien de l'école, vous trouverez nos documents institutionnels sur notre [page dédiée aux ressources]({{ "ressources" | locale_url }})._
 
 ## Une école participative
 
