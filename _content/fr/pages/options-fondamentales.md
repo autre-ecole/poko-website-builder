@@ -39,7 +39,7 @@ L'école est un lieu de vie. Place donc à la spontanéité, au désordre, à la
 
 ### La convivialité
 
-Nous participons à un projet commun avec les contacts humains qui en découlent. Nous vivons l'espri t de communauté : nous formons un ensemble, chacun se sent membre d'un groupe social au sein duquel chacun partage une expérience et poursuit des buts communs.
+Nous participons à un projet commun avec les contacts humains qui en découlent. Nous vivons l'esprit de communauté: nous formons un ensemble, chacun se sent membre d'un groupe social au sein duquel chacun partage une expérience et poursuit des buts communs.
 
 L'envie de rencontre, de contacts est un élément important pour nous et nous y répondons notamment par le maintien d'un établissement de petite taille et la diminution des cloisonnements qui permettent une très large rencontre entre les personnes de tous âges et de toutes fonctions.
 
@@ -55,7 +55,7 @@ Nous sommes opposés à toute forme d'endoctrinement et à toute forme d'autorit
 
 "Ma liberté commence là où commence celle des autres", Albert Jacquard implique que la liberté ne préexiste pas, elle se construit et s'articule sur plusieurs éléments:
 
-- la prise de conscience de soi et l’affirmation de soi, la découverte des autres, la rencontre, la négociation, la concessio n et après accord, l'entente. La structuration de la vie à l'école en foncti on des objectifs pédagogiques;
+- la prise de conscience de soi et l’affirmation de soi, la découverte des autres, la rencontre, la négociation, la concession et après accord, l'entente. La structuration de la vie à l'école en fonction des objectifs pédagogiques;
 - les contraintes de la réalité qu'il s'agit de prendre en compte, sans lesquels toute vie sociale est rendue pénible : l'horaire, la sécurité, le respect des espac es, le respect du matériel...;
 - l'ouverture à l'autre (c'est-à-dire l'acceptation de l'autre comme être différent): nous sommes pour une société sans guerre, ni racisme ni sexisme ni autres formes de discrimination et d'exploitation de l'être humain;
 - l'intérêt général: il s'agit d'être sensible aux besoins des groupes dont on fait partie, d'accepter leurs choix en ce sens, même lorsque cela nous oblige à relativiser nos désirs individuels.
@@ -64,15 +64,15 @@ Ces notions ne sont pas tellement faciles à mettre en pratique car, dans notre 
 
 ### La responsabilité
 
-Nous observons qu'une certaine confusion entre laisser-aller, laxisme, renoncement, confort et liberté dans la société, la famille, l'école, entrave le développement de la responsabilité. Cela ne nous satisfait pas. Car si nous sommes résolument adversaires des contraintes arbitraires, nous pensons qu'il est fondamental d'être responsable de soi, de ses sentiments, de ses paroles, de ses actes et d'être coresponsable de ce que l'on partage avec d'autres, c'est-à-dire d'assumer chaq ue situation dans sa complexité, dans sa totalité, donc aussi avec ses aspects pénibles ou difficiles.
+Nous observons qu'une certaine confusion entre laisser-aller, laxisme, renoncement, confort et liberté dans la société, la famille, l'école, entrave le développement de la responsabilité. Cela ne nous satisfait pas. Car si nous sommes résolument adversaires des contraintes arbitraires, nous pensons qu'il est fondamental d'être responsable de soi, de ses sentiments, de ses paroles, de ses actes et d'être coresponsable de ce que l'on partage avec d'autres, c'est-à-dire d'assumer chaque situation dans sa complexité, dans sa totalité, donc aussi avec ses aspects pénibles ou difficiles.
 
 ### La coopération et la solidarité
 
-Nous sommes opposés à l'esprit de compétition, aux rapports de force. Nous voulons vivre et développer la coopération et la solidarité. Chaque membre d'une équipe peut y avoir sa place, s'y exprimer, contribuer en fonction de ce qu'il est, dans la perspective d'une réalisation commune dont le groupe ou un responsable désigné est le garant. La confrontation cédera le plus souvent la place à la négociation et au partenariat. Nous voulons faire face ensemble aux problèmes qui se présentent, être à côté de ceux qui sont en difficulté. La solidarité est antinomique de l'exclusion et d'un accès inégal à la culture et à l'instruction. La coopération et la solidarité sont promues à l'Autre École, elles s'inscrivent aussi dans un cadre plus global où elles se traduisent par des rapports solidaires avec les déshérités de la planète et un devoir de respect de l'environnement, bien com mun de l'humanité. L'existence même de l'Autre École repose sur la coopération et la solidarité des familles qui la composent. Dans la classe, un temps important est consacré à la gestion de la vie collective.
+Nous sommes opposés à l'esprit de compétition, aux rapports de force. Nous voulons vivre et développer la coopération et la solidarité. Chaque membre d'une équipe peut y avoir sa place, s'y exprimer, contribuer en fonction de ce qu'il est, dans la perspective d'une réalisation commune dont le groupe ou un responsable désigné est le garant. La confrontation cédera le plus souvent la place à la négociation et au partenariat. Nous voulons faire face ensemble aux problèmes qui se présentent, être à côté de ceux qui sont en difficulté. La solidarité est antinomique de l'exclusion et d'un accès inégal à la culture et à l'instruction. La coopération et la solidarité sont promues à l'Autre École, elles s'inscrivent aussi dans un cadre plus global où elles se traduisent par des rapports solidaires avec les déshérités de la planète et un devoir de respect de l'environnement, bien commun de l'humanité. L'existence même de l'Autre École repose sur la coopération et la solidarité des familles qui la composent. Dans la classe, un temps important est consacré à la gestion de la vie collective.
 
 ### Le travail
 
-«Je dis: éducation par le travail. Qu'on n'entende pas aussitôt: éducation par le travail manuel, comme si le travail devait désigner exclusivement l'activité manuelle. Elle est cela, il est vrai, à l'origine, mais sans que cette activité ne soit jamais arbitrairement séparée d'une hau te spiritualité qui l'illumine, isolée du processus vital dont elle est un élément, aussi bien que du processus social qui la conditionne. Cette idée d'éducation par le travail ne signifie pas, non plus, que dans l'école nouvelle que je crois nécessaire à la société actuelle, on se contentera de jardiner, de soigner les bêtes et les plantes, de clouer, de maçonner et de forger. C'est là la conception méprisante du travail qui laisse aux uns la charge aride de l'effort musculaire et de l'habileté manuelle - comme à une machine à laquelle on demande seulement d'assurer, avec un minimum de sollicitude, les gestes socialement indispensables - pour réserver à d'autres les besognes nobles où la pensée reste prépondérante. Le travail est un tout: il peut y avoir a utant de bon sens, d'intelligence, d'utile et philosophique spéculation dans le cerveau de l'homme qui bâtit un mur que dans celui du savant cherchant dans son laboratoire. Seulement, chacun exerce ses fonctions selon ses tendances et ses possibilités et, dans un État bien organisé, elles auraient toutes leur éminente noblesse.»  
+«Je dis: éducation par le travail. Qu'on n'entende pas aussitôt: éducation par le travail manuel, comme si le travail devait désigner exclusivement l'activité manuelle. Elle est cela, il est vrai, à l'origine, mais sans que cette activité ne soit jamais arbitrairement séparée d'une hau te spiritualité qui l'illumine, isolée du processus vital dont elle est un élément, aussi bien que du processus social qui la conditionne. Cette idée d'éducation par le travail ne signifie pas, non plus, que dans l'école nouvelle que je crois nécessaire à la société actuelle, on se contentera de jardiner, de soigner les bêtes et les plantes, de clouer, de maçonner et de forger. C'est là la conception méprisante du travail qui laisse aux uns la charge aride de l'effort musculaire et de l'habileté manuelle - comme à une machine à laquelle on demande seulement d'assurer, avec un minimum de sollicitude, les gestes socialement indispensables - pour réserver à d'autres les besognes nobles où la pensée reste prépondérante. Le travail est un tout: il peut y avoir autant de bon sens, d'intelligence, d'utile et philosophique spéculation dans le cerveau de l'homme qui bâtit un mur que dans celui du savant cherchant dans son laboratoire. Seulement, chacun exerce ses fonctions selon ses tendances et ses possibilités et, dans un État bien organisé, elles auraient toutes leur éminente noblesse.»  
 Célestin FREINET, L'Éducation du travail.
 
 Outre une nécessité économique, le travail est un élément essentiel d’épanouissement de la personne et de la société, à condition qu’il s’agisse d’un travail à la fois socialement utile et librement choisi, qui intéresse le travailleur, sur lequel celui-ci a un pouvoir et dont il se sent responsable.
@@ -117,11 +117,11 @@ Nous sommes conscients que notre société propose une monoculture qui favorise,
 
 Le pluralisme culturel, indispensable si nous voulons réussir une école à l’écoute de l’autre, est le fruit d’une lutte quotidienne contre une pression sociale omniprésente.
 
-# Chapitre 2: la pédagogie
+## Chapitre 2: la pédagogie
 
 Le choix de vie et de société que fait l'Autre École se traduit dans sa pratique quotidienne. L'Autre École se veut un lie u de vie où chacun a sa place. Nous considérons l'enfant comme un être à part entière, promouvons l'expression libre, la créativité et la vie coopérative et tenons compte des dimensions intellectuelle et af fective. Nous favorisons l'auto -évaluation, la prise de conscience et la prise de responsabilité. Nous avons le souci de développer l’esprit critique.
 
-## L'enfant: un être à part entière
+### L'enfant: un être à part entière
 
 À l'Autre École, le but de l'éducation est de permettre à chaque enfant d'être autant que possible lui -même et de vivre ses rapports sociaux en foncti on de ce qu'il est profondément. L'enfant qui arrive à l'école a déjà un long passé qui est son histoire, affective et sociale, l'histoire de ses premières années, qui semblent décisives, et aussi l'histoire de sa famille, de sa classe sociale, de son entourage civique, qui est inscrite en lui. L'enfant est un être naturellement évolutif qui porte en lui ses propres potentialités, son rythme personnel, ses choix propres. Dès lors, nous essayons de tenir compte, en permanence, de ces facteurs dans notre relation avec l'enfant.
 
@@ -135,7 +135,7 @@ renoncement. Même s'ils sont parfois invités à "peindre comme..., écrire com
 
 autre chose dans leurs créations propres. Ainsi, ils s'ouvrent à la culture environnante et se créent leur propre mode d'expression.
 
-## La vie coopérative
+### La vie coopérative
 
 Considérer un enfant comme un être à part entière, c'est, entre autres choses, accepter son désaccord, son rejet et comprendre qu'ils peuvent parfois se traduire de manière violente. 
 
@@ -168,7 +168,6 @@ A l’Autre Ecole, il n’y a ni points, ni comparaison entre enfants ou classem
 Mais l’évaluation est nécessaire, elle est l’occasion de faire le point pour l’enfant comme pour l’adulte. Elle va tenir compte de l’enfant dans sa globalité et de son évolution. A l’Autre Ecole, elle revêt trois aspects importants: 
 
 - **L’autoévaluation de l’enfant:** L’enfant est amené progressivement à évaluer son travail, son attitude avec les autres, sa manière de respecter les règles, ses savoirs faire ainsi que ses acquis. L’enfant peut ainsi construire la vision qu’il a de lui-même et la confronter à celle de l’adulte. 
-
 - **L’évaluation de l’enfant par le groupe** se fait plutôt au travers de la vie quotidienne, des conseils de classe et des présentations de travaux réalisées par lui.
 
 Ils donneront leur avis quand un enfant présente un texte, une conférence, … au groupe. Ils pourront aussi relever un comportement qui dérange, rappeler à l’un d’entre eux une règle à respecter ou au contraire féliciter un enfant. 
@@ -185,7 +184,7 @@ En s'évaluant lui-même, en confrontant cette évaluation avec celles de l'anim
 
 Nous le voyons, ces choix et pratiques pédagogiques amènent l'enfant à une prise de conscience des réalités tant personnelles que collectives et à jouer un rôle actif dans la vie du groupe en y assumant sa part de responsabilité.
 
-# Chapitre 3: **L’organisation&#160;**
+## Chapitre 3: **L’organisation&#160;**
 
 L'Autre École fonctionne selon les principes de cogestion et de participation dans le respect des valeurs fondamentales. Celles-ci servent de référence ultime pour arbitrer les divergences, décider, élire. **L'adhésion à ces valeurs est une condition d'admission à l'a.s.b.l. Animation-Éducation&#32;**qui est le pouvoir organisateur de l'Autre École et dont sont membres les animateurs et tous les parents. 
 
@@ -246,10 +245,10 @@ Un rapport de chaque réunion du Conseil d'administration est publié dans le Bi
 Dans chaque classe, il existe un Conseil de classe qui rassemble les enfants du groupe, leur animateur et éventuellement des invités (stagiaires, autres animateurs permanents ou animateurs occasionnels). Chez les moins de six ans, ce Conseil de classe se réunit fréquemment, sans qu'une fréquence fixe soit déterminée. Chez les plus de six ans, le Conseil de classe se réunit: 
 
 - toutes les semaines (dans la mesure du possible), pour rappeler les décisions du Conseil précédent, lire le rapport du Conseil d’école, élaborer les projets de la semaine, pour faire le bilan de la semaine et traiter plus en profondeur différents points. 
-
 - de manière occasionnelle sur demande d'un de ses membres ou lorsque la situation l'exige: conflit ouvert, difficultés importantes dans la vie du groupe, etc. 
 
 Le Conseil de classe traite:
+
 - des projets du groupe et des sous-groupes ; ces projets y sont définis, élaborés, parfois codifiés. On peut retrouver parmi ces projets la création d’un journal, l’élaboration des sorties, les visites, les grands thèmes d'activité, les travaux d'équipe. Les responsabilités y sont réparties et contrôlées;
 - de l'organisation des services communs;
 - des rapports que présentent les enfants qui ont pris des responsabilités devant le groupe, par exemple, le trésorier qui gère la caisse de la classe;
@@ -382,13 +381,9 @@ Des membres avec voix consultative:
 **Missions du Conseil de Participation&#160;**
 
 - Projet d’Etablissement : débattre, amender, compléter et proposer des adaptations en lien avec le plan de pilotage (si nécessaire). Le proposer ensuite à l’approbation du Pouvoir Organisateur. 
-
-- Contrat d’Objectifs : remettre un avis sur le plan de pilotage avant qu’il ne soit remis au DCO; bénéficier de retours sur l’évaluation de la mise en oeuvre du Contrat d’Objectifs_.&#160;_
-
+- Contrat d’Objectifs : remettre un avis sur le plan de pilotage avant qu’il ne soit remis au DCO; bénéficier de retours sur l’évaluation de la mise en oeuvre du Contrat d’Objectifs_. _
 - Frais scolaires : mener une réflexion globale sur les frais liés aux activités culturelles et sportives s’inscrivant dans le Projet d’Etablissement. Etudier et proposer la mise en place d’un mécanisme de solidarité entre les élèves pour le paiement des frais. Vérifier l’application du décret Gratuité. 
-
 - Le Règlement d’Ordre Intérieur: débattre, amender, compléter le cas échéant (par consensus). 
-
 - Autres propositions de soutien au Conseil d’Administration de l’asbl Animation-Education.
 
 Les tâches citées ci-dessus ont déjà été menées et revues à différents moments de l’existence de l’Autre École. Elles restent susceptibles d’être remises au travail.
