@@ -68,6 +68,10 @@ Les enfants disposent d'espaces variés:
 
 Dans le respect de notre vision de l'enfant comme un être responsable, les déplacements à l'intérieur de l'école se font de manière autonome. Cette liberté de circulation, encadrée par des règles établies collectivement, favorise le développement de l'autonomie et de la responsabilité.
 
+### Le nettoyage des classes
+
+Durant l'année, 3 tours de nettoyage des classes sont assurés par les parents. Ces moments sont planifiés à l'avance.
+
 ## Les moments collectifs structurants
 
 ### Le Forum
@@ -108,10 +112,6 @@ Les thèmes proposés sont variés:
 - …
 
 L'enfant choisit l'atelier auquel il participera. Il y a généralement 5 cycles d'ateliers par an, permettant ainsi à chacun de découvrir différentes activités.
-
-### Le nettoyage des classes
-
-Durant l'année, 3 tours de nettoyage des classes sont assurés par les parents. Ces moments sont planifiés à l'avance.
 
 ## Les temps forts de l'année scolaire
 
