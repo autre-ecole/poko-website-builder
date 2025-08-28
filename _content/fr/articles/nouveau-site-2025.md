@@ -117,8 +117,8 @@ Ce site, comme le reste de l'école, est conçu comme un espace collaboratif, o�
 - **Partage des retours**: ce qui fonctionne bien, ce qui pourrait être amélioré...
 - **Signale les problèmes**: liens cassés, informations à mettre à jour...
 
-Aucune compétence technique n'est requise pour participer à l'évolution du site. Tu peux simplement contacter Tess ou Marc pour partager tes contributions ou discuter de tes idées.
+Aucune compétence technique n'est requise pour participer à l'évolution du site. Tu peux simplement contacter la commission informatique ({{commission-informatique@autre-ecole.org | emailLink}}) pour partager tes contributions ou discuter de tes idées.
 
 ---
 
-_Ce site a été développé bénévolement pour l'Autre École. Si tu es intéressé par des solutions web similaires pour ton organisation, n'hésite pas à contacter Tess ou Marc pour en parler. C'est&#32;[notre métier](https://www.mookai.be)._
+_Ce site a été développé bénévolement pour l'Autre École. Si tu es intéressé par des solutions web similaires pour ton organisation, n'hésite pas à contacter&#32;[Tess](https://www.tess-h.be/)&#32;ou&#32;[Marc](https://www.m4rr.co/fr/)&#32;pour en parler. C'est&#32;[notre métier](https://www.mookai.be)._
