@@ -1,10 +1,9 @@
 ---
-status: draft
+status: published
 name: Nouveau site 2025
 author: Marc
 date: 2025-08-27
 ---
-
 # Un nouveau site éco-conçu pour l'Autre École
 
 Il était temps, non? 😅
@@ -28,7 +27,7 @@ Le 23 janvier 2025 à 13:29, Grégoire répond qu'il est "plutôt vachement enth
 L'ancien site, basé sur WordPress, était structuré comme un blog, format peu adapté aux besoins de l'école. Sa maintenance était devenue un fardeau et l'hébergement utilisé, hors de prix.
 
 Depuis près de huit ans, Marc se passionne pour les sites web éco-conçus, utilisant l'approche [Jamstack](https://jamstack.org/).  
-On vous passe les détails mais cette passion a conduit Marc à concevoir plusieurs systèmes de gestion de site web. Le dernier en date est _[poko](https://github.com/m4rrc0/poko-website-builder)_, un outil de création de sites web qui incarne ses valeurs: simplicité, écologie numérique, performance, accessibilité, autonomie, ...  
+On vous passe les détails mais cette passion a conduit Marc à concevoir plusieurs systèmes de gestion de site web. Le dernier en date est [_poko_](https://github.com/m4rrc0/poko-website-builder), un outil de création de sites web qui incarne ses valeurs: simplicité, écologie numérique, performance, accessibilité, autonomie, ...  
 L'Autre École a inspiré la naissance de ce projet et ce site est seulement le deuxième basé sur _poko_.
 
 ## Les valeurs au cœur du projet
@@ -46,6 +45,8 @@ Notre approche repose sur une conception beaucoup plus minimaliste:
 Comparé à la version précédente, le nouveau site est significativement plus léger.
 
 Tu te souviens de l'ancien site? Dis-nous si tu sens la différence en naviguant sur celui-ci.
+
+<img src="/_images/ancien-site-ae.webp" alt="" />
 
 ### Performances et accessibilité
 
@@ -106,7 +107,7 @@ Ce nouveau site web représente bien plus qu'une simple mise à jour technique. 
 
 Le web évolue constamment, et nous avons fait le choix d'une solution qui se concentre sur l'essentiel: un contenu clair, accessible rapidement, sur une infrastructure légère et durable. Cette approche permet non seulement d'améliorer l'expérience de tous les utilisateurs aujourd'hui, mais aussi d'assurer la pérennité du site pour les années à venir.
 
-L'outil _[poko](https://github.com/m4rrc0/poko-website-builder)_ qui a servi à construire ce site vise à démocratiser la création de sites web éco-conçus et accessibles. On est fiers que l'Autre École puisse bénéficier de cette approche et devenir un exemple de choix numériques responsables.
+L'outil [_poko_](https://github.com/m4rrc0/poko-website-builder) qui a servi à construire ce site vise à démocratiser la création de sites web éco-conçus et accessibles. On est fiers que l'Autre École puisse bénéficier de cette approche et devenir un exemple de choix numériques responsables.
 
 ### Participez à l'évolution du site!
 
@@ -120,4 +121,4 @@ Aucune compétence technique n'est requise pour participer à l'évolution du si
 
 ---
 
-_Ce site a été développé bénévolement pour l'Autre École. Si tu es intéressé par des solutions web similaires pour ton organisation, n'hésite pas à contacter Tess ou Marc pour en parler. C'est [notre métier](https://www.mookai.be)._
+_Ce site a été développé bénévolement pour l'Autre École. Si tu es intéressé par des solutions web similaires pour ton organisation, n'hésite pas à contacter Tess ou Marc pour en parler. C'est&#32;[notre métier](https://www.mookai.be)._
