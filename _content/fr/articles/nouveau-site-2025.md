@@ -117,7 +117,7 @@ Ce site, comme le reste de l'école, est conçu comme un espace collaboratif, o�
 - **Partage des retours**: ce qui fonctionne bien, ce qui pourrait être amélioré...
 - **Signale les problèmes**: liens cassés, informations à mettre à jour...
 
-Aucune compétence technique n'est requise pour participer à l'évolution du site. Tu peux simplement contacter la commission informatique ({{commission-informatique@autre-ecole.org | emailLink}}) pour partager tes contributions ou discuter de tes idées.
+Aucune compétence technique n'est requise pour participer à l'évolution du site. Tu peux simplement contacter la commission informatique ({{ "commission-informatique@autre-ecole.org" | emailLink}}) pour partager tes contributions ou discuter de tes idées.
 
 ---
 
