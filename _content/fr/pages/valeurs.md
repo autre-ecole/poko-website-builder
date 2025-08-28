@@ -3,10 +3,9 @@ translationKey: valeurs
 status: published
 name: Valeurs
 ---
-
 # Les options fondamentales
 
-L'Autre École s'inspire des idées politiques et pédagogiques de Célestin Freinet. Quelles sont nos valeurs ? Ce sont les convictions profondes qui guident notre jugement pour déterminer si une fin ou un moyen est souhaitable ou non.
+L'Autre École s'inspire des idées politiques et pédagogiques de Célestin Freinet. Quelles sont nos valeurs? Ce sont les convictions profondes qui guident notre jugement pour déterminer si une fin ou un moyen est souhaitable ou non.
 
 Nous fondons notre action sur les principes complémentaires de solidarité sociale et d'épanouissement individuel qui se traduisent notamment par:
 
@@ -19,11 +18,11 @@ L'Autre École entend appliquer ces principes dans sa pédagogie, dans son organ
 
 ### La vie
 
-L'école est un lieu de vie. Place donc à la spontanéité, au désordre, à la joie, aux conflits, au doute, au mouvement… Ceci ne veut pas dire que l'ordre, la décision, l'effort n'ont pas de sens : nous croyons que ce sont aussi des aspects de la vie, mais nous ne voulons pas qu'ils occupent une place exclusive, totalitaire.
+L'école est un lieu de vie. Place donc à la spontanéité, au désordre, à la joie, aux conflits, au doute, au mouvement… Ceci ne veut pas dire que l'ordre, la décision, l'effort n'ont pas de sens: nous croyons que ce sont aussi des aspects de la vie, mais nous ne voulons pas qu'ils occupent une place exclusive, totalitaire.
 
 ### La convivialité
 
-Nous participons à un projet commun avec les contacts humains qui en découlent. Nous vivons l'esprit de communauté : nous formons un ensemble où chacun se sent membre d'un groupe social au sein duquel chacun partage une expérience et poursuit des buts communs.
+Nous participons à un projet commun avec les contacts humains qui en découlent. Nous vivons l'esprit de communauté: nous formons un ensemble où chacun se sent membre d'un groupe social au sein duquel chacun partage une expérience et poursuit des buts communs.
 
 L'envie de rencontre, de contacts est un élément important pour nous et nous y répondons notamment par le maintien d'un établissement de petite taille et la diminution des cloisonnements qui permettent une très large rencontre entre les personnes de tous âges et de toutes fonctions.
 
@@ -37,12 +36,12 @@ Mais chaque être humain est unique, irremplaçable, singulier, différent. Cett
 
 Nous sommes opposés à toute forme d'endoctrinement et à toute forme d'autoritarisme. Nous sommes pour l'esprit critique et la liberté.
 
-"Ma liberté commence là où commence celle des autres", comme le dit Albert Jacquard. Pour nous, la liberté ne préexiste pas, elle se construit et s'articule sur plusieurs éléments :
+"Ma liberté commence là où commence celle des autres", comme le dit Albert Jacquard. Pour nous, la liberté ne préexiste pas, elle se construit et s'articule sur plusieurs éléments:
 
 - La prise de conscience de soi et l'affirmation de soi, la découverte des autres, la rencontre, la négociation, la concession et l'entente
-- Les contraintes de la réalité qu'il s'agit de prendre en compte : l'horaire, la sécurité, le respect des espaces, le respect du matériel
-- L'ouverture à l'autre : nous sommes pour une société sans guerre, ni racisme ni sexisme ni autres formes de discrimination
-- L'intérêt général : être sensible aux besoins des groupes dont on fait partie, accepter leurs choix même lorsque cela nous oblige à relativiser nos désirs individuels
+- Les contraintes de la réalité qu'il s'agit de prendre en compte: l'horaire, la sécurité, le respect des espaces, le respect du matériel
+- L'ouverture à l'autre: nous sommes pour une société sans guerre, ni racisme ni sexisme ni autres formes de discrimination
+- L'intérêt général: être sensible aux besoins des groupes dont on fait partie, accepter leurs choix même lorsque cela nous oblige à relativiser nos désirs individuels
 
 ### La responsabilité
 
@@ -60,7 +59,7 @@ Nous bannissons les ségrégations et prônons l'égalité dans le respect de la
 
 ### La démocratie
 
-Nous sommes pour l'augmentation du pouvoir du citoyen dans le système social. Nous voulons que chaque être humain ait le maximum de pouvoir sur lui-même et ce dont il fait partie. Nous essayons de mettre cela en pratique à l'Autre École : il n'y a pas de directeur tout-puissant, les enfants participent à l'élaboration d'une partie des règles régissant la vie de l'école, les parents ont accès aux données qui concernent la vie de l'école et disposent d'un pouvoir dans les organes de décision.
+Nous sommes pour l'augmentation du pouvoir du citoyen dans le système social. Nous voulons que chaque être humain ait le maximum de pouvoir sur lui-même et ce dont il fait partie. Nous essayons de mettre cela en pratique à l'Autre École: il n'y a pas de directeur tout-puissant, les enfants participent à l'élaboration d'une partie des règles régissant la vie de l'école, les parents ont accès aux données qui concernent la vie de l'école et disposent d'un pouvoir dans les organes de décision.
 
 ### Le pluralisme
 
@@ -70,8 +69,8 @@ Nous sommes pour la coexistence d'attitudes philosophiques, religieuses et polit
 
 Pour mieux comprendre comment ces valeurs se traduisent au quotidien dans notre école, vous pouvez consulter :
 
-- [Notre approche pédagogique](/pedagogie/) : comment ces valeurs s'incarnent dans les apprentissages
-- [La vie de l'école](/la-vie-de-l-ecole/) : l'organisation et le fonctionnement quotidien
-- [Le projet d'établissement](/projet-d-etablissement/) : la vision globale de notre école
+- [Notre approche pédagogique](/pedagogie/): comment ces valeurs s'incarnent dans les apprentissages
+- [La vie de l'école](/la-vie-de-l-ecole/): l'organisation et le fonctionnement quotidien
+- [Le projet d'établissement](/projet-d-etablissement/): la vision globale de notre école
 
 Vous pouvez consulter notre document complet "[Options fondamentales](/options_fondamentales.pdf)" qui détaille notre projet dans ses dimensions philosophiques, pédagogiques et organisationnelles.

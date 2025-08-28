@@ -11,7 +11,7 @@ name: Pédagogie
 
 ## Les fondements de notre pédagogie
 
-Notre approche pédagogique repose sur six piliers essentiels qui structurent la vie et les apprentissages à l'Autre École :
+Notre approche pédagogique repose sur six piliers essentiels qui structurent la vie et les apprentissages à l'Autre École:
 
 ### L'enfant: un être à part entière
 

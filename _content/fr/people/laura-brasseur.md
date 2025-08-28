@@ -11,7 +11,7 @@ preview:
 vars:
   role: Puéricultrice
   classroom: Classes fleurie, arc-en-ciel, paillettes
-  classCycle: (Classe d'accueil, M1, M2, M3)
+  classCycle: (Classes d'accueil, M1, M2, M3)
   ageGroup: '4'
 dataList:
   - type: image
