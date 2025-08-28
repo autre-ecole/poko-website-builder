@@ -7,25 +7,6 @@ eleventyNavigation:
 ---
 Site web en (re)construction {.callout}
 
-<!--
-<div class="prose box">
-
-- Présentation générale de l’école
-- Projet coopératif, freinet, pour le bien de l’enfant, …
-- Belles photos
-- Annonces importantes du moment?
-- Infographie Freinet
-
-1. historique et valeurs
-2. Actus
-3. Inscription
-4. Equipe et contact
-5. Doc parents
-6. Vie de l'école
-7. Divers ?
-</div>
--->
-
 # Bienvenue à l'Autre École
 
 Une école Freinet où chaque enfant est acteur de ses apprentissages dans un environnement coopératif et bienveillant.
@@ -38,7 +19,7 @@ L'Autre École est un établissement d'enseignement fondamental libre subvention
 
 Nous accueillons les enfants de 2½ à 12 ans dans un cadre à taille humaine où l'apprentissage se fait par la coopération, l'expression libre et la responsabilisation.
 
-{% section "switcher-width-prose.njk", {"blocks":[{"type":"markdown","value":"### Pédagogie active{% n %}{% n %}Une approche Freinet où l'enfant construit ses apprentissages à partir de ses expériences, de ses intérêts et de la vie coopérative.{% n %}{% n %}[En savoir plus sur notre pédagogie]({{ 'pedagogie' | locale_url }})"},{"value":"### Vie participative{% n %}{% n %}Une structure de cogestion unique où parents et équipe pédagogique s'engagent ensemble pour faire vivre le projet d'école.{% n %}{% n %}[Découvrir notre organisation]({{ 'projet-d-etablissement' | locale_url }})","type":"markdown"},{"value":"### Vivre ensemble{% n %}{% n %}Un lieu d'épanouissement où les enfants développent leur autonomie et leur sens des responsabilités dans le respect de chacun.{% n %}{% n %}[Nos valeurs]({{ \"valeurs\" | locale_url }})","type":"markdown"}]} %}
+{% section "switcher-width-prose.njk", {"blocks":[{"type":"markdown","value":"### Pédagogie active\n\nUne approche Freinet où l'enfant construit ses apprentissages à partir de ses expériences, de ses intérêts et de la vie coopérative.\n\n[En savoir plus sur notre pédagogie]({{ 'pedagogie' | locale_url }})"},{"value":"### Vie participative\n\nUne structure de cogestion unique où parents et équipe pédagogique s'engagent ensemble pour faire vivre le projet d'école.\n\n[Découvrir notre organisation]({{ 'projet-d-etablissement' | locale_url }})","type":"markdown"},{"value":"### Vivre ensemble\n\nUn lieu d'épanouissement où les enfants développent leur autonomie et leur sens des responsabilités dans le respect de chacun.\n\n[Nos valeurs]({{ \"valeurs\" | locale_url }})","type":"markdown"}]} %}
 
 <img src="/_images/bandeau-papier.webp" alt="" />
 
