@@ -46,7 +46,7 @@ Comparé à la version précédente, le nouveau site est significativement plus 
 
 Tu te souviens de l'ancien site? Dis-nous si tu sens la différence en naviguant sur celui-ci.
 
-<img src="/_images/ancien-site-ae.webp" alt="" />
+<img src="/_images/ancien-site-ae.webp" alt="a" />
 
 ### Performances et accessibilité
 
