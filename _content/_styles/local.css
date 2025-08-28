@@ -202,7 +202,7 @@ body > header {
 .callout {
   max-width: var(--width-prose);
   padding: 1rem;
-  border: 2px dotted #c09d74;
+  border: 2px dotted  var(--color-border);
   text-wrap: balance;
   text-align: center;
 }
