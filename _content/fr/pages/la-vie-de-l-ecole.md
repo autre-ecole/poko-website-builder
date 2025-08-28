@@ -68,7 +68,7 @@ Les enfants disposent d'espaces variés:
 
 Dans le respect de notre vision de l'enfant comme un être responsable, les déplacements à l'intérieur de l'école se font de manière autonome. Cette liberté de circulation, encadrée par des règles établies collectivement, favorise le développement de l'autonomie et de la responsabilité.
 
-### Le nettoyage des classes
+#### Le nettoyage des classes
 
 Durant l'année, 3 tours de nettoyage des classes sont assurés par les parents. Ces moments sont planifiés à l'avance.
 
