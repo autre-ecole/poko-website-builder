@@ -55,6 +55,8 @@ Une fois tous les dessins réalisés par les enfants (et les adultes!), on a tou
     - _Autoportrait sans regarder_: dessiner son visage sans lever les yeux vers la feuille.
     - _Autoportrait photographique_: dessiner à partir d’une photo de soi.
 
+<img src="/_images/autoportraits-ex-oona.webp" alt="" />
+
 ## L’excitation des premiers cartons
 
 Quand la première livraison est arrivée, on était surexcitées. Les cartons ont à peine touché le sol qu’on les ouvrait déjà, comme des enfants à Noël.
