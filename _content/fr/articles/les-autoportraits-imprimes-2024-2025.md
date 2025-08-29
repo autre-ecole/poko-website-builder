@@ -70,14 +70,12 @@ Au bout de deux jours d’utilisation… catastrophe. Les impressions commençai
 
 On ne voulait pas livrer de la mauvaise qualité. Pas question de transformer ce joli projet-souvenir en déception!
 
-## Discussions improbables au service après-vente
+## Discussions improbables avec le SAV
 
 On a tenté de discuter avec l’imprimeur.
 On a expliqué. Réexpliqué. Téléphoné. Insisté.
 
-Sa seule proposition? Une tombola pour financer une nouvelle impression. (Oui, oui… une tombola. On n’a pas trop compris non plus 😂).
-
-Bref, pas de solution viable. Et de son côté, plus trop de réponses. Silence radio.
+Sa seule proposition? Une tombola pour financer une nouvelle impression. (Oui, oui… une tombola. On n’a pas trop compris non plus 😂). Bref, pas de solution viable. Et de son côté, plus trop de réponses. Silence radio.
 
 ## Sauvetage en mode détectives
 
