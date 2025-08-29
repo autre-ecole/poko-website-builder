@@ -90,6 +90,8 @@ Grâce à ce nouvel imprimeur situé à Nivelles, les essuies ont pu être impri
 
 Et cerise sur le gâteau: les bénéfices ont bien été reversés à l’école.
 
+{% partial "autoportraits-bons-print.md" %}
+
 ## Ce qu’on retient (et ce qu’on partage)
 
 Parce qu’on aimerait que d’autres puissent lancer le même projet sans les mêmes galères, voilà les infos clés:
