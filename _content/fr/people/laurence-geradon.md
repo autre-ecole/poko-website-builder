@@ -13,6 +13,7 @@ vars:
   classroom: Classes rouge, mauve, orange, jaune
   classCycle: (P1,P2, P5, P6)
   ageGroup: '11'
+  previewImgStyle: style="object-position:center 15%;"
 dataList:
   - type: image
     key: imgVerso
