@@ -86,7 +86,7 @@ Finalement, on a trouvé **le bon imprimeur**: qualité au rendez-vous, impressi
 
 ## Mission accomplie
 
-Grâce à ce nouvel imprimeur, les essuies ont pu être imprimés dans les temps. Les dessins des enfants (et des adultes !) sont mis en valeur, l’impression tient au lavage, et on peut être fières de ce souvenir d’année qui a trouvé sa place dans les maisons.
+Grâce à ce nouvel imprimeur situé à Nivelles, les essuies ont pu être imprimés tout juste dans les temps. Les dessins des enfants (et des adultes!) sont mis en valeur, l’impression tient au lavage, et on peut être fières de ce souvenir d’année qui a trouvé sa place dans les maisons.
 
 Et cerise sur le gâteau: les bénéfices ont bien été reversés à l’école.
 
