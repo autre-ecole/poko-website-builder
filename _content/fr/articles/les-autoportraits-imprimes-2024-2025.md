@@ -11,11 +11,15 @@ Un joli souvenir collectif, unique, qui resterait longtemps dans les cuisines et
 
 Le principe: chaque enfant, chaque prof, chaque membre de l’équipe dessine son autoportrait → on assemble le tout → et hop, on fait imprimer sur essuie. Facile, non?
 
+<img src="/_images/autoportraits-briefing.webp" alt="Autoportraits briefing" />
+
 ## Le matériel
 
 Pour que tout se mette en route, l’imprimeur nous a envoyé le matériel de base: des feuilles avec un cadre bien défini pour les dessins et un autre pour les prénoms, pile au bon format. Avec ça, pas de débordements et un rendu bien net (encore merci à tous les animateurs pour leur aide avec les plus petits). 
 Il nous a aussi fourni des feutres noirs d’épaisseur idéale. Résultat: des dessins facilement scannés et vectorisés ensuite, sans perte de qualité.
 Une fois tous les dessins réalisés par les enfants (et les adultes!), on a tout rassemblé et renvoyé à l’imprimeur pour la suite.
+
+{% partial "gallery-autoportraits-materiel.md" %}
 
 ## Un autoportrait, comment on fait?
 
