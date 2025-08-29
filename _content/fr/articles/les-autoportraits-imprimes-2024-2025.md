@@ -59,7 +59,7 @@ Une fois tous les dessins réalisés par les enfants (et les adultes!), on a tou
 
 ## L’excitation des premiers cartons
 
-Quand la première livraison est arrivée, on était surexcitées. Les cartons ont à peine touché le sol qu’on les ouvrait déjà, comme des enfants à Noël.
+Quand la première livraison est arrivée (au mois de mai), on était surexcitées, comme des enfants à Noël.
 On n’a pas résisté: on a testé les essuies directement.
 
 ## Chapitre 2: Le crash test (et la douche froide)
