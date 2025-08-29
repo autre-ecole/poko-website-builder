@@ -101,14 +101,14 @@ Parce qu’on aimerait que d’autres puissent lancer le même projet sans les m
 
 → Pour info, voilà les deux imprimeurs qu’on a testés:
 
-- **Premier imprimeur (à éviter)**: [La Souris Verte](https://www.lasouris-verte.fr)
+- **Premier imprimeur (à éviter)**: [La Souris Verte](https://www.lasouris-verte.fr) (Pegasus)
 - **Celui qui a sauvé le projet**: [inkoo](https://www.inkoo.eu/)
 
 Et si tu veux te lancer, n’hésite pas à nous contacter (Evelyne ou moi), on partagera volontiers nos astuces et retours d’expérience!
 
-## En résumé
-
-Oui, il y a eu des sueurs froides, des rebondissements, et des moments où on s’est dit qu’on n’y arriverait pas.
+En résumé. Oui, il y a eu des sueurs froides, des rebondissements, et des moments où on s’est dit qu’on n’y arriverait pas.
 Mais au final… le projet est une réussite. Les familles ont un souvenir unique de l’année, les enfants sont fiers, et l’école en a bénéficié.
 
 Comme quoi, même avec des galères, **ça valait carrément le coup!**
+
+<img src="/_images/autoportraits-merci-tess-evelyne.webp" alt="" />
