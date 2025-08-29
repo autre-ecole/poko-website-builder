@@ -6,11 +6,11 @@ localizationKey: 04cb4c6bd2d9
 status: draft
 name: Les autoportraits imprimés 2024-2025
 ---
-Tout a commencé par une idée toute simple :
-**et si on créait un essuie illustré par&#32;_tous_&#32;les enfants et&#32;_tous_&#32;les adultes de l’école ?**
+Tout a commencé par l'idée toute simple d'Evelyne
+**et si on créait un essuie illustré par&#32;_tous_&#32;les enfants et&#32;_tous_&#32;les adultes de l’école?**
 Un joli souvenir collectif, unique, qui resterait longtemps dans les cuisines et les cœurs.
 
-Le principe : chaque enfant, chaque prof, chaque membre de l’équipe dessine un petit quelque chose → on assemble le tout → et hop, ça devient un essuie. Facile, non?
+Le principe: chaque enfant, chaque prof, chaque membre de l’équipe dessine son autoportrait → on assemble le tout → et hop, on fait imprimer sur essuie. Facile, non?
 
 ## Chapitre 1 : L’excitation des premiers cartons
 
