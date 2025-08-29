@@ -75,14 +75,14 @@ On ne voulait pas livrer de la mauvaise qualité. Pas question de transformer ce
 On a tenté de discuter avec l’imprimeur.
 On a expliqué. Réexpliqué. Téléphoné. Insisté.
 
-Sa seule proposition? Une tombola pour financer une nouvelle impression. (Oui, oui… une tombola. On n’a pas trop compris non plus 😂). Bref, pas de solution viable. Et de son côté, plus trop de réponses. Silence radio.
+Sa seule proposition? Une tombola pour financer une nouvelle impression. Bref, pas de solution viable. Et de son côté, plus trop de réponses. Silence radio.
 
 ## Sauvetage en mode détectives
 
 Pas question d’abandonner.
-Avec Evelyne, on a contacté plusieurs imprimeurs en Belgique. Rendez-vous, devis, comparatifs… on est devenues expertes en encres et techniques d’impression!
+Evelyne, on a contacté plusieurs imprimeurs en Belgique. Rendez-vous, devis, comparatifs… Elle est devenue experte en encres et techniques d’impression!
 
-Finalement, on a trouvé **le bon imprimeur**: qualité au rendez-vous, impressions durables, rendu fidèle aux dessins. Un vrai soulagement.
+Finalement, on a trouvé **le bon imprimeur**: qualité au rendez-vous, impressions durables, rendu fidèle aux dessins. Qui a repris exactement le même projet, au même tarif. Un vrai soulagement.
 
 ## Mission accomplie
 
