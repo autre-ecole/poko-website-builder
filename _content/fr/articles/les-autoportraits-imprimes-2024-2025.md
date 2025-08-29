@@ -64,7 +64,9 @@ On n’a pas résisté: on a testé les essuies directement.
 
 ## Chapitre 2: Le crash test (et la douche froide)
 
-Au bout de deux jours d’utilisation… catastrophe. Les impressions commençaient à se décoller 😱. On frottait, ça partait. On lavait, ça s’écaillait. Bref, impossible d’imaginer donner ça aux parents.
+Au bout de deux jours d’utilisation… catastrophe. Les impressions commençaient à se décoller 😱. On frottait, ça partait. On lavait, ça s’écaillait. Bref, impossible d’imaginer distribuer ça aux parents.
+
+PARTIALS ------------
 
 On ne voulait pas livrer de la mauvaise qualité. Pas question de transformer ce joli projet-souvenir en déception.
 
