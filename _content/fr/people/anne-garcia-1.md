@@ -9,7 +9,7 @@ preview:
   image:
     src: /_images/ae-autoportraits-chantal-s.svg
 vars:
-  role: Surveillance et encadrement
+  role: Surveillance, encadrement et entretien du bâtiment
   ageGroup: '16'
 dataList:
   - type: image
