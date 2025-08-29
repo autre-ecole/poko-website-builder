@@ -4,7 +4,7 @@ createdAt: 2025-08-29T07:33:00.000Z
 uuid: 0160b5ec3254
 localizationKey: 04cb4c6bd2d9
 status: draft
-name: Les autoportraits imprimés 2024-2025
+name: Autoportraits imprimés 2024-2025
 ---
 Tout a commencé avec l'idée d'Evelyne:**&#32;"et si on créait un essuie illustré par tous les enfants et tous les adultes de l’école?"**
 Un joli souvenir collectif, unique, qui resterait longtemps dans les cuisines et les cœurs.
