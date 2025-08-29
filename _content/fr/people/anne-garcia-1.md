@@ -11,7 +11,7 @@ preview:
 vars:
   role: Surveillance, encadrement et entretien du bâtiment
   ageGroup: '16'
-  previewImgStyle: style="object-position:center 15%;"
+  previewImgStyle: object-position:center 15%;
 dataList:
   - type: image
     key: imgVerso
