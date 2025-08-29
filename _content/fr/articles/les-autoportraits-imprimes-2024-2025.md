@@ -62,7 +62,7 @@ Une fois tous les dessins réalisés par les enfants (et les adultes!), on a tou
 Quand la première livraison est arrivée (au mois de mai), on était surexcitées, comme des enfants à Noël.
 On n’a pas résisté: on a testé les essuies directement.
 
-## Chapitre 2: Le crash test (et la douche froide)
+## Le crash test (et la douche froide)
 
 Au bout de deux jours d’utilisation… catastrophe. Les impressions commençaient à se décoller 😱. On frottait, ça partait. On lavait, ça s’écaillait. Bref, impossible d’imaginer distribuer ça aux parents.
 
@@ -70,7 +70,7 @@ Au bout de deux jours d’utilisation… catastrophe. Les impressions commençai
 
 On ne voulait pas livrer de la mauvaise qualité. Pas question de transformer ce joli projet-souvenir en déception.
 
-## Chapitre 3: Discussions improbables au service après-vente
+## Discussions improbables au service après-vente
 
 On a tenté de discuter avec l’imprimeur.
 On a expliqué. Réexpliqué. Téléphoné. Insisté.
@@ -79,14 +79,14 @@ Sa seule proposition? Une tombola pour financer une nouvelle impression. (Oui, o
 
 Bref, pas de solution viable. Et de son côté, plus trop de réponses. Silence radio.
 
-## Chapitre 4: Sauvetage en mode détectives
+## Sauvetage en mode détectives
 
 Pas question d’abandonner.
 Avec Evelyne, on a contacté plusieurs imprimeurs en Belgique. Rendez-vous, devis, comparatifs… on est devenues expertes en encres et techniques d’impression!
 
 Finalement, on a trouvé **le bon imprimeur**: qualité au rendez-vous, impressions durables, rendu fidèle aux dessins. Un vrai soulagement.
 
-## Chapitre 5: Mission accomplie
+## Mission accomplie
 
 Grâce à ce nouvel imprimeur, les essuies ont pu être imprimés dans les temps. Les dessins des enfants (et des adultes !) sont mis en valeur, l’impression tient au lavage, et on peut être fières de ce souvenir d’année qui a trouvé sa place dans les maisons.
 
