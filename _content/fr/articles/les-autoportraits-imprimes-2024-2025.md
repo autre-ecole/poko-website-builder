@@ -92,12 +92,12 @@ Et cerise sur le gâteau: les bénéfices ont bien été reversés à l’école
 
 ## Ce qu’on retient (et ce qu’on partage)
 
-Parce qu’on aimerait que d’autres puissent lancer le même projet sans les mêmes galères, voilà les infos clés :
+Parce qu’on aimerait que d’autres puissent lancer le même projet sans les mêmes galères, voilà les infos clés:
 
-- **Demande toujours un vrai échantillon** (et mets-le à l’épreuve : lave-le, frotte-le, repasse-le).
-- **Attention à la technique d’impression** : certaines tiennent, d’autres non. La sérigraphie reste une valeur sûre.
-- **Prends de la marge** dans ton planning, parce qu’il y aura toujours des imprévus.
-- **Et surtout : fais-le pour le plaisir et le souvenir collectif**. Le plus beau, c’est de voir les enfants chercher leur dessin sur l’essuie et de savoir que tout le monde de l’école y est représenté.
+- **Demande toujours un vrai échantillon** (et mets-le à l’épreuve: lave-le, frotte-le, repasse-le).
+- **Attention à la technique d’impression**: certaines tiennent, d’autres non. La sérigraphie reste une valeur sûre.
+- **Prends de la marge** dans ton planning, parce qu’il y aura toujours des imprévus :-p
+- **Et surtout: fais-le pour le plaisir et le souvenir collectif**. Le plus beau, c’est de voir les enfants chercher leur dessin ou celui des copains sur l’essuie/sac et de savoir que tout le chaque personne de l’école y est représenté.
 
 → Pour info, voilà les deux imprimeurs qu’on a testés:
 
