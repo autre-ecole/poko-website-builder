@@ -66,7 +66,7 @@ On n’a pas résisté: on a testé les essuies directement.
 
 Au bout de deux jours d’utilisation… catastrophe. Les impressions commençaient à se décoller 😱. On frottait, ça partait. On lavait, ça s’écaillait. Bref, impossible d’imaginer distribuer ça aux parents.
 
-PARTIALS ------------
+{% partial "gallery-autoportraits-mauvais-print.md" %}
 
 On ne voulait pas livrer de la mauvaise qualité. Pas question de transformer ce joli projet-souvenir en déception.
 
