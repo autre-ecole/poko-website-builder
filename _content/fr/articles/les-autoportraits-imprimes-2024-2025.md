@@ -12,7 +12,7 @@ Un joli souvenir collectif, unique, qui resterait longtemps dans les cuisines et
 
 Le principe: chaque enfant, chaque prof, chaque membre de l’équipe dessine son autoportrait → on assemble le tout → et hop, on fait imprimer sur essuie. Facile, non?
 
-## Chapitre 1 : L’excitation des premiers cartons
+## L’excitation des premiers cartons
 
 Quand la première livraison est arrivée, on était surexcitées. Les cartons ont à peine touché le sol qu’on les ouvrait déjà, comme des enfants à Noël.
 On n’a pas résisté : on a testé les essuies directement.
