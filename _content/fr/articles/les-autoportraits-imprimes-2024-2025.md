@@ -68,6 +68,8 @@ Au bout de deux jours d’utilisation… catastrophe. Les impressions commençai
 
 {% partial "gallery-autoportraits-mauvais-print.md" %}
 
+{% section "side-by-side.njk", {"blocks":[]} %}
+
 On ne voulait pas livrer de la mauvaise qualité. Pas question de transformer ce joli projet-souvenir en déception!
 
 ## Discussions improbables avec le SAV
