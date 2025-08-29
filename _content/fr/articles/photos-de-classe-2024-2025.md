@@ -10,7 +10,7 @@ L’année passée, j’ai accepté un défi un peu fou: réaliser les photos sc
 
 L’aventure a commencé un peu à la dernière minute, avec beaucoup d’improvisation. Deux journées de prises de vue, un report à cause de la pluie, une séance supplémentaire pour les absents… et entre-temps, il a fallu jongler avec les siestes, les rayons de soleil capricieux et l’énergie débordante des enfants. Heureusement, les animateur·ices étaient là pour aider: décoincer les timides, canaliser les petits showmen et parfois simplement faire rire au bon moment.
 
-Une fois les photos faites, je me suis retrouvée avec une autre mission : comment les partager facilement avec toutes les familles ? Après plusieurs recherches, j’ai découvert Lumys, un site spécialisé dans les photos scolaires. Formats adaptés, commandes en ligne, paiement simple, livraison pratique… tout ce qu’il fallait pour que les parents s’y retrouvent facilement. Je le découvrais en même temps qu’eux, mais ça a été une bonne surprise.
+Une fois les photos faites, je me suis retrouvée avec une autre mission: comment les partager facilement avec toutes les familles? Après plusieurs recherches, j’ai découvert [Lumys](https://lumys-scolaire.photo/), un site spécialisé dans les photos scolaires. Formats adaptés, commandes en ligne, paiement simple pour la Belgique, livraison pratique… tout ce qu’il fallait pour que les parents s’y retrouvent facilement. Je le découvrais en même temps qu’eux, mais ça a été une bonne surprise.
 
 Au final, ça n’a pas été de tout repos, mais j’ai adoré l’expérience. Ce que j’ai voulu offrir, ce sont des souvenirs bruts et pleins de vie, pas des sourires figés. J’ai appris énormément de choses en chemin, et si je devais recommencer demain, voici ce que je garderais en tête :
 
