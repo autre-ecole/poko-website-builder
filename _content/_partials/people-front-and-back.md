@@ -52,7 +52,6 @@
 .person { max-inline-size: 450px; aspect-ratio: 1; }
 .people .h5 { margin-block-start: 0; }
 
-/\* Front and back animation \*/
 .front-and-back > .front { opacity: 1; transition: opacity 0.1s ease-in-out; }
 .front-and-back:hover > .front { opacity: 0; }
 {% endcss %}
