@@ -14,7 +14,7 @@ vars:
 dataList:
   - type: image
     key: imgVerso
-    src: /_images/ae-autoportraits-chantal-s.svg
+    src: /_images/photo-chantal-s.webp
     alt: ''
     title: ''
     width: null
