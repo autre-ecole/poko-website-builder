@@ -12,7 +12,7 @@ L’aventure a commencé un peu à la dernière minute, avec beaucoup d’improv
 
 Une fois les photos faites, je me suis retrouvée avec une autre mission: comment les partager facilement avec toutes les familles? Après plusieurs recherches, j’ai découvert [Lumys](https://lumys-scolaire.photo/), un site spécialisé dans les photos scolaires. Formats adaptés, commandes en ligne, paiement simple pour la Belgique, livraison pratique… tout ce qu’il fallait pour que les parents s’y retrouvent facilement. Je le découvrais en même temps qu’eux, mais ça a été une bonne surprise.
 
-Au final, ça n’a pas été de tout repos, mais j’ai adoré l’expérience. Ce que j’ai voulu offrir, ce sont des souvenirs bruts et pleins de vie, pas des sourires figés. J’ai appris énormément de choses en chemin, et si je devais recommencer demain, voici ce que je garderais en tête :
+Au final, ça n’a pas été de tout repos, mais j’ai adoré l’expérience. Ce que j’ai voulu offrir, ce sont des souvenirs bruts et pleins de vie, pas des sourires trop figés. J’ai appris énormément de choses en chemin et si je devais recommencer une prochaine fois, voici ce que je garderais en tête:
 
 ### Mes tips pour des photos scolaires réussies
 
