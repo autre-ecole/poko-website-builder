@@ -16,10 +16,10 @@ Au final, ça n’a pas été de tout repos, mais j’ai adoré l’expérience.
 
 ### Mes tips pour des photos scolaires réussies
 
-- Faire toutes les photos en une seule journée (évite les complications).
-- Noter les prénoms sur les portraits individuels, les noms de famille pour les fratries.
-- Photographier aussi les adultes, entre deux classes, quand ils sont disponibles.
-- Prévoir un petit créneau spécial pour les absents.
+- Faire toutes les photos en une seule journée (si possible)
+- prévoir une matinée ou aprem de récup pour les absents
+- Noter les prénoms sur les portraits individuels, les noms de famille pour les fratries
+- Photographier aussi les adultes (si besoin), entre deux classes, quand ils sont disponibles
 - Utiliser des feuilles ou des ardoises pour noter les noms, avec une liste par classe et par famille.
 - Demander l’aide d’1 ou 2 personnes pour gérer l’organisation.
 - Choisir un endroit extérieur calme et joli, avec deux spots fixes (un pour les groupes, un pour les portraits).
