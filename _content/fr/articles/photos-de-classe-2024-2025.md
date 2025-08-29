@@ -18,11 +18,11 @@ Au final, ça n’a pas été de tout repos, mais j’ai adoré l’expérience.
 
 - Faire toutes les photos en une seule journée (si possible)
 - prévoir une matinée ou aprem de récup pour les absents
-- Noter les prénoms sur les portraits individuels, les noms de famille pour les fratries
+- avoir des liste imprimées par classe + fratries + adultes
+- Noter les prénoms sur les portraits individuels, les noms de famille pour les fratries (sur des feuilles ou des ardoises)
 - Photographier aussi les adultes (si besoin), entre deux classes, quand ils sont disponibles
-- Utiliser des feuilles ou des ardoises pour noter les noms, avec une liste par classe et par famille.
-- Demander l’aide d’1 ou 2 personnes pour gérer l’organisation.
-- Choisir un endroit extérieur calme et joli, avec deux spots fixes (un pour les groupes, un pour les portraits).
-- Prévoir le kit de survie : mouchoirs, lingettes, et une ou deux blagues pour détendre l’ambiance (mon arme secrète : “le photographe est une saucisse”).
-- Responsabiliser les plus grands pour aller chercher leurs petits frères et sœurs.
-- Faire fermer les yeux avant la photo et donner le signal pour éviter les clignements.
+- Demander l’aide d’1 ou 2 personnes pour gérer l’organisation (aller chercher les classes suivantes, appeler les enfants, cocher les noms sur les listes,…)
+- Choisir un endroit extérieur calme et joli, avec deux spots fixes (un pour les groupes, un pour les portraits)
+- demander aux animateur·ices le kit de survie (surtout pour les petits): mouchoirs, lingettes, et une ou deux blagues pour détendre l’ambiance/faire sourire
+- Responsabiliser les plus grands pour aller chercher leurs petits frères et sœurs
+- Faire fermer les yeux avant la photo et donner le signal pour éviter les clignements
