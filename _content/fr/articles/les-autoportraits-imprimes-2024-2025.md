@@ -31,10 +31,10 @@ Une fois tous les dessins réalisés par les enfants (et les adultes!), on a tou
 
 ### 1. Expliquer simplement ce qu’est un autoportrait
 
-💬 **Définition simple**
+**Définition simple**
 «Un autoportrait, c’est un dessin que tu fais de toi-même. C’est une manière de montrer qui tu es, avec tes formes, tes couleurs, tes expressions.»
 
-🎭 **Faire un parallèle**
+**Faire un parallèle**
 «Quand tu te regardes dans un miroir, tu vois ton visage, tes yeux, ta bouche… L’autoportrait, c’est comme dessiner ce que tu vois dans le miroir!»
 
 ### 2. Adapter l’explication selon l’âge
