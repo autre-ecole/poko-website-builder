@@ -10,7 +10,8 @@
   loading="lazy"
   aria-hidden="true"
   width="350"
-{{ item.data.vars.previewImgStyle | default("") }} />
+  style="{{ item.data.vars.previewImgStyle | default("") }}"
+/>
 <img
   class="person front"
   src="{{ item.data.preview.image.src }}"
