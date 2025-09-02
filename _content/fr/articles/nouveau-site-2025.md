@@ -1,6 +1,11 @@
 ---
 status: published
 name: Nouveau site 2025
+metadata:
+  title: new website
+  image:
+    src: /_images/new-website-2025.webp
+    alt: new website
 author: Marc
 date: 2025-08-27
 ---
