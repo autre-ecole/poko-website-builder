@@ -1,3 +1,3 @@
-<img src="/_images/autoportraits-materiel.webp" alt="" />
+<img src="/_images/autoportraits-materiel-1.webp" alt="" />
 
-<img src="/_images/img_3178-jpg.webp" alt="" />
+<img src="/_images/autoportraits-materiel-2.webp" alt="" />
