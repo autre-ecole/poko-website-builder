@@ -5,7 +5,10 @@ uuid: 0160b5ec3254
 localizationKey: 04cb4c6bd2d9
 status: draft
 name: Autoportraits imprimés 2024-2025
+date: 2025-06-05
+author: Evelyne & Tess
 ---
+
 Tout a commencé avec l'idée d'Evelyne:**&#32;"et si on créait un essuie illustré par tous les enfants et tous les adultes de l’école?"**
 Un joli souvenir collectif, unique, qui resterait longtemps dans les cuisines et les cœurs.
 
@@ -15,7 +18,7 @@ Le principe: chaque enfant, chaque prof, chaque membre de l’équipe dessine so
 
 ## Le matériel
 
-Pour que tout se mette en route, l’imprimeur nous a envoyé le matériel de base: des feuilles avec un cadre bien défini pour les dessins et un autre pour les prénoms, pile au bon format. Avec ça, pas de débordements et un rendu bien net (encore merci à tous les animateurs pour leur aide avec les plus petits). 
+Pour que tout se mette en route, l’imprimeur nous a envoyé le matériel de base: des feuilles avec un cadre bien défini pour les dessins et un autre pour les prénoms, pile au bon format. Avec ça, pas de débordements et un rendu bien net (encore merci à tous les animateurs pour leur aide avec les plus petits).
 Il nous a aussi fourni des feutres noirs d’épaisseur idéale. Résultat: des dessins facilement scannés et vectorisés ensuite, sans perte de qualité.
 Une fois tous les dessins réalisés par les enfants (et les adultes!), on a tout rassemblé et renvoyé à l’imprimeur pour la suite.
 
@@ -43,7 +46,7 @@ Une fois tous les dessins réalisés par les enfants (et les adultes!), on a tou
 👉 Objectif: comprendre qu’ils dessinent leur propre visage.
 
 - Utiliser un miroir: «Regarde-toi. Quelle est la forme de ton visage ? de tes yeux?»
-- Proposer un jeu : «Touche ton nez! Où est ta bouche  Peux-tu dessiner ton sourire?»
+- Proposer un jeu : «Touche ton nez! Où est ta bouche Peux-tu dessiner ton sourire?»
 
 📌 **Pour les 6-8 ans**
 👉 Objectif: aller plus loin dans les détails et l’expression.
@@ -51,9 +54,9 @@ Une fois tous les dessins réalisés par les enfants (et les adultes!), on a tou
 - Observer différents autoportraits d’artistes (Van Gogh, Frida Kahlo, Picasso…).
 - Introduire la notion de proportions avec des formes de base (un ovale pour le visage, une ligne pour placer les yeux, une autre pour la bouche).
 - Activités possibles:
-    - _Miroir magique_: dessiner ce qu’on voit dans le miroir.
-    - _Autoportrait sans regarder_: dessiner son visage sans lever les yeux vers la feuille.
-    - _Autoportrait photographique_: dessiner à partir d’une photo de soi.
+  - _Miroir magique_: dessiner ce qu’on voit dans le miroir.
+  - _Autoportrait sans regarder_: dessiner son visage sans lever les yeux vers la feuille.
+  - _Autoportrait photographique_: dessiner à partir d’une photo de soi.
 
 <img src="/_images/autoportraits-ex-oona.webp" alt="exemple autoportrait Oona" />
 

@@ -5,7 +5,10 @@ uuid: b109b5185b3f
 localizationKey: 0368ac97ebfd
 status: draft
 name: Photos de classe 2024-2025
+date: 2025-06-14
+author: Tess
 ---
+
 L’année passée, j’ai accepté un défi un peu fou: réaliser les photos scolaires de toute l’école. C’était une première pour moi. [Je suis graphiste](https://www.tess-h.be/), [j’aime prendre des photos](https://www.instagram.com/tessvividimprint/), mais je suis plutôt habituée à capturer des instants spontanés que des portraits bien cadrés et organisés. Là, il s’agissait de toute une école: classes entières, portraits individuels, fratries, et même les adultes.
 
 L’aventure a commencé un peu à la dernière minute, avec beaucoup d’improvisation. Deux journées de prises de vue, un report à cause de la pluie, une séance supplémentaire pour les absents… et entre-temps, il a fallu jongler avec les siestes, les rayons de soleil capricieux et l’énergie débordante des enfants. Heureusement, les animateur·ices étaient là pour aider: décoincer les timides, canaliser les petits showmen et parfois simplement faire rire au bon moment.
