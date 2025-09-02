@@ -5,6 +5,10 @@ uuid: 0160b5ec3254
 localizationKey: 04cb4c6bd2d9
 status: draft
 name: Autoportraits imprimés 2024-2025
+metadata:
+  title: Essuie imprimé d'autoportraits
+  image:
+    src: /_images/autoportraits-essuie.webp
 ---
 Tout a commencé avec l'idée d'Evelyne:**&#32;"et si on créait un essuie illustré par tous les enfants et tous les adultes de l’école?"**
 Un joli souvenir collectif, unique, qui resterait longtemps dans les cuisines et les cœurs.
