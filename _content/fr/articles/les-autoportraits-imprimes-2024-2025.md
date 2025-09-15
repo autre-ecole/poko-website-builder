@@ -5,10 +5,9 @@ uuid: 0160b5ec3254
 localizationKey: 04cb4c6bd2d9
 status: draft
 name: Autoportraits imprimés 2024-2025
-date: 2025-06-05
 author: Evelyne & Tess
+date: 2025-06-05
 ---
-
 Tout a commencé avec l'idée d'Evelyne:**&#32;"et si on créait un essuie illustré par tous les enfants et tous les adultes de l’école?"**
 Un joli souvenir collectif, unique, qui resterait longtemps dans les cuisines et les cœurs.
 
@@ -54,9 +53,9 @@ Une fois tous les dessins réalisés par les enfants (et les adultes!), on a tou
 - Observer différents autoportraits d’artistes (Van Gogh, Frida Kahlo, Picasso…).
 - Introduire la notion de proportions avec des formes de base (un ovale pour le visage, une ligne pour placer les yeux, une autre pour la bouche).
 - Activités possibles:
-  - _Miroir magique_: dessiner ce qu’on voit dans le miroir.
-  - _Autoportrait sans regarder_: dessiner son visage sans lever les yeux vers la feuille.
-  - _Autoportrait photographique_: dessiner à partir d’une photo de soi.
+- _Miroir magique_: dessiner ce qu’on voit dans le miroir.
+- _Autoportrait sans regarder_: dessiner son visage sans lever les yeux vers la feuille.
+- _Autoportrait photographique_: dessiner à partir d’une photo de soi.
 
 <img src="/_images/autoportraits-ex-oona.webp" alt="exemple autoportrait Oona" />
 
@@ -67,7 +66,7 @@ On n’a pas résisté: on a testé les essuies directement.
 
 ## Le crash test (et la douche froide)
 
-Au bout de deux jours d’utilisation… catastrophe. Les impressions commençaient à se décoller 😱. On frottait, ça partait. On lavait, ça s’écaillait. Bref, impossible d’imaginer distribuer ça aux parents.
+Au bout de deux jours d’utilisation… catastrophe. Les impressions commençaient à se décoller 😱. On frottait, ça partait. On lavait, ça s’écaillait. Bref, impossible d’imaginer distribuer ça aux parents. L'imprimeur avait réalisé une impression par transfert et non par sérigraphie comme annoncé.
 
 {% partial "gallery-autoportraits-mauvais-print.md" %}
 
@@ -78,14 +77,14 @@ On ne voulait pas livrer de la mauvaise qualité. Pas question de transformer ce
 On a tenté de discuter avec l’imprimeur.
 On a expliqué. Réexpliqué. Téléphoné. Insisté.
 
-Sa seule proposition? Une tombola pour financer une nouvelle impression. Bref, pas de solution viable. Et de son côté, plus trop de réponses. Silence radio.
+Sa seule proposition? Une tombola pour financer une nouvelle impression. Bref, pas de solution viable. Et de son côté, plus trop de réponses. Silence radio. On lui a tout rendu.
 
 ## Sauvetage en mode détectives
 
 Pas question d’abandonner.
-Evelyne, on a contacté plusieurs imprimeurs en Belgique. Rendez-vous, devis, comparatifs… Elle est devenue experte en encres et techniques d’impression!
+Pendant que [Tess prenais toute l'école en photo](https://autre-ecole.org/articles/photos-de-classe-2024-2025/), Evelyne a contacté plusieurs imprimeurs en Belgique et en France. En plus, on voulait du coton bio, des encres GOTS, du local. Rendez-vous, devis, comparatifs… Elle est devenue experte en encres et techniques d’impression!
 
-Finalement, on a trouvé **le bon imprimeur**: qualité au rendez-vous, impressions durables, rendu fidèle aux dessins. Qui a repris exactement le même projet, au même tarif. Un vrai soulagement.
+Finalement, on a trouvé **le bon imprimeur,&#160;**non sans négociations: qualité au rendez-vous, impressions durables, rendu fidèle aux dessins. Il a repris exactement le même projet, au même tarif. Un vrai soulagement.
 
 ## Mission accomplie
 
@@ -99,17 +98,18 @@ Et cerise sur le gâteau: les bénéfices ont bien été reversés à l’école
 
 Parce qu’on aimerait que d’autres puissent lancer le même projet sans les mêmes galères, voilà les infos clés:
 
-- **Demande toujours un vrai échantillon** (et mets-le à l’épreuve: lave-le, frotte-le, repasse-le).
-- **Attention à la technique d’impression**: certaines tiennent, d’autres non. La sérigraphie reste une valeur sûre.
+- **Demande toujours un vrai échantillon** (et mets-le à l’épreuve: lave-le, frotte-le, repasse-le). Et quand tu commandes, précise bien que tu veux la même technique d'impression!
+- **Attention à la technique d’impression**: certaines tiennent, d’autres non. La sérigraphie reste une valeur sûre. Le transfert non.
+- Assure-toi que dans **le B.A.T.** (Bon À Tirer) les dessins seront bien **vectorisés** et non pixelisés.
 - **Prends de la marge** dans ton planning, parce qu’il y aura toujours des imprévus :-p
-- **Et surtout: fais-le pour le plaisir et le souvenir collectif**. Le plus beau, c’est de voir les enfants chercher leur dessin ou celui des copains sur l’essuie/sac et de savoir que tout le chaque personne de l’école y est représenté.
+- **Et surtout: fais-le pour le plaisir et le souvenir collectif**. Le plus beau, c’est de voir les enfants chercher leur dessin ou celui des copains sur l’essuie/sac et de savoir que chaque personne de l’école y est représenté.
 
 → Pour info, voilà les deux imprimeurs qu’on a testés:
 
-- **Premier imprimeur (à éviter)**: [La Souris Verte](https://www.lasouris-verte.fr) (Pegasus)
+- **Premier imprimeur (à vraiment éviter)**: [La Souris Verte](https://www.lasouris-verte.fr) (Pegasus)
 - **Celui qui a sauvé le projet**: [inkoo](https://www.inkoo.eu/)
 
-Et si tu veux te lancer, n’hésite pas à nous contacter (Evelyne ou moi), on partagera volontiers nos astuces et retours d’expérience!
+Et si tu veux te lancer, n’hésite pas à nous contacter Evelyne Cabillaut ou moi Tess Hadri (nous sommes dans la liste des parents), on partagera volontiers nos astuces et retours d’expérience!
 
 En résumé. Oui, il y a eu des sueurs froides, des rebondissements, et des moments où on s’est dit qu’on n’y arriverait pas.
 Mais au final… le projet est une réussite. Les familles ont un souvenir unique de l’année, les enfants sont fiers, et l’école en a bénéficié.
