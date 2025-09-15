@@ -84,7 +84,7 @@ Sa seule proposition? Une tombola pour financer une nouvelle impression. Bref, p
 Pas question d’abandonner.
 Pendant que [Tess prenais toute l'école en photo](https://autre-ecole.org/articles/photos-de-classe-2024-2025/), Evelyne a contacté plusieurs imprimeurs en Belgique et en France. En plus, on voulait du coton bio, des encres GOTS, du local. Rendez-vous, devis, comparatifs… Elle est devenue experte en encres et techniques d’impression!
 
-Finalement, on a trouvé **le bon imprimeur,&#160;**non sans négociations: qualité au rendez-vous, impressions durables, rendu fidèle aux dessins. Il a repris exactement le même projet, au même tarif. Un vrai soulagement.
+Finalement, on a trouvé le **bon imprimeur**,**&#32;**non sans négociations: qualité au rendez-vous, impressions durables, rendu fidèle aux dessins. Il a repris exactement le même projet, au même tarif. Un vrai soulagement.
 
 ## Mission accomplie
 
