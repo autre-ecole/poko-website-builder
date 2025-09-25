@@ -156,7 +156,7 @@ Chaque commission se réunit régulièrement pour travailler sur ses projets et 
 
 ### Communication et information
 
-Pour assurer une communication fluide entre tous les acteurs de l'école :
+Pour assurer une communication fluide entre tous les acteurs de l'école:
 
 - **Billet du Jeudi**: lettre d'information hebdomadaire envoyée par voie électronique à toutes les familles
 - **Réunions de classe**: organisées en début d'année pour présenter le fonctionnement de la classe
