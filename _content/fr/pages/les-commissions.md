@@ -14,4 +14,4 @@ name: Les commissions
 
 ## Commission Fêtes
 
-## Commission Informatique
+## [Commission Informatique](/la-commission-informatique/)
