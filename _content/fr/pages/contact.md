@@ -69,6 +69,5 @@ Dans l'esprit participatif de l'Autre École, plusieurs commissions composées d
 - **Commission Jardin**: pour les projets liés aux espaces extérieurs et au potager
 - **Commission Fêtes**: pour l'organisation des événements communautaires
 - **Commission Informatique**: pour les questions liées au site web et à la gestion des données
-- **Commission Finances**: pour les questions administratives et financières
 
 Pour obtenir les coordonnées spécifiques de chaque commission, n'hésitez pas à contacter le secrétariat.
