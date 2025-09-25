@@ -143,15 +143,14 @@ Tout au long de l'année, de nombreuses sorties sont organisées:
 
 ## La vie associative et participative
 
-### Les commissions
+### [Les commissions](/les-commissions/)
 
 La vie de l'école repose sur l'engagement des parents et des animateurs au sein de différentes commissions thématiques:
 
 - Commission **Travaux**
 - Commission **Jardin**
 - Commission **Fêtes**
-- Commission **Finances**
-- Commission **Informatique**
+- [Commission **Informatique**](la-commission-informatique/)
 
 Chaque commission se réunit régulièrement pour travailler sur ses projets et rendre compte de ses actions lors des assemblées générales.
 
