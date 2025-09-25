@@ -51,7 +51,7 @@ _Pour plus d'informations pratiques sur le fonctionnement quotidien de l'école,
 L'Autre École est organisée selon un modèle de cogestion qui implique activement les parents dans la vie de l'école. Cette participation se traduit par:
 
 - **L'adhésion aux Options Fondamentales** lors de l'inscription de l'enfant
-- **L'engagement dans les commissions** qui gèrent différents aspects de la vie de l'école
+- **L'engagement dans&#32;[les commissions](/les-commissions/)** qui gèrent différents aspects de la vie de l'école
 - **La présence aux assemblées générales** qui prennent les décisions importantes
 - **La participation aux événements communautaires** qui ponctuent l'année scolaire
 
