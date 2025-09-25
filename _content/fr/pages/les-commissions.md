@@ -8,7 +8,7 @@ name: Les commissions
 ---
 # Les commissions
 
-## Commission travaux
+## Commission Travaux
 
 ## Commission Jardin
 
