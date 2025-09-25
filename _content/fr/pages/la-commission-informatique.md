@@ -31,7 +31,7 @@ La commission informatique, ce n’est pas une bande de geeks enfermés dans une
 
 ## Qui nous sommes
 
-- Maximilien Powis de Tenbossche (papa de Noah, Manon et Louane) - …
+- Maximilien Powis de Tenbossche (papa de Noa, Manon et Louane) - [**Expert en (gestion et gouvernance de) donnés**](https://max.pow.is/)
 - Marc Coët (papa de Oona et Liloo) - [**Développeur web**](https://www.m4rr.co/fr/)
 - Tess Hadri (maman de Oona et Liloo) - [**Graphiste**](https://www.tess-h.be/)
 - Mathieu Balmet (papa de Nina) - [**Illustrateur**](https://www.mathieubalmet.com/)
