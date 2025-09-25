@@ -63,11 +63,11 @@ Pour toute autre demande de visite, merci de contacter au préalable le secréta
 
 ## Contacter une commission spécifique
 
-Dans l'esprit participatif de l'Autre École, plusieurs commissions composées de parents et de membres de l'équipe pédagogique gèrent différents aspects de la vie de l'école. Selon la nature de votre demande, vous pouvez contacter directement la commission concernée:
+Dans l'esprit participatif de l'Autre École, plusieurs [commissions](/les-commissions/) composées de parents et de membres de l'équipe pédagogique gèrent différents aspects de la vie de l'école. Selon la nature de votre demande, vous pouvez contacter directement la commission concernée:
 
 - **Commission travaux**: pour les questions liées aux locaux et à l'infrastructure
 - **Commission Jardin**: pour les projets liés aux espaces extérieurs et au potager
 - **Commission Fêtes**: pour l'organisation des événements communautaires
-- **Commission Informatique**: pour les questions liées au site web et à la gestion des données
+- [**Commission Informatique**](la-commission-informatique/): pour les questions liées au site web et à la gestion des données
 
 Pour obtenir les coordonnées spécifiques de chaque commission, n'hésitez pas à contacter le secrétariat.
