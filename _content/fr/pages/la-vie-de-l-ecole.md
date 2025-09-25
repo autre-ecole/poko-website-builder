@@ -150,7 +150,7 @@ La vie de l'école repose sur l'engagement des parents et des animateurs au sein
 - Commission **Travaux**
 - Commission **Jardin**
 - Commission **Fêtes**
-- [Commission **Informatique**](la-commission-informatique/)
+- [Commission **Informatique**](/la-commission-informatique/)
 
 Chaque commission se réunit régulièrement pour travailler sur ses projets et rendre compte de ses actions lors des assemblées générales.
 
