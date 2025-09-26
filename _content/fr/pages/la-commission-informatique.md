@@ -10,11 +10,12 @@ name: La commission informatique
 
 _On ne communique pas qu’en 0 et en 1: on simplifie la vie digitale de l’école._
 
-Concrètement, on prend soin de l’infrastructure technique (ordinateurs, tablettes, réseau), mais aussi de la communication visuelle et des outils numériques du quotidien. On est là pour accompagner l’école et les parents, toujours avec l’idée de rendre la technologie accessible, utile et adaptée à la pédagogie Freinet.
+Concrètement, on prend soin de l’infrastructure technique (ordinateurs, tablettes, réseau), mais aussi de la communication visuelle et des outils digitaux du quotidien. On est là pour accompagner l’école et les parents, toujours avec l’idée de rendre la technologie accessible, (esthétique) et utile et adaptée à la pédagogie Freinet.
 
 ## Notre mission
 
-La commission informatique, ce n’est pas une bande de geeks enfermés dans une salle câblée. On se veut surtout facilitateurs: rendre les processus plus simples, fluidifier la communication, être des référents numériques pour les animateurs, les parents et les enfants. Proposer des pistes de réflexion autour des usages du numérique (éducation, internet, données personnelles, IA…). **En bref: mettre le numérique au service de l’humain, et pas l’inverse.**
+La commission informatique, ce n’est pas une bande de geeks enfermés dans une salle câblée. On se veut surtout facilitateurs: rendre les processus plus simples, fluidifier la communication, être des référents numériques pour les animateurs, les parents et les enfants. Proposer des pistes de réflexion autour des usages du numérique (éducation, internet, données personnelles, IA…).
+**En bref: mettre le numérique au service de l’humain, et pas l’inverse.**
 
 ## Nos tâches
 
