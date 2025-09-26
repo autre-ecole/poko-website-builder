@@ -8,7 +8,7 @@ name: La commission informatique
 ---
 # La commission [informatique] digitale
 
-_On ne communique pas qu’en 0 et en 1: on simplifie la vie numérique de l’école._
+_On ne communique pas qu’en 0 et en 1: on simplifie la vie digitale de l’école._
 
 Concrètement, on prend soin de l’infrastructure technique (ordinateurs, tablettes, réseau), mais aussi de la communication visuelle et des outils numériques du quotidien. On est là pour accompagner l’école et les parents, toujours avec l’idée de rendre la technologie accessible, utile et adaptée à la pédagogie Freinet.
 
