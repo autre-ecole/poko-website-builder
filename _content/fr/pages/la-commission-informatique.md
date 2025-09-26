@@ -52,4 +52,4 @@ Pas besoin d’être ingénieur·e en fusées: si tu sais brancher une multipris
 
 > Digital semblerait concerner plutôt l’usager dans son expérience de cette technologie numérique. Avec digital, on passe de l’autre côté de l’écran. L’influence anglosaxonne aidant aussi, je comprends pourquoi les agences se présentent comme agences digitales, et non comme agences numériques. Regardez ce qui est en jeu avec les termes numérisation et digitalisation et vous verrez que numérique et digital ne sont pas synonymes. La numérisation renvoie au changement de support de données (films, images, enregistrements), à sa dématérialisation, et la digitalisation à la communication via des supports immatériels, à l’accès au digital.
 
-Article source: [Faut-il dire numérique ou digital? ](https://www.blogdumoderateur.com/numerique-ou-digital/)[Fabian Ropars](https://www.blogdumoderateur.com/numerique-ou-digital/ "Fabian Ropars")
+Article source: [Faut-il dire numérique ou digital? ](https://www.blogdumoderateur.com/numerique-ou-digital/)Fabian Ropars
