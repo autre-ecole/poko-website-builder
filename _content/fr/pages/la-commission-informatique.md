@@ -6,7 +6,7 @@ uuid: a8d5ffd50fe3
 localizationKey: a81d3c162051
 name: La commission informatique
 ---
-# La commission [informatique] numérique
+# La commission [informatique] digitale
 
 _On ne communique pas qu’en 0 et en 1: on simplifie la vie numérique de l’école._
 
