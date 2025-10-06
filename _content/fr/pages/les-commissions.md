@@ -22,6 +22,6 @@ Les commissions sont ouvertes et, parfois, elles œuvrent de concert. D'autres 
 
 ## Commission Fêtes
 
-## [Commission Informatique](/la-commission-informatique/)
+## [Commission Digitale](/la-commission-digitale/)
 
 Si un projet de nouvelle commission vous tente, n’hésitez pas à en  parler autour de vous et à vous lancer. L’équipe pédagogique viendra  certainement vous soutenir.
