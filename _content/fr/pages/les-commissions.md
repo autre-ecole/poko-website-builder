@@ -20,7 +20,7 @@ Les commissions sont ouvertes et, parfois, elles œuvrent de concert. D'autres 
 
 ## [Commission Jardin](/la-commission-jardin/)
 
-## [Commission Fêtes](/la-commission-fete/)
+## [Commission Fêtes](/la-commission-fetes/)
 
 ## [Commission Digitale](/la-commission-digitale/)
 
