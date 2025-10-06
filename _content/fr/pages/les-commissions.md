@@ -8,7 +8,7 @@ name: Les commissions
 ---
 # Les commissions
 
-Le bon fonctionnement de l'école repose, en dehors des obligations minimales, sur la participation la plus large à la vie et aux problèmes qui se présentent. Chaque parent peut déterminer l'étendue de sa  participation supplémentaire en fonction de ses disponibilités de  temps, ses autres choix, son goût de l'action dans le domaine précis, etc.
+Le bon fonctionnement de l'école repose, en dehors des obligations minimales, sur la participation la plus large à la vie et aux problèmes qui se présentent. Chaque parent peut déterminer l'étendue de sa  participation supplémentaire en fonction de ses disponibilités de temps, ses autres choix, son goût de l'action dans le domaine précis, etc.
 
 Même peu participant, aucun ne doit oublier son droit à la parole, à la critique. S'il y a un problème à discuter qui dépasse la compétence des seuls animateurs, chacun peut venir au Conseil d'administration. À l'Autre École, le pouvoir appartient aux membres effectifs pour  autant que ceux-ci se servent des possibilités offertes.
 
