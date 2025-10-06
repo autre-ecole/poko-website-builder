@@ -32,7 +32,7 @@ Cette commission organise des activités festives pour les parents et  amis, po
 - …
 - …
 
-## Contact
+## Nous contacter
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
 - Ou par mail
