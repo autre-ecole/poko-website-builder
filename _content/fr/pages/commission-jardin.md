@@ -6,7 +6,7 @@ uuid: 2fc119d7903c
 localizationKey: 1b6ee1475323
 name: La commission jardin
 ---
-# **La Commission jardin (écologique)&#160;**
+# **La Commission Jardin (écologique)&#160;**
 
 Elle veille à l’entretien du jardin créé (par des élèves de l’école) sur la  Place Félix Govaert et à la végétation qui borde le bâtiment. La  commission Jardin organise généralement ses journées d’action à un moment distinct des journées travaux.
 
