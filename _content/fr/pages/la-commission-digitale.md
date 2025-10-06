@@ -1,5 +1,5 @@
 ---
-translationKey: la-commission-informatique
+translationKey: la-commission-digitale
 lang: fr
 createdAt: 2025-09-25T08:34:00.000Z
 uuid: a8d5ffd50fe3
