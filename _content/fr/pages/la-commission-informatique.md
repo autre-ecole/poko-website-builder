@@ -42,7 +42,7 @@ La commission informatique, ce n’est pas une bande de geeks enfermés dans une
 ## Contact
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
-- Ou par mail
+- Ou par mail commission-informatique@autre-ecole.org
 
 ## Rejoindre
 
