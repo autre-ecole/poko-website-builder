@@ -4,9 +4,9 @@ lang: fr
 createdAt: 2025-09-25T08:34:00.000Z
 uuid: a8d5ffd50fe3
 localizationKey: a81d3c162051
-name: La commission informatique
+name: La commission digitale
 ---
-# La commission [informatique] digitale
+# La commission digitale
 
 _On ne communique pas qu’en 0 et en 1: on simplifie la vie digitale de l’école._
 
