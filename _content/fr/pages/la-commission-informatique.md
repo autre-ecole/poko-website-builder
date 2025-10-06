@@ -19,10 +19,10 @@ La commission informatique, ce n’est pas une bande de geeks enfermés dans une
 
 ## Nos tâches
 
-- Installer et entretenir le matériel informatique de l’école
-- Veiller à ce que le réseau et les outils fonctionnent correctement
 - Conseiller l’équipe pédagogique sur des outils adaptés
 - Soutenir l’école dans la communication et la cohérence graphique (affiches, flyers, site web,…)
+- Installer et entretenir le matériel informatique de l’école
+- Veiller à ce que le réseau et les outils fonctionnent correctement
 - Faire un peu de veille sur les usages numériques (éducation, internet, IA, données perso,…)
 - Donner un coup de main aux parents/animateurs pour l’accès aux plateformes scolaires
 
