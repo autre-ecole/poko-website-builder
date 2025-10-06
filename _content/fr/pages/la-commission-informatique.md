@@ -39,12 +39,12 @@ Ce n’est pas un repaire de techniciens en herbe, mais un groupe de parents qui
 - Tess (maman de Oona et Liloo) - [**Graphiste**](https://www.tess-h.be/)
 - Mathieu (papa de Nina) - [**Illustrateur**](https://www.mathieubalmet.com/)
 
-## Contact
+## Nous contacter
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
 - Ou par mail commission-informatique@autre-ecole.org (bientôt commission-digitale@autre-ecole.org)
 
-## Rejoindre
+## Nous rejoindre
 
 Pas besoin d’être ingénieur·e en fusées: si tu sais brancher une multiprise, poser des questions ou donner un avis créatif, tu peux aider! Même une petite contribution ponctuelle est précieuse.
 
