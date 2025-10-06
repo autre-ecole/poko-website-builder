@@ -6,7 +6,7 @@ uuid: a8d5ffd50fe3
 localizationKey: a81d3c162051
 name: La commission digitale
 ---
-# La Commission Digitale
+# La Commission Digital
 
 _On ne communique pas qu’en 0 et en 1: on simplifie la vie digitale de l’école._
 
