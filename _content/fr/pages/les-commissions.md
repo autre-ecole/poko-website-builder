@@ -16,11 +16,11 @@ Les différentes dates liées aux évènements que les commissions  organisent 
 
 Les commissions sont ouvertes et, parfois, elles œuvrent de concert. D'autres commissions sont toujours susceptibles de voir le jour en fonction des circonstances ou au contraire de disparaître si leur  existence ne se justifie plus. Chaque année un certain nombre de  groupes se constituent: leur action et leur enthousiasme sont vitaux pour la bonne marche de l'école.
 
-## Commission Travaux
+## [Commission Travaux](/la-commission-travaux/)
 
-## Commission Jardin
+## [Commission Jardin](/la-commission-jardin/)
 
-## Commission Fêtes
+## [Commission Fêtes](/la-commission-fête/)
 
 ## [Commission Digitale](/la-commission-digitale/)
 
