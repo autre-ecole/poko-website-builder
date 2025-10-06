@@ -6,7 +6,7 @@ uuid: a8d5ffd50fe3
 localizationKey: a81d3c162051
 name: La commission informatique
 ---
-# La commission digitale
+# La commission [informatique] digitale
 
 _On ne communique pas qu’en 0 et en 1: on simplifie la vie digitale de l’école._
 
@@ -42,7 +42,7 @@ Ce n’est pas un repaire de techniciens en herbe, mais un groupe de parents qui
 ## Contact
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
-- Ou par mail commission-informatique@autre-ecole.org
+- Ou par mail commission-informatique@autre-ecole.org (bientôt commission-digitale@autre-ecole.org)
 
 ## Rejoindre
 
