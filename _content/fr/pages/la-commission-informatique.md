@@ -14,7 +14,7 @@ Concrètement, on prend soin de l’infrastructure technique (ordinateurs, table
 
 ## Notre mission
 
-La commission informatique, ce n’est pas une bande de geeks enfermés dans une salle câblée. On se veut surtout facilitateurs: rendre les processus plus simples, fluidifier la communication, être des référents numériques pour les animateurs, les parents et les enfants. Proposer des pistes de réflexion autour des usages du numérique (éducation, internet, données personnelles, IA…).
+Ce n’est pas un repaire de techniciens en herbe, mais un groupe de parents qui cherchent à faciliter la vie de l’école. On se veut surtout facilitateurs: rendre les processus plus simples, fluidifier la communication, être des référents numériques pour les animateurs, les parents et les enfants. Proposer des pistes de réflexion autour des usages du numérique (éducation, internet, données personnelles, IA…).
 **En bref: mettre le numérique au service de l’humain, et pas l’inverse.**
 
 ## Nos tâches
