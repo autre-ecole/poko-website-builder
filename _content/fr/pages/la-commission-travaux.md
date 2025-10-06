@@ -8,9 +8,9 @@ name: La commission travaux
 ---
 # **La Commission travaux&#160;**
 
-La Commission travaux s'est chargée de veiller au bon état du  bâtiment et aux réparations à y effectuer par l'appel ponctuel aux  compétences de parents, par l'organisation de journées travaux où  ceux-ci sont effectués collectivement ou par l'appel aux corps de  métiers adéquats.  
+La Commission travaux s'est chargée de veiller au bon état du  bâtiment et aux réparations à y effectuer par l'appel ponctuel aux  compétences de parents, par l'organisation de journées travaux où ceux-ci sont effectués collectivement ou par l'appel aux corps de  métiers adéquats.  
 
-Chaque année scolaire, la commission travaux organise deux ou trois  journées consacrées à l’entretien et l’amélioration du bâtiment. Les  parents qui constituent cette commission demandent à chaque  famille de participer au minimum à l’une des trois journées.
+Chaque année scolaire, la commission travaux organise deux ou trois  journées consacrées à l’entretien et l’amélioration du bâtiment. Les parents qui constituent cette commission demandent à chaque famille de participer au minimum à l’une des trois journées.
 
 ## Notre mission
 
