@@ -4,7 +4,7 @@ lang: fr
 createdAt: 2025-10-06T07:53:00.000Z
 uuid: 2fc119d7903c
 localizationKey: 1b6ee1475323
-name: Commission jardin
+name: La commission jardin
 ---
 # **La Commission jardin (écologique)&#160;**
 
