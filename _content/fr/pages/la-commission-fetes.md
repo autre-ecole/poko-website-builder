@@ -4,7 +4,7 @@ lang: fr
 createdAt: 2025-10-06T07:52:00.000Z
 uuid: 96c3aaab941b
 localizationKey: c3cb44e8b7a8
-name: La commission fetes
+name: La commission fêtes
 ---
 # La commission fête
 
