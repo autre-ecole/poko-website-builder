@@ -21,3 +21,5 @@ Nous nous réjouissons à l'idée de vous présenter notre projet éducatif.
 - Dernier départ pour la visite: 17h45
 
 Retrouvez les infos et [le processus d'inscription](/inscription/).
+
+<img src="/_images/Bandeau-AE-portes-ouvertes.webp" alt="" />
