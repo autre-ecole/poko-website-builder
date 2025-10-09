@@ -73,12 +73,14 @@ Après cette rencontre, un rendez-vous est pris pour finaliser l'inscription au 
 
 ## L'engagement attendu des parents
 
-L'inscription à l'Autre École implique un engagement concret des parents dans la vie de l'école. Cet engagement se traduit par:
+L'inscription à l'Autre École implique un engagement concret des parents dans la vie de l'école. Cet engagement se traduit par une prise de contact et une participation aux activités organisées par l'asbl Alternative Pédagogique (constituée par les parents de l'Autre École)
+
+Cette asbl vous proposera/demandera :
 
 - **La participation à au moins une commission** (pédagogie, bâtiment, communication, fêtes, finances...)
-- **La présence aux assemblées générales** (3 à 4 par an)
+- **La présence aux assemblées générales** (2 par an)
 - **L'aide ponctuelle** lors des journées de nettoyage, des fêtes d'école, etc.
-- **Le suivi et le soutien** de la scolarité de l'enfant en cohérence avec l'approche pédagogique
+- **Le suivi et le soutien** de la scolarité de l'enfant en cohérence avec l'approche pédagogique et les disponibilités des enseignant.e.s de l'école.
 
 Cet engagement parental est l'une des spécificités et des forces de notre projet. Il permet de construire une véritable communauté éducative autour des enfants et contribue à la richesse de notre école.
 
