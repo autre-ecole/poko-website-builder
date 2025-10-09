@@ -59,15 +59,17 @@ Les dates retenue pour [**les Portes Ouvertes**](/les-portes-ouvertes/) seront m
 
 ### 2. Formulaire de préinscription
 
-Après avoir assisté à une séance d'information, les familles intéressées peuvent remplir un formulaire de préinscription qui sera examiné par l'équipe pédagogique et le conseil d'administration.
+Après avoir assisté à une séance d'information, les familles intéressées peuvent remplir un formulaire de demande de préinscription via un lien accessible sur le site.
+
+Ce lien est actif à partir du lendemain des Portes Ouvertes jusqu'à la rentrée du mois de janvier.
 
 ### 3. Rencontre avec l'équipe pédagogique
 
-En fonction des places disponibles, les familles préinscrites sont invitées à une rencontre avec un ou plusieurs membres de l'équipe pédagogique. Cette rencontre permet d'approfondir la compréhension mutuelle du projet et des attentes.
+Après tirage au sort, les familles préinscrites sont invitées à une rencontre avec un ou plusieurs membres de l'équipe pédagogique. Cette rencontre permet d'approfondir la compréhension mutuelle du projet et des implications dans la gestion de la vie de l'école.
 
 ### 4. Confirmation d'inscription
 
-Après cette rencontre, si les deux parties confirment leur accord, l'inscription est finalisée par la signature d'un document d'adhésion aux Options Fondamentales de l'école et le versement des frais d'inscription.
+Après cette rencontre, un rendez-vous est pris pour finaliser l'inscription au secrétariat.
 
 ## L'engagement attendu des parents
 
