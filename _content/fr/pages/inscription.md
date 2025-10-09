@@ -5,7 +5,6 @@ name: Inscription
 eleventyNavigation:
   order: 20
 ---
-
 # S'inscrire à l'Autre École
 
 ## Une inscription qui est avant tout une adhésion
@@ -56,7 +55,7 @@ La participation à une séance d'information est **obligatoire** pour toute fam
 - De visiter les locaux et de rencontrer des membres de l'équipe
 - De répondre à toutes vos questions
 
-**Pour l'année scolaire 2026-2027**, la date retenue pour les Portes Ouvertes n'est pas encore arrêtée. Consultez notre site à partir du mois d'octobre 2025 pour connaître la date exacte et les modalités d'inscription à cette journée.
+Les dates retenue pour **les Portes Ouvertes** seront mises à jour à partir du mois d'octobre pour connaître la date exacte et les modalités d'inscription à cette journée.
 
 ### 2. Formulaire de préinscription
 
