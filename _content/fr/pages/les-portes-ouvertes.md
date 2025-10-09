@@ -9,7 +9,7 @@ name: les Portes Ouvertes
 # **les Portes Ouvertes**
 
 l'Autre École vous convie à ses **Portes Ouvertes** le **mardi 09 décembre 2025**.
-**N'hésitez pas à annoncer votre présence via le&#160;[lien suivant](https://forms.gle/L5qidNvH4pp5A4Br8).**{}
+**N'hésitez pas à annoncer votre présence via le&#160;[lien suivant](https://forms.gle/L5qidNvH4pp5A4Br8).**{.callout}
 
 Les élèves et l'équipe vous présenteront à cette occasion le fonctionnement d'une classe en pédagogie Freinet et son organisation du travail.
 Ce sera l'occasion de découvrir les locaux et [la vie dynamique de l'école](/ecole/).
