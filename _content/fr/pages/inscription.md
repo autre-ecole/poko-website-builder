@@ -48,7 +48,7 @@ Notre processus d'inscription se déroule en plusieurs étapes:
 
 ### 1. Séances d'information
 
-La participation à une séance d'information est **obligatoire** pour toute famille souhaitant inscrire un enfant à l'Autre École. Ces séances auront lieu durant [la journée ](/les-portes-ouvertes/)[Portes Ouvertes](/les-portes-ouvertes/). Elles permettent:
+La participation à une séance d'information est **obligatoire** pour toute famille souhaitant inscrire un enfant à l'Autre École. Ces séances auront lieu durant [la journée Portes Ouvertes](/les-portes-ouvertes/). Elles permettent:
 
 - De présenter en détail notre projet pédagogique et nos spécificités
 - D'exposer les modalités de participation des parents à la vie de l'école
@@ -84,6 +84,6 @@ Cet engagement parental est l'une des spécificités et des forces de notre proj
 
 **Pour l'année 2025-2026**, la liste de demandes de préinscription est déjà clôturée.
 
-Nous vous invitons à consulter notre site web à **partir du mois d'octobre chaque année** pour connaître les dates des prochaines séances d'information.
+Nous vous invitons à consulter [notre site web](/les-portes-ouvertes/) à **partir du mois d'octobre chaque année** pour connaître les dates des prochaines séances d'information.
 
 _Merci de noter que pour des raisons organisationnelles, nous ne sommes pas en mesure de répondre aux demandes individuelles par téléphone concernant les inscriptions. Toutes les informations nécessaires seront communiquées lors des séances d'information et sur notre site web._
