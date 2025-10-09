@@ -16,7 +16,7 @@ Ce sera l'occasion de découvrir les locaux et la vie dynamique de l'école.
 Nous nous réjouissons à l'idée de vous présenter notre projet éducatif.  
 [Infos pratiques.](/les-portes-ouvertes/)
 
-:::
+::
 
 # Bienvenue à l'Autre École
 
