@@ -11,6 +11,8 @@ eleventyNavigation:
 
 Inscription à l'Autre École signifie avant tout adhésion à son projet pédagogique. Choisir notre école, c'est s'engager dans un parcours éducatif différent, fondé sur les principes de la pédagogie Freinet et sur des valeurs fortes comme la liberté, la responsabilité, la solidarité, la coopération et le pluralisme.
 
+Pour enregistrer votre demande de préinscription et participer au tirage au sort, remplissez [le formulaire suivant](https://forms.gle/oM2Myyg5TV1BUs3N6).
+
 Conformément à nos Options Fondamentales, nous considérons que:
 
 > "L'inscription d'un enfant à l'Autre École signifie l'adhésion des parents à un projet pédagogique spécifique et la volonté d'y participer activement, tant sur le plan des idées que sur celui de l'organisation concrète."
@@ -40,7 +42,7 @@ Cette structure verticale signifie que chaque classe accueille des enfants d'âg
 
 Le nombre de places disponibles varie d'année en année en fonction des départs et est généralement plus important en classes maternelles qu'en primaire.
 
-<img src="/_images/IMG_4860.webp" alt="" style="aspect-ratio:4;" />
+<img src="/_images/l-autre-ecole-vue-du-terrain.webp" alt="" style="aspect-ratio:4;" />
 
 ## Processus d'inscription
 
