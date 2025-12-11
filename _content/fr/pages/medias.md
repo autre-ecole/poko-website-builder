@@ -23,3 +23,8 @@ name: Medias
   <figcaption>Comme toi</figcaption>
   <audio controls src="/assets/files/comme-toi.mp3"></audio>
 </figure>
+
+<figure>
+  <figcaption>Je veux des pâtes</figcaption>
+  <audio controls src="/assets/files/je-veux-des-pates.mp3"></audio>
+</figure>
