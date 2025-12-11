@@ -7,13 +7,11 @@ eleventyNavigation:
 ---
 # S'inscrire à l'Autre École
 
+{% partial "inscription-en-cours-modalites.md" %}
+
 ## Une inscription qui est avant tout une adhésion
 
 Inscription à l'Autre École signifie avant tout adhésion à son projet pédagogique. Choisir notre école, c'est s'engager dans un parcours éducatif différent, fondé sur les principes de la pédagogie Freinet et sur des valeurs fortes comme la liberté, la responsabilité, la solidarité, la coopération et le pluralisme.
-
-La période d'inscription pour le tirage au sort pour une entrée à l'Autre École à la rentrée prochaine est ouverte jusqu'au 31 décembre 2025 à minuit.
-
-**Pour enregistrer votre demande de préinscription et participer au tirage au sort, remplissez** [le formulaire suivant](https://forms.gle/oM2Myyg5TV1BUs3N6).
 
 Conformément à nos Options Fondamentales, nous considérons que:
 
