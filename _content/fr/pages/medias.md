@@ -32,3 +32,11 @@ name: Medias
 </figure>
 
 :::
+
+{% css %}
+
+.medias figure {
+margin-inline: 0;
+}
+
+{% endcss %}
