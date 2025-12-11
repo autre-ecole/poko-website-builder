@@ -9,7 +9,7 @@ name: Medias
 ---
 # Médias
 
-::: div { .medias .flow .prose }
+::: div { .medias .flow .prose}
 
 <figure>
   <figcaption class="h4">Nuit</figcaption>
