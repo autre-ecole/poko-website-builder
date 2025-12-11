@@ -9,7 +9,7 @@ name: Medias
 ---
 # Médias
 
-::: div { .medias .flow }
+::: div { .medias .flow .prose }
 
 <figure>
   <figcaption class="h4">Nuit</figcaption>
@@ -32,11 +32,3 @@ name: Medias
 </figure>
 
 :::
-
-{% css %}
-
-.medias figure {
-max-inline-size: var(--width-max);
-}
-
-{% endcss %}
