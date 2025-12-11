@@ -5,13 +5,11 @@ name: Accueil
 eleventyNavigation:
   order: 1
 ---
-::: aside {.callout}
-
 # Bienvenue à l'Autre École
 
 Une école Freinet où chaque enfant est acteur de ses apprentissages dans un environnement coopératif et bienveillant.
 
-<img src="/_images/l-autre-ecole-vue-du-terrain.webp" alt="" style="aspect-ratio: 2;" />
+<img src="/_images/Batiment-accueil.webp" alt="" style="aspect-ratio: 2;" />
 
 ## Notre identité
 
