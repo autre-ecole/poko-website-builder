@@ -44,7 +44,7 @@ Cette structure verticale signifie que chaque classe accueille des enfants d'âg
 
 Le nombre de places disponibles varie d'année en année en fonction des départs et est généralement plus important en classes maternelles qu'en primaire.
 
-<img src="/_images/l-autre-ecole-vue-du-terrain.webp" alt="" style="aspect-ratio:4;" />
+<img src="/_images/l-autre-ecole-vue-du-terrain.webp" alt="" />
 
 ## Processus d'inscription
 
