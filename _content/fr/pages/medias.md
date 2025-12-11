@@ -9,22 +9,26 @@ name: Medias
 ---
 # Médias
 
+::: div { .medias .flow }
+
 <figure>
-  <figcaption>Nuit</figcaption>
+  <figcaption class="h4">Nuit</figcaption>
   <audio controls src="/assets/files/nuit.mp3"></audio>
 </figure>
 
 <figure>
-  <figcaption>Papa</figcaption>
+  <figcaption class="h4">Papa</figcaption>
   <audio controls src="/assets/files/papa.mp3"></audio>
 </figure>
 
 <figure>
-  <figcaption>Comme toi</figcaption>
+  <figcaption class="h4">Comme toi</figcaption>
   <audio controls src="/assets/files/comme-toi.mp3"></audio>
 </figure>
 
 <figure>
-  <figcaption>Je veux des pâtes</figcaption>
+  <figcaption class="h4">Je veux des pâtes</figcaption>
   <audio controls src="/assets/files/je-veux-des-pates.mp3"></audio>
 </figure>
+
+:::
