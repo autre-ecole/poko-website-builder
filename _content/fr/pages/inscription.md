@@ -36,7 +36,7 @@ Pour cela, nous vous invitons à:
 L'Autre École est un établissement à taille humaine comprenant:
 
 - 3 classes maternelles en organisation verticale (multi-âges)
-- 6 classes primaires également organisées en cycles verticaux
+- 6 classes primaires également organisées en cycles verticaux(sur deux années)
 
 Cette structure verticale signifie que chaque classe accueille des enfants d'âges différents (au minimum deux niveaux par classe), favorisant ainsi l'entraide et la coopération entre les enfants.
 
@@ -57,7 +57,7 @@ La participation à une séance d'information est **obligatoire** pour toute fam
 - De visiter les locaux et de rencontrer des membres de l'équipe
 - De répondre à toutes vos questions
 
-Les dates retenue pour [**les Portes Ouvertes**](/les-portes-ouvertes/) seront mises à jour chaque année à partir du mois d'octobre.
+Les dates retenues pour [**les Portes Ouvertes**](/les-portes-ouvertes/) seront mises à jour chaque année à partir du mois d'octobre.
 
 ### 2. Formulaire de préinscription
 
