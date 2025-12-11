@@ -211,6 +211,7 @@ body > header {
   max-width: var(--width-prose);
   padding: 1rem;
   border: 2px dotted var(--color-border);
+  margin-inline: auto;
   /* text-wrap: balance; */
   /* text-align: center; */
 }
