@@ -59,7 +59,7 @@ La participation à une séance d'information est **obligatoire** pour toute fam
 - De visiter les locaux et de rencontrer des membres de l'équipe
 - De répondre à toutes vos questions
 
-Les dates retenue pour [**les Portes Ouvertes**](/les-portes-ouvertes/) seront mises à jour à partir du mois d'octobre pour connaître la date exacte et les modalités d'inscription à cette journée.
+Les dates retenue pour [**les Portes Ouvertes**](/les-portes-ouvertes/) seront mises à jour chaque année à partir du mois d'octobre.
 
 ### 2. Formulaire de préinscription
 
@@ -88,10 +88,6 @@ Cette asbl vous proposera/demandera :
 
 Cet engagement parental est l'une des spécificités et des forces de notre projet. Il permet de construire une véritable communauté éducative autour des enfants et contribue à la richesse de notre école.
 
-## Informations pratiques
-
-**Pour l'année 2025-2026**, la liste de demandes de préinscription est déjà clôturée.
-
-Nous vous invitons à consulter [notre site web](/les-portes-ouvertes/) à **partir du mois d'octobre chaque année** pour connaître les dates des prochaines séances d'information.
+---
 
 _Merci de noter que pour des raisons organisationnelles, nous ne sommes pas en mesure de répondre aux demandes individuelles par téléphone concernant les inscriptions. Toutes les informations nécessaires seront communiquées lors des séances d'information et sur notre site web._
