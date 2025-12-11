@@ -32,3 +32,11 @@ name: Medias
 </figure>
 
 :::
+
+{% css %}
+
+.medias figure {
+max-inline-size: var(--width-max);
+}
+
+{% endcss %}
