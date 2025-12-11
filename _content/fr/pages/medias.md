@@ -13,3 +13,13 @@ name: Medias
   <figcaption>Nuit</figcaption>
   <audio controls src="/assets/files/nuit.mp3"></audio>
 </figure>
+
+<figure>
+  <figcaption>Papa</figcaption>
+  <audio controls src="/assets/files/papa.mp3"></audio>
+</figure>
+
+<figure>
+  <figcaption>Comme toi</figcaption>
+  <audio controls src="/assets/files/comme-toi.mp3"></audio>
+</figure>
