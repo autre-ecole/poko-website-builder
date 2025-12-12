@@ -1,10 +1,1 @@
-/audios/nuit /assets/files/nuit.mp3 302
-/audios/* /assets/files/:splat.mp3 303
-
-# /assets/files/papa.mp3
-# /assets/files/comme-toi.mp3
-# /assets/files/je-veux-des-pates.mp3
-# /assets/files/anton-et-les-rabats-joie.mp3
-# /assets/files/il-l_a-fait.mp3
-# /assets/files/le-petit-dejeuner-de-la-famille-souris.mp3
-# /assets/files/les-provisions-de-bisous-de-zou.mp3
+/audios/* /assets/files/:splat.mp3 302
