@@ -9,9 +9,9 @@ name: Medias
 ---
 # Médias
 
-::: div { .medias .flow .prose}
-
 ## Classe rouge
+
+::: div { .medias .flow .prose}
 
 <figure>
   <figcaption class="h4">Nuit</figcaption>
