@@ -13,6 +13,6 @@ vars:
   role: Animatrice
   classroom: Classes fleurie, arc-en-ciel, paillettes
   classCycle: (P3, P4, P5, P6)
-  ageGroup: '3'
+  ageGroup: '8'
 ---
 
