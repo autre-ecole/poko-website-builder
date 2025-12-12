@@ -3,35 +3,65 @@
 <meta name="generator" content="{{ eleventy.generator }}" />
 <meta name="generator" content="poko" />
 
+{# NoIndex check #}
+{% if status == "noindex" %}
+
+<meta name="robots" content="noindex" />
+{% endif %}
+
 {# Metadata #}
-{% include "_metadata-default.md" ignore missing %}
-{% include "_metadata.md" ignore missing %}
+{% partial "_metadata-default.md" %}
+{% partial "_metadata.md" %}
 
 {# Alternate langs #}
 {% for link in templateTranslations %}
 
 <link rel="alternate" hreflang="{{link.lang}}" href="{{baseUrl}}{{link.url}}" />
-{% endfor %}
-{% if defaultLanguage %}
-<link rel="alternate" hreflang="x-default" href="{{baseUrl}}{{defaultLanguage.url}}" />
+
+{% if link.isDefaultLang %}
+
+<link rel="alternate" hreflang="x-default" href="{{baseUrl}}{{link.url}}" />
 {% endif %}
+
+{% if link.isCurrentLang %}
+
+<meta property="og:locale" content="{{link.lang}}" />
+{% else %}
+<meta property="og:locale:alternate" content="{{link.lang}}" />
+{% endif %}
+
+{% endfor %}
 
 {# Favicons #} {# TODO: Generate favicons, manifest, etc #}
 
 {# HTML head injection #}
 
-{% include "_html-head.md" ignore missing %}
+{% partial "_html-head.md" %}
 {{ globalSettings.htmlHead | safe }}
-{% getBundle "html", "head" %}
+{# {% getBundle "html", "head" %} #}
 
 {# Internal CSS: E-mail obfuscation + CSS head injection (from globalSettings) + bundle #}
 
+{% if inlineAllStyles %}
+
 <style>
-a[href^="mailto:"] b {display: none;}
+{{externalStylesInline | safe}}
+</style>
+
+{% else %}
+
+{{htmlExternalCssFiles | safe}}
+
+{% endif %}
+
+{# TODO: Avoid generating this tag if no content in the bundle #}
+
+<link rel="stylesheet" href="{% getBundleFileUrl 'css', 'external' %}">
+
+<style>
 {{ globalSettings.cssHead | safe }}
 {% getBundle "css" %}
 </style>
-<link rel="stylesheet" href="{% getBundleFileUrl 'css', 'external' %}">
 
 {# JS: detection + bundle #}
 

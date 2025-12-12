@@ -217,22 +217,21 @@ const pageLayoutRelationField = {
   required: false,
   i18n: "duplicate",
 };
-// const bodyMarkdownField = {
-//   name: "body",
-//   label: "Content",
-//   widget: "markdown",
-//   required: false,
-//   i18n: true,
-//   editor_components: [
-//     // "eleventyImage",
-//     "imageShortcode",
-//     "partial",
-//     "wrapper",
-//     "section",
-//     "links",
-//     ...defaultEditorComponentNames,
-//   ],
-// };
+const bodyMarkdownField = {
+  name: "body",
+  label: "Content",
+  widget: "markdown",
+  required: false,
+  i18n: true,
+  editor_components: [
+    // "eleventyImage",
+    "imageShortcode",
+    "partial",
+    "wrapper",
+    "section",
+    "links",
+  ],
+};
 const eleventyNavigationField = {
   name: "eleventyNavigation",
   label: "Main Navigation",
@@ -398,10 +397,10 @@ const fontStackDefinitionField = (nativeDefault = "system-ui") => ({
     },
   ],
 });
-const styleContextRelationField = (valField) => ({
+const styleContextRelationField = (valField, collection = "stylesConfig") => ({
   widget: "relation",
   required: true,
-  collection: "stylesConfig",
+  collection,
   file: "brand",
   value_field: `${valField}.*.name`,
 });
@@ -463,49 +462,10 @@ class CmsConfig {
       lang: "en",
     };
   }
-  async render(data) {
+  render(data) {
     const fontsourceFonts = (data.fontServices?.fontsource?.fonts || []).map(
-      ({ family: value }) => ({ value, label: value }),
+      ({ family: value }) => ({ value, label: value })
     );
-    let defaultEditorComponents;
-    try {
-      defaultEditorComponents = await import(
-        "../../../content-static/admin/defaultEditorComponents.js"
-      );
-    } catch (error) {
-      console.error("Failed to import default Editor Components\n", error);
-    }
-    let userEditorComponents;
-    try {
-      userEditorComponents = await import(
-        `${WORKING_DIR_ABSOLUTE}/_config/editorComponents.js`
-      );
-    } catch (error) {
-      console.warn(
-        `INFO: No user's Editor Components found at "${WORKING_DIR_ABSOLUTE}/_config/editorComponents.js"`,
-      );
-    }
-    const defaultEditorComponentNames = Object.keys(
-      defaultEditorComponents || {},
-    );
-    const userEditorComponentNames = Object.keys(userEditorComponents || {});
-    const bodyMarkdownField = {
-      name: "body",
-      label: "Content",
-      widget: "markdown",
-      required: false,
-      i18n: true,
-      editor_components: [
-        // "eleventyImage",
-        "imageShortcode",
-        "partial",
-        "wrapper",
-        "section",
-        "links",
-        ...defaultEditorComponentNames,
-        ...userEditorComponentNames,
-      ],
-    };
 
     const globalSettingsSingleton = {
       name: "globalSettings",
@@ -647,8 +607,8 @@ class CmsConfig {
       i18n: false,
       files: [
         {
-          name: "brand",
-          label: "Brand",
+          name: "stylesConfig",
+          label: "General Styles Config",
           icon: "brand_family",
           file: `${CONTENT_DIR}/_data/brand.yaml`,
           // format: "yaml",
@@ -673,13 +633,16 @@ class CmsConfig {
                 },
               ],
             },
-            {
-              name: "inlineAllStyles",
-              label: "Inline All Styles",
-              widget: "boolean",
-              required: false,
-              default: true,
-            },
+          ],
+        },
+        {
+          name: "brandWidthsContexts",
+          label: "Widths",
+          icon: "fit_page_width",
+          file: `${CONTENT_DIR}/_data/brand.yaml`,
+          // format: "yaml",
+          i18n: false,
+          fields: [
             {
               name: "widthsContexts",
               label: "Widths Contexts",
@@ -698,37 +661,25 @@ class CmsConfig {
                 { name: "prose", label: "Prose Width", widget: "string", required: true, default: '50rem' }, // prettier-ignore
               ],
             },
-            {
-              name: "fontStacksContexts",
-              label: "Font Stacks Contexts",
-              label_singular: "Font Stack Context",
-              widget: "list",
-              required: false,
-              collapsed: true,
-              allow_reorder: true,
-              summary: `
-              {{name}}:
-              BODY: {{body.custom}} {{body.native}} //
-              HEADINGS: {{heading.custom}} {{heading.native}} //
-              CODE: {{code.custom}} {{code.native}}`,
-              hint: "Select your preferred font stack for every type of text. Prefer only native font stacks for performance reasons. The first values are used as the defaults.",
-              // prettier-ignore
-              default: [{ name: "main", body: { native: "system-ui" }, heading: { native: "system-ui" }, code: { native: "monospace-code" }}],
-              fields: [
-                { name: "name", label: "Name", widget: "string", required: true }, // prettier-ignore
-                { name: "body", label: "Body Text Font", ...fontStackDefinitionField("system-ui") }, // prettier-ignore
-                { name: "heading", label: "Heading Text Font", ...fontStackDefinitionField("system-ui") }, // prettier-ignore
-                { name: "code", label: "Code Text Font", ...fontStackDefinitionField("monospace-code") }, // prettier-ignore
-              ],
-            },
+          ],
+        },
+        {
+          name: "brandTypography",
+          label: "Typography",
+          icon: "brand_family",
+          file: `${CONTENT_DIR}/_data/brand.yaml`,
+          // format: "yaml",
+          i18n: false,
+          fields: [
             {
               name: "customFontsImport",
-              label: "Custom Fonts Import",
+              label: "Custom Fonts Import (Avoid if possible)",
               widget: "list",
               required: false,
               collapsed: true,
               summary:
                 "[{{name}}] - '{{source.name}}' ({{source.type}}): {{source.weights}} {{source.styles}} {{source.subsets}}",
+              hint: "We allow importing fonts from fontsource.org (more services to come). For performance reasons, prioritize the use of native fonts.",
               fields: [
                 // NOTE: Not sure I need this
                 {
@@ -827,9 +778,32 @@ class CmsConfig {
               ],
             },
             {
+              name: "fontStacksContexts",
+              label: "Font Stacks Contexts",
+              label_singular: "Font Stack Context",
+              widget: "list",
+              required: false,
+              collapsed: true,
+              allow_reorder: true,
+              summary: `
+              {{name}}:
+              BODY: {{body.custom}} {{body.native}} //
+              HEADINGS: {{heading.custom}} {{heading.native}} //
+              CODE: {{code.custom}} {{code.native}}`,
+              hint: "Select your preferred font stack for every type of text. Prefer only native font stacks for performance reasons. The first values are used as the defaults.",
+              // prettier-ignore
+              default: [{ name: "main", body: { native: "system-ui" }, heading: { native: "system-ui" }, code: { native: "monospace-code" }}],
+              fields: [
+                { name: "name", label: "Name", widget: "string", required: true }, // prettier-ignore
+                { name: "body", label: "Body Text Font", ...fontStackDefinitionField("system-ui") }, // prettier-ignore
+                { name: "heading", label: "Heading Text Font", ...fontStackDefinitionField("system-ui") }, // prettier-ignore
+                { name: "code", label: "Code Text Font", ...fontStackDefinitionField("monospace-code") }, // prettier-ignore
+              ],
+            },
+            {
               name: "typeScales",
-              label: "Fluid Type Scales",
-              label_singular: "Fluid Type Scale",
+              label: "Fluid Typography Scales",
+              label_singular: "Fluid Typography Scale",
               widget: "list",
               required: false,
               collapsed: true,
@@ -853,21 +827,18 @@ class CmsConfig {
                   { name: "prefix", label: "Prefix", widget: "string", required: true, default: 'step' }, // prettier-ignore
                   { name: "relativeTo", label: "Relative To", widget: "select", required: true, default: 'viewport-width', options: ['viewport-width', 'container'] }, // prettier-ignore
                 ]},
-                {
-                  name: "customSteps",
-                  label: "Custom Steps",
-                  widget: "list",
-                  required: false,
-                  collapsed: true,
-                  summary: "From step '{{startStep}}' to '{{endStep}}'",
-                  fields: [
-                    // prettier-ignore
-                    { name: "startStep", label: "Start Step", widget: "select", required: true, options: ['-2', '-1', '0', '1', '2', '3', '4', '5', '6'] }, // prettier-ignore
-                    { name: "endStep", label: "End Step", widget: "select", required: true, options: ['-2', '-1', '0', '1', '2', '3', '4', '5', '6'] }, // prettier-ignore
-                  ],
-                },
               ],
             },
+          ],
+        },
+        {
+          name: "brandColors",
+          label: "Colors",
+          icon: "colors",
+          file: `${CONTENT_DIR}/_data/brand.yaml`,
+          // format: "yaml",
+          i18n: false,
+          fields: [
             {
               name: "colors",
               label: "Colors",
@@ -885,8 +856,8 @@ class CmsConfig {
                   widget: "string",
                   required: true,
                   pattern: [
-                    "^[a-zA-Z0-9-]+$",
-                    "Only letters, numbers, and hyphens are allowed",
+                    `[a-z\-]`,
+                    "Only lower case characters and hyphens are allowed",
                   ],
                 },
                 {
@@ -914,123 +885,32 @@ class CmsConfig {
                   label: "Palette Name",
                   widget: "string",
                   required: true,
+                  pattern: [
+                    `[a-z\-]`,
+                    "Only lower case characters and hyphens are allowed",
+                  ],
                 },
                 // prettier-ignore
                 { name: "text", label: "Text Color", ...brandColorField, required: true }, // prettier-ignore
                 { name: "bg", label: "Background Color", ...brandColorField, required: true }, // prettier-ignore
-                { name: "accent", label: "Accent Color", ...brandColorField }, // prettier-ignore
                 { name: "border", label: "Border Color", ...brandColorField }, // prettier-ignore
+                { name: "outline", label: "Outline Color", ...brandColorField }, // prettier-ignore
                 { name: "text-decoration", label: "Text Decoration Color", ...brandColorField }, // prettier-ignore
-                { name: "text--marker", label: "Text Marker Color (bullet points, etc.)", ...brandColorField }, // prettier-ignore
-                // prettier-ignore
-                {
-                  name: "advancedDefaults", label: "Advanced Defaults", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "outline", label: "Outline Color", ...brandColorField }, // prettier-ignore
-                    { name: "shadow", label: "Shadow Color", ...brandColorField }, // prettier-ignore
-                    { name: "caret", label: "Caret Color", ...brandColorField }, // prettier-ignore
-                    { name: "column-rule", label: "Column Rule Color", ...brandColorField }, // prettier-ignore
-                    { name: "outline--focus", label: "Outline Focus Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "selection", label: "Selected Text", widget: "object", collapsed: "auto", required: false, fields: [ // prettier-ignore
-                    { name: "text--selection", label: "Text Selection Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg--selection", label: "Background Selection Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "strong", label: "Strong (Bold text using the <strong> tag)", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "text__strong", label: "Bold Text Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__strong", label: "Bold Background Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "em", label: "Emphasis (Italic text using the <em> tag)", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "text__em", label: "Italic Text Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__em", label: "Italic Background Color", ...brandColorField }, // prettier-ignore
-                    { name: "text-emphasis", label: "Emphasis symbol Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "mark", label: "Highlighted Text (using the <mark> tag)", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "text__mark", label: "Highlighted Text Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__mark", label: "Highlighted Background Color", ...brandColorField }, // prettier-ignore
-                    { name: "border__mark", label: "Highlighted Border Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "b", label: "Visually important text (using the <b> tag)", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "text__b", label: "Visually important Text Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__b", label: "Visually important Background Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "heading", label: "Heading", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "text__heading", label: "Heading Text Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__heading", label: "Heading Background Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "a", label: "Link (using the <a> tag)", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "text__a", label: "Link Text Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__a", label: "Link Background Color", ...brandColorField }, // prettier-ignore
-                    { name: "text__a--hover", label: "Link Text Hover Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__a--hover", label: "Link Background Hover Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "button", label: "Button", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "text__button", label: "Button Text Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__button", label: "Button Background Color", ...brandColorField }, // prettier-ignore
-                    { name: "border__button", label: "Button Border Color", ...brandColorField }, // prettier-ignore
-                    { name: "text__button--hover", label: "Button Text Hover Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__button--hover", label: "Button Background Hover Color", ...brandColorField }, // prettier-ignore
-                    { name: "border__button--hover", label: "Button Border Hover Color", ...brandColorField }, // prettier-ignore
-                    { name: "text__button--disabled", label: "Button Text Disabled Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__button--disabled", label: "Button Background Disabled Color", ...brandColorField }, // prettier-ignore
-                    { name: "border__button--disabled", label: "Button Border Disabled Color", ...brandColorField }, // prettier-ignore
-                    { name: "text__button--disabled", label: "Button Text Disabled Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__button--disabled", label: "Button Background Disabled Color", ...brandColorField }, // prettier-ignore
-                    { name: "border__button--disabled", label: "Button Border Disabled Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "code", label: "Code (using tags such as code, kbd, pre, samp)", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "text__code", label: "Code Text Color", ...brandColorField }, // prettier-ignore
-                    { name: "bg__code", label: "Code Background Color", ...brandColorField }, // prettier-ignore
-                    { name: "border__code", label: "Code Border Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "svg", label: "Default SVG & icon", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "fill", label: "Fill Color", ...brandColorField }, // prettier-ignore
-                    { name: "stroke", label: "Stroke Color", ...brandColorField }, // prettier-ignore
-                    { name: "icon-fill", label: "Icon Fill Color", ...brandColorField }, // prettier-ignore
-                    { name: "icon-stroke", label: "Icon Stroke Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
-                // prettier-ignore
-                {
-                  name: "scrollbar", label: "Scroll Bar ", widget: "object", collapsed: "auto", required: false, fields: [
-                    { name: "track-color", label: "Scrollbar Track Color", ...brandColorField }, // prettier-ignore
-                    { name: "thumb-color", label: "Scrollbar Thumb Color", ...brandColorField }, // prettier-ignore
-                  ]
-                },
+                { name: "text--marker", label: "Text Marker Color", ...brandColorField }, // prettier-ignore
+                { name: "text-emphasis", label: "Text Emphasis Color", ...brandColorField }, // prettier-ignore
+                { name: "text--selection", label: "Text Selection Color", ...brandColorField }, // prettier-ignore
+                { name: "bg--selection", label: "Background Selection Color", ...brandColorField }, // prettier-ignore
+                { name: "shadow", label: "Shadow Color", ...brandColorField }, // prettier-ignore
+                { name: "caret", label: "Caret Color", ...brandColorField }, // prettier-ignore
+                { name: "column-rule", label: "Column Rule Color", ...brandColorField }, // prettier-ignore
+                { name: "fill", label: "Fill Color", ...brandColorField }, // prettier-ignore
+                { name: "stroke", label: "Stroke Color", ...brandColorField }, // prettier-ignore
+                { name: "outline--focus", label: "Outline Focus Color", ...brandColorField }, // prettier-ignore
                 {
                   name: "advanced",
-                  label: "Legacy options [DO NOT USE] (Deprecated)",
+                  label: "Advanced Options",
                   widget: "object",
-                  collapsed: true,
+                  collapsed: "auto",
                   required: false,
                   fields: [
                     { name: "text__heading", label: "Heading Text Color", ...brandColorField }, // prettier-ignore
@@ -1061,6 +941,16 @@ class CmsConfig {
                 },
               ],
             },
+          ],
+        },
+        {
+          name: "brandStyleContexts",
+          label: "Brand Style Contexts",
+          icon: "widget_menu",
+          file: `${CONTENT_DIR}/_data/brand.yaml`,
+          // format: "yaml",
+          i18n: false,
+          fields: [
             {
               name: "styleContexts",
               label: "Style Contexts",
@@ -1080,12 +970,16 @@ class CmsConfig {
                   widget: "string",
                   required: true,
                   hint: "Used to generate the class name associated with this context (e.g. '.ctx-main')",
+                  pattern: [
+                    `[a-z\-]`,
+                    "Only lower case characters and hyphens are allowed",
+                  ],
                 },
                 // prettier-ignore
-                { label: "Widths Context", name: "widthsContext", ...styleContextRelationField("widthsContexts") }, // prettier-ignore
-                { label: "Font Stacks Context", name: "fontStacksContext", ...styleContextRelationField("fontStacksContexts") }, // prettier-ignore
-                { label: "Type Scale", name: "typeScale", ...styleContextRelationField("typeScales") }, // prettier-ignore
-                { label: "Palette", name: "palette", ...styleContextRelationField("palettes") }, // prettier-ignore
+                { label: "Widths Context", name: "widthsContext", ...styleContextRelationField("widthsContexts", "brandWidthsContexts") }, // prettier-ignore
+                { label: "Font Stacks Context", name: "fontStacksContext", ...styleContextRelationField("fontStacksContexts", "brandTypography") }, // prettier-ignore
+                { label: "Type Scale", name: "typeScale", ...styleContextRelationField("typeScales", "brandTypography") }, // prettier-ignore
+                { label: "Palette", name: "palette", ...styleContextRelationField("palettes", "brandColors") }, // prettier-ignore
               ],
             },
           ],
@@ -1324,7 +1218,6 @@ class CmsConfig {
       ],
     };
     const partialsCollection = {
-      identifier_field: "{{slug}}",
       name: "partials",
       label: "Partials",
       label_singular: "Partial",
@@ -1335,7 +1228,6 @@ class CmsConfig {
       extension: "md",
       format: "yaml-frontmatter",
       create: true,
-      summary: "{{slug}}",
       // MEDIAS
       media_folder: `/${CONTENT_DIR}/_images`,
       public_folder: "/_images",
@@ -1685,9 +1577,9 @@ class CmsConfig {
       },
       site_url: PROD_URL,
       display_url: DISPLAY_URL,
-      // logo_url:
-      //   "https://raw.githubusercontent.com/m4rrc0/poko-website-builder/3fbe32b2f8a00e5e2b1a8fff60d7772ace8e1820/assets/assets/POKO-favicon-RVB-light_dark.svg",
-      logo_url: `https://raw.githubusercontent.com/m4rrc0/poko-website-builder/8357dd9cbcedcf179d03212531b2df941c068840/assets/POKO-favicon-RVB-light_dark.svg`,
+      // logo_url: "https://your-site.com/images/logo.svg",
+      logo_url:
+        "https://raw.githubusercontent.com/m4rrc0/poko-website-builder/3fbe32b2f8a00e5e2b1a8fff60d7772ace8e1820/assets/assets/POKO-favicon-RVB-light_dark.svg",
       // MEDIAS
       media_folder: `/${CONTENT_DIR}/_images`,
       public_folder: "/_images",
@@ -1745,7 +1637,7 @@ class CmsConfig {
               advancedDataFilesCollection,
               {
                 divider: Boolean(
-                  !mustSetup && data.userConfig.collections?.length,
+                  !mustSetup && data.userConfig.collections?.length
                 ),
               },
               ...data.userConfig.collections,
@@ -1779,7 +1671,7 @@ export default async function (eleventyConfig, pluginOptions) {
     };
   } catch (error) {
     console.warn(
-      `WARN: Could not import user config from "${WORKING_DIR_ABSOLUTE}/_config/index.js"`,
+      `WARN: Could not import user config from "${WORKING_DIR_ABSOLUTE}/_config/index.js"`
     );
   }
 
