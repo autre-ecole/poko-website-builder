@@ -11,8 +11,8 @@ preview:
     src: /_images/ae-autoportraits-user-glasses.svg
 vars:
   role: Animatrice
-  classroom: Classe arc-en-ciel
-  classCycle: (M1, M2, M3)
+  classroom: Classes fleurie, arc-en-ciel, paillettes
+  classCycle: (P3, P4, P5, P6)
   ageGroup: '3'
 ---
 
