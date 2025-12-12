@@ -93,7 +93,7 @@ Les surveillants jouent un rôle essentiel dans le bien-être des enfants pendan
 
 La direction coordonne l'équipe pédagogique et assure le lien entre tous les acteurs de l'école (enfants, animateurs, parents, pouvoir organisateur) dans une démarche collégiale et participative. Elle est accompagnée par le secrétariat pour la réalisation de ces tâches.
 
-{% section "front-and-back.njk", {"blocks":[{"src":"/_images/Equipe-2024-2025-face.webp","alt":"L'équipe pédagogique de l'Autre École","title":"","width":null,"aspectRatio":null,"loading":"","imgAttrs":"","type":"image"},{"src":"/_images/Equipe-2024-2025-dos.webp","alt":"L'équipe pédagogique de l'Autre École (de dos)","title":"","width":null,"aspectRatio":null,"loading":"","imgAttrs":"","type":"image"}]} %}
+{% image src="/_images/Equipe-2024-2025-face.webp", alt="L'équipe pédagogique de l'Autre École en 2025" %}
 
 ## Une équipe en formation continue
 

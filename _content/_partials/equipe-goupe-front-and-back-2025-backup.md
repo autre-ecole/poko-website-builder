@@ -1,0 +1,2 @@
+{#   PAS TOUCHE ;)    {% section "front-and-back.njk", {"blocks":[{"src":"/_images/Equipe-2024-2025-face.webp","alt":"L'équipe pédagogique de l'Autre École","title":"","width":null,"aspectRatio":null,"loading":"","imgAttrs":"","type":"image"},{"src":"/_images/Equipe-2024-2025-dos.webp","alt":"L'équipe pédagogique de l'Autre École (de dos)","title":"","width":null,"aspectRatio":null,"loading":"","imgAttrs":"","type":"image"}]} %}
+JUSQU'ICI   #}

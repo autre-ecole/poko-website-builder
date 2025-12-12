@@ -1,4 +1,4 @@
-<div class="gallery grid-auto">
+<div class="gallery grid-fluid">
 <img src="/_images/IMG_4809.webp" alt="" width="350" />
 <img src="/_images/IMG_4758.webp" alt="" width="350" />
 <img src="/_images/IMG_4806.webp" alt="" width="350" />

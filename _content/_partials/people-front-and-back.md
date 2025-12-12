@@ -1,4 +1,4 @@
-<div class="people grid-auto">
+<div class="people grid-fluid">
 {% for ageGroup, items in collections.people | groupby("data.vars.ageGroup") %}
 {% for item in items %}
 <div>
@@ -39,11 +39,11 @@
 </div>
 
 {% css %}
-.people.grid-auto {
+.people.grid-fluid {
   --width-column-min: calc(var(--width-max) / 8);
   --width-column-max: calc(var(--width-max) / 3);
 }
-.people.grid-auto .front-and-back {
+.people.grid-fluid .front-and-back {
   margin: 0;
   box-shadow: var(--box-shadow-grid);
   border-radius: var(--border-radius-grid);

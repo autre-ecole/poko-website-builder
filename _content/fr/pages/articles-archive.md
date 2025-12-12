@@ -6,7 +6,7 @@ name: Articles (archive)
 
 # Articles (archive)
 
-<div class="articles-list grid-auto">
+<div class="articles-list grid-fluid">
 {%- for post in collections.articles -%}
   <article class="article-card breakout-clickable">
     <h3 class="h4"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>

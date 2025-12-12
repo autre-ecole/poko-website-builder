@@ -11,7 +11,7 @@ Cette page rassemble les articles, réflexions et témoignages rédigés par les
 
 ## Nos derniers articles
 
-<div class="articles-list grid-auto">
+<div class="articles-list grid-fluid">
 {%- for post in collections.articles | first(3) -%}
   <article class="article-card breakout-clickable">
     <h3 class="h4"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
