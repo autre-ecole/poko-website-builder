@@ -4,9 +4,10 @@ status: published
 name: Inscription
 eleventyNavigation:
   order: 20
-vars: {}
 ---
 # S'inscrire à l'Autre École
+
+{% partial "inscription-en-cours-modalites.md" %}
 
 ## Une inscription qui est avant tout une adhésion
 
