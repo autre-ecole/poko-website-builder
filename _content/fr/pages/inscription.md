@@ -4,10 +4,9 @@ status: published
 name: Inscription
 eleventyNavigation:
   order: 20
+vars: {}
 ---
 # S'inscrire à l'Autre École
-
-{% partial "inscription-en-cours-modalites.md" %}
 
 ## Une inscription qui est avant tout une adhésion
 
@@ -19,7 +18,7 @@ Conformément à nos Options Fondamentales, nous considérons que:
 
 Cette adhésion implique une réelle cohérence entre les valeurs véhiculées à l'école et celles transmises dans le milieu familial, ainsi qu'une participation active des parents à la vie de l'école.
 
-{% section "side-by-side.njk", {"blocks":[{"src":"/_images/IMG_4718.webp","alt":"","title":"","width":null,"aspectRatio":null,"loading":"","imgAttrs":"","type":"image"},{"src":"/_images/patchwork-1.webp","alt":"","title":"","width":null,"aspectRatio":null,"loading":"","imgAttrs":"","type":"image"}]} %}
+{% section type="", vars={}, blocks=[], advanced={} %}
 
 ## Comprendre notre projet avant de s'engager
 
