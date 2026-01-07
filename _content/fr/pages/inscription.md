@@ -7,8 +7,6 @@ eleventyNavigation:
 ---
 # S'inscrire à l'Autre École
 
-{% partial "inscription-en-cours-modalites.md" %}
-
 ## Une inscription qui est avant tout une adhésion
 
 Inscription à l'Autre École signifie avant tout adhésion à son projet pédagogique. Choisir notre école, c'est s'engager dans un parcours éducatif différent, fondé sur les principes de la pédagogie Freinet et sur des valeurs fortes comme la liberté, la responsabilité, la solidarité, la coopération et le pluralisme.
