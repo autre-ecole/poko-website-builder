@@ -17,7 +17,7 @@ Conformément à nos Options Fondamentales, nous considérons que:
 
 Cette adhésion implique une réelle cohérence entre les valeurs véhiculées à l'école et celles transmises dans le milieu familial, ainsi qu'une participation active des parents à la vie de l'école.
 
-{% section type="", vars={}, blocks=[], advanced={} %}
+{% section type="", vars={}, blocks=[{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/IMG_4718.webp"},{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/patchwork-1.webp"}], advanced={"sectionSlug":"side-by-side","vars":null} %}
 
 ## Comprendre notre projet avant de s'engager
 
