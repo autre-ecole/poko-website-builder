@@ -4,6 +4,7 @@ status: published
 name: Inscription
 eleventyNavigation:
   order: 20
+vars: {}
 ---
 # S'inscrire à l'Autre École
 
@@ -40,7 +41,7 @@ Cette structure verticale signifie que chaque classe accueille des enfants d'âg
 
 Le nombre de places disponibles varie d'année en année en fonction des départs et est généralement plus important en classes maternelles qu'en primaire.
 
-<img src="/_images/l-autre-ecole-vue-du-terrain.webp" alt="" />
+<img src="/_images/ae-vue-balade-verte.webp" alt="" />
 
 ## Processus d'inscription
 
