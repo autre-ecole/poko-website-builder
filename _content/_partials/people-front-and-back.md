@@ -6,7 +6,7 @@
 <img
   class="person back"
   src="{{ item.data.dataList[0].src }}"
-  alt="{{ item.data.name }}"
+  alt="{{ item.data.name | split(' ') | first }}"
   loading="lazy"
   aria-hidden="true"
   width="350"
