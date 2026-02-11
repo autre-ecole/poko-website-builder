@@ -3,6 +3,7 @@
 {% for item in items %}
 <div>
 <figure class="front-and-back pile">
+{% if item.data.dataList[0].src %}
 <img
   class="person back"
   src="{{ item.data.dataList[0].src }}"
@@ -12,6 +13,7 @@
   width="350"
   style="{{ item.data.vars.previewImgStyle | default("") }}"
 />
+{% endif %}
 <img
   class="person front"
   src="{{ item.data.preview.image.src }}"
@@ -54,5 +56,5 @@
 .people .h5 { margin-block-start: 0; }
 
 .front-and-back > .front { opacity: 1; transition: opacity 0.1s ease-in-out; }
-.front-and-back:hover > .front { opacity: 0; }
+.front-and-back:hover > .back + .front { opacity: 0; }
 {% endcss %}
