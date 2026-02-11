@@ -2,8 +2,7 @@
 {% for ageGroup, items in collections.people | groupby("data.vars.ageGroup") %}
 {% for item in items %}
 <div>
-<figure class="front-and-back pile">
-{% if item.data.dataList[0].src %}
+<figure class="front-and-back pile"> {% if item.data.dataList[0].src %}
 <img
   class="person back"
   src="{{ item.data.dataList[0].src }}"
@@ -12,8 +11,7 @@
   aria-hidden="true"
   width="350"
   style="{{ item.data.vars.previewImgStyle | default("") }}"
-/>
-{% endif %}
+/> {% endif %}
 <img
   class="person front"
   src="{{ item.data.preview.image.src }}"
