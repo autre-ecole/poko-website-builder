@@ -5,7 +5,6 @@ name: Inscription
 eleventyNavigation:
   order: 20
 ---
-
 # S'inscrire à l'Autre École
 
 ## Une inscription qui est avant tout une adhésion
@@ -74,7 +73,7 @@ Après cette rencontre, si les deux parties confirment leur accord, l'inscriptio
 
 L'inscription à l'Autre École implique un engagement concret des parents dans la vie de l'école. Cet engagement se traduit par:
 
-- **La participation à au moins une commission** (pédagogie, bâtiment, communication, fêtes, finances...)
+- **La participation à au moins&#32;[une commission](/les-commissions/)** (pédagogie, bâtiment, communication, fêtes, finances...)
 - **La présence aux assemblées générales** (3 à 4 par an)
 - **L'aide ponctuelle** lors des journées de nettoyage, des fêtes d'école, etc.
 - **Le suivi et le soutien** de la scolarité de l'enfant en cohérence avec l'approche pédagogique
