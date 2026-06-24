@@ -147,7 +147,7 @@ Tout au long de l'année, de nombreuses sorties sont organisées:
 
 La vie de l'école repose sur l'engagement des parents et des animateurs au sein de différentes commissions thématiques:
 
-- Commission **Travaux**
+- [Commission **Travaux**](/la-commission-travaux/)
 - Commission **Jardin**
 - Commission **Fêtes**
 - [Commission **Informatique**](/la-commission-informatique/)
