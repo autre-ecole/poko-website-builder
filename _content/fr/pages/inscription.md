@@ -31,7 +31,7 @@ Pour cela, nous vous invitons à:
 
 ## Notre structure et capacité d'accueil
 
-L'Autre École est un établissement à taille humaine comprenant:
+L'Autre École est un établissement à taille humaine comprenant: 
 
 - 3 classes maternelles en organisation verticale (multi-âges)
 - 6 classes primaires également organisées en cycles verticaux
