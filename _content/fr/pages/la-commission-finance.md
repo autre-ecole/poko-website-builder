@@ -31,21 +31,28 @@ Nous aidons l'ASBL à suivre la situation financière de l'école, à préparer 
 
 ## Ce qu’on ne fait pas
 
-- …
-- …
-- …
+- On ne passe pas nos soirées à compter les pièces de la tirelire de la fête de l'école
+- On ne transforme pas chaque réunion en cours de comptabilité
+- On ne demande pas à chaque parent son ticket de caisse avant d'entrer dans l'école
 
 ## Qui nous sommes
 
-- …
-- …
-- …
+- Louis Michiels (papa d'Alexandre et Élisabeth)
 
 ## Nous contacter
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
-- Ou par mail
+- Ou par mail Louis administrateur d'Alternative Pédagogique: [**louis.michiels@gmail.com**]()
 
 ## Nous rejoindre
 
-…
+Tu n'as pas besoin d'être expert-comptable.
+
+Tu peux trouver ta place si tu es:
+
+- à l'aise avec les chiffres ou l'organisation administrative
+- rigoureux·se et discret·ète
+- prêt·e à t'investir quelques heures par mois, idéalement pour un engagement d'un à deux ans
+- motivé·e à contribuer concrètement à l'avenir de l'école
+
+Même quelques heures par mois peuvent faire une vraie différence
