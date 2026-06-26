@@ -23,5 +23,6 @@ Les commissions sont ouvertes et, parfois, elles œuvrent de concert. D'autres 
 ## [Commission Fêtes](/la-commission-fetes/)
 
 ## [Commission Digitale](/la-commission-digitale/)
+Commission Finance
 
 Si un projet de nouvelle commission vous tente, n’hésitez pas à en parler autour de vous et à vous lancer. L’équipe pédagogique viendra certainement vous soutenir.
