@@ -42,8 +42,8 @@ Nous incarnons aussi les valeurs de Freinet : coopération, tâtonnement expér
 ## Nous contacter
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
-- Ou par mail
+- Par mail: [commissionfetes@gmail.com](mailto:commissionfetes@gmail.com)
 
 ## Nous rejoindre
 
-…
+Besoin ni d'un doctorat en créativité, ni de beaucoup de temps ni même de biscottos comme Popeye... Une petite contribution est déjà un cadeau, viens comme tu es!
