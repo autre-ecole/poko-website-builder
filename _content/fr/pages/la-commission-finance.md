@@ -6,7 +6,7 @@ uuid: 15643db46675
 localizationKey: f7416dfde7e3
 name: La commission finance
 ---
-# **La Commission Jardin (écologique)&#160;**
+# **La Commission Finance&#160;**
 
 _On ne fait pas que des tableaux Excel: on veille à ce que l'école puisse continuer à faire vivre son projet pédagogique._
 
@@ -42,7 +42,7 @@ Nous aidons l'ASBL à suivre la situation financière de l'école, à préparer 
 ## Nous contacter
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
-- Ou par mail Louis administrateur d'Alternative Pédagogique: [**louis.michiels@gmail.com**]()
+- Ou par mail Louis administrateur d'Alternative Pédagogique: **louis.michiels@gmail.com**
 
 ## Nous rejoindre
 
