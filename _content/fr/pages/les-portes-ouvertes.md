@@ -8,8 +8,6 @@ name: Les Portes Ouvertes
 ---
 # **Les Portes Ouvertes**
 
-Les **Portes Ouvertes** ont eu lieu le **mardi 09 décembre 2025**. 
-
 La date de la prochaine présentation du fonctionnement et du projet de société proposé par l'Autre École, vous sera communiquée ici dès qu'elle sera définie.
 
 Retrouvez les infos et [le processus d'inscription](/inscription/).
