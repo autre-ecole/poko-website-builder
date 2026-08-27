@@ -7,7 +7,7 @@ generatePage: previewOnly
 name: Alizée Thoelen
 preview:
   image:
-    src: /_images/ae-autoportraits-user-glasses.svg
+    src: /_images/ae-autoportrait-alizee.webp
 vars:
   role: Animatrice
   classroom: Classe Orange
