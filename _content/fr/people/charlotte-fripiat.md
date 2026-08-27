@@ -7,7 +7,7 @@ generatePage: previewOnly
 name: Charlotte Fripiat
 preview:
   image:
-    src: /_images/ae-autoportraits-user-glasses.svg
+    src: /_images/ae-autoportrait-charlotte.webp
 vars:
   role: Animatrice
   classroom: Classes blanche, verte, orange, jaune
