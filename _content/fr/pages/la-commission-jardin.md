@@ -8,7 +8,7 @@ name: La commission jardin
 ---
 # **La Commission Jardin (écologique)&#160;**
 
-_On ne fait pas que jardiner: on prend soin d’un petit coin de nature au cœur de l’école._
+_On ne fait pas que jardiner: on prend soin des coins de nature de l’école._
 La Commission Jardin veille à entretenir le jardin écologique de l’école pour qu’il reste un espace agréable, vivant et accessible à tous.
 Défricher, tailler, couper, planter… mais aussi observer, papoter, prendre l’air et profiter d’un bon moment ensemble: ici, on met les mains dans la terre autant qu’on en profite!
 
