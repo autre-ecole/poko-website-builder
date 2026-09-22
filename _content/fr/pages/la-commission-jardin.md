@@ -14,7 +14,7 @@ Défricher, tailler, couper, planter… mais aussi observer, papoter, prendre l�
 
 ## Notre mission
 
-Le jardin est bien plus qu’un espace vert : c’est un véritable terrain de découverte pour les enfants.
+Le jardin est bien plus qu’un espace vert: c’est un véritable terrain de découverte pour les enfants.
 Ils peuvent y observer les têtards, les grenouilles, les insectes et les plantes qui y vivent, mais aussi simplement profiter du jardin pour pique-niquer lorsque le soleil est de la partie.
 Des bacs de plantation permettent également aux enfants de développer leur main verte lors d’ateliers organisés par les animateurs.
 Notre rôle est donc de prendre soin de cet espace et de permettre à la nature d’y trouver sa place.
