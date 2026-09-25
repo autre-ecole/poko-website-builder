@@ -4,7 +4,6 @@ status: published
 name: Inscription
 eleventyNavigation:
   order: 20
-vars: {}
 ---
 # S'inscrire à l'Autre École
 
@@ -54,9 +53,9 @@ La participation à une séance d'information est **obligatoire** pour toute fam
 - De présenter en détail notre projet pédagogique et nos spécificités
 - D'exposer les modalités de participation des parents à la vie de l'école
 - De visiter les locaux et de rencontrer des membres de l'équipe
-- De répondre à toutes vos questions
+- De répondre à la majorité de vos questions
 
-Les dates retenues pour [**les Portes Ouvertes**](/les-portes-ouvertes/) seront mises à jour chaque année à partir du mois d'octobre.
+Les dates pour [**les Portes Ouvertes**](/les-portes-ouvertes/) sont mises à jour chaque année aux environs du début du mois d'octobre.
 
 ### 2. Formulaire de préinscription
 
