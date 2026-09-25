@@ -9,6 +9,8 @@ eleventyNavigation:
 
 Une école Freinet où chaque enfant est acteur de ses apprentissages dans un environnement coopératif et bienveillant.
 
+L'école dispose actuellement de **quelques places disponibles** : **1 en M3** (troisième maternelle) et **2 en P1** (première primaire). Si vous êtes intéressés par une de ces places, prenez contact avec le [secrétariat](mailto:secrétariat@autre-ecole.org) ou la [direction](mailto:direction@autre-ecole.org) de l'école. 
+
 <img src="/_images/Batiment-accueil.webp" alt="" style="aspect-ratio: 2;" />
 
 ## Notre identité
@@ -17,7 +19,7 @@ L'Autre École est un établissement d'enseignement fondamental libre subvention
 
 Nous accueillons les enfants de 2½ à 12 ans dans un cadre à taille humaine où l'apprentissage se fait par la coopération, l'expression libre et la responsabilisation.
 
-{% section "switcher-width-prose.njk", {"blocks":[{"type":"markdown","value":"### Pédagogie active\n\nUne approche Freinet où l'enfant construit ses apprentissages à partir de ses expériences, de ses intérêts et de la vie coopérative.\n\n[En savoir plus sur notre pédagogie]({{ 'pedagogie' | locale_url }})"},{"value":"### Vie participative\n\nUne structure de cogestion unique où parents et équipe pédagogique s'engagent ensemble pour faire vivre le projet d'école.\n\n[Découvrir notre organisation]({{ 'projet-d-etablissement' | locale_url }})","type":"markdown"},{"value":"### Vivre ensemble\n\nUn lieu d'épanouissement où les enfants développent leur autonomie et leur sens des responsabilités dans le respect de chacun.\n\n[Nos valeurs]({{ \"valeurs\" | locale_url }})","type":"markdown"}]} %}
+{% section type="", vars={}, blocks=[], advanced={} %}
 
 <img src="/_images/bandeau-papier.webp" alt="" />
 
