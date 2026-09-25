@@ -14,6 +14,8 @@ Ce sera l'occasion de vous présenter le fonctionnement de l'école et le projet
 
 Toute personne intéressée par notre projet est la bienvenue.
 
+Merci d'annoncer votre venue[ ici](https://forms.gle/ED8LdYFpGc6d1Z2W8)
+
 Retrouvez les infos et [le processus d'inscription](/inscription/).
 
 <img src="/_images/Bandeau-AE-portes-ouvertes.webp" alt="" />
