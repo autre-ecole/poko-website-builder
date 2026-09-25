@@ -8,7 +8,11 @@ name: Les Portes Ouvertes
 ---
 # **Les Portes Ouvertes**
 
-La date de la prochaine présentation du fonctionnement et du projet de société proposé par l'Autre École, vous sera communiquée ici dès qu'elle sera définie.
+L'Autre École ouvrira ses portes le **samedi 28 novembre 2026, de 9h à 12h**.
+
+Ce sera l'occasion de vous présenter le fonctionnement de l'école et le projet de société qu'elle propose.
+
+Toute personne intéressée par notre projet est la bienvenue.
 
 Retrouvez les infos et [le processus d'inscription](/inscription/).
 
