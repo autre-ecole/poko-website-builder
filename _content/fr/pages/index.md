@@ -11,7 +11,7 @@ Une école Freinet où chaque enfant est acteur de ses apprentissages dans un en
 
 L'école dispose actuellement de **quelques places disponibles** : **1 en M3** (troisième maternelle) et **2 en P1** (première primaire). Si vous êtes intéressés par une de ces places, prenez contact avec le [secrétariat](mailto:secretariat@autre-ecole.org) ou la [direction](mailto:direction@autre-ecole.org) de l'école. 
 
-Si vous souhaitez assister à nos **Portes Ouvertes**, rendez-vous sur l'onglet Inscriptions. Les informations ont été mises à jour.
+Si vous souhaitez assister à nos [**Portes Ouvertes**](https://www.autre-ecole.org/les-portes-ouvertes/), rendez-vous sur l'onglet Inscriptions. Les informations ont été mises à jour.
 
 <img src="/_images/Batiment-accueil.webp" alt="" style="aspect-ratio: 2;" />
 
