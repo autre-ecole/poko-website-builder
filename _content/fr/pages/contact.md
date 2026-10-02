@@ -1,10 +1,15 @@
 ---
 translationKey: contact
-status: published
+order: 10
+lang: fr
+createdAt: 2026-10-02T10:03:00.000Z
+ldType: WebPage
 name: Contact
 eleventyNavigation:
-  order: 15
+  add: Nav
+status: published
 ---
+
 # Contacter l'Autre École
 
 L'Autre École est une communauté éducative où la communication et l'échange sont au cœur de notre fonctionnement. N'hésitez pas à nous contacter pour toute question concernant notre projet pédagogique, nos activités ou pour prendre rendez-vous.
@@ -59,7 +64,7 @@ Si vous souhaitez découvrir notre école en vue d'une possible inscription, nou
 
 Pour toute autre demande de visite, merci de contacter au préalable le secrétariat par téléphone ou par email.
 
-<img src="/_images/contact-batiment.webp" alt="" />
+{% image src="/_images/contact-batiment.webp" %}
 
 ## Contacter une commission spécifique
 

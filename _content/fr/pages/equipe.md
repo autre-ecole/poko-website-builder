@@ -1,10 +1,15 @@
 ---
 translationKey: equipe
-status: published
+order: 7
+lang: fr
+createdAt: 2026-10-02T10:01:00.000Z
+ldType: WebPage
 name: L'équipe
 eleventyNavigation:
-  order: 7
+  add: Nav
+status: published
 ---
+
 # L'équipe pédagogique
 
 ## Des animateurs et animatrices, pas des enseignants
@@ -23,7 +28,7 @@ Notre équipe pédagogique partage une vision commune de l'enfant et de l'éduca
 
 ## Composition de l'équipe
 
-{% partial "people-front-and-back.md" %}
+{% htmlPartial "people-front-and-back.njk" %}
 
 ### Équipe maternelle
 
@@ -93,7 +98,7 @@ Les surveillants jouent un rôle essentiel dans le bien-être des enfants pendan
 
 La direction coordonne l'équipe pédagogique et assure le lien entre tous les acteurs de l'école (enfants, animateurs, parents, pouvoir organisateur) dans une démarche collégiale et participative. Elle est accompagnée par le secrétariat pour la réalisation de ces tâches.
 
-{% image src="/_images/Equipe-2024-2025-face.webp", alt="L'équipe pédagogique de l'Autre École en 2025" %}
+{% image src="/_images/Equipe-2024-2025-face.webp", alt="L'équipe pédagogique de l'Autre École en 2025", class="width-body" %}
 
 ## Une équipe en formation continue
 

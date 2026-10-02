@@ -1,7 +1,8 @@
 ---
 translationKey: articles-archive
-status: published
+order: 13
 name: Articles (archive)
+status: published
 ---
 
 # Articles (archive)

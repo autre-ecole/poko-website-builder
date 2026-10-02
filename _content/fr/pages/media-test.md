@@ -1,12 +1,15 @@
 ---
 translationKey: media-test
+order: 16
 lang: fr
 createdAt: 2026-06-13T15:54:00.000Z
-uuid: e2e474c8502d
-localizationKey: 9b76779e5302
-status: noindex
+ldType: WebPage
 name: media-test
+status: draft
+localizationKey: 9b76779e5302
+uuid: e2e474c8502d
 ---
+
 # Médias
 
 ## Classe rouge

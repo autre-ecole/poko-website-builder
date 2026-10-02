@@ -1,30 +1,28 @@
 ---
 translationKey: articles
-status: published
+order: 8
+lang: fr
+createdAt: 2026-10-02T10:02:00.000Z
+ldType: WebPage
 name: Articles
 eleventyNavigation:
-  order: 9
+  add: Nav
+status: published
 ---
+
 # La parole de l'Autre École
 
 Cette page rassemble les articles, réflexions et témoignages rédigés par les différents acteurs de notre communauté éducative: animateurs, parents, enfants et partenaires. Chaque contribution illustre une facette de notre projet pédagogique et de notre vie coopérative.
 
 ## Nos derniers articles
 
-<div class="articles-list grid-fluid">
-{%- for post in collections.articles | first(3) -%}
-  <article class="article-card breakout-clickable">
-    <h3 class="h4"><a href="{{ post.url }}">{{ post.data.title }}</a></h3>
-    <div class="article-meta">
-      <time datetime="{{ post.date | dateToSlug }}" class="article-date">{{ post.date | toLocaleString(lang, { year: "numeric", month: "long", day: "numeric" }) }}</time>
-      {% if post.data.author %}<span class="article-author">par {{ post.data.author }}</span>{% endif %}
-    </div>
-    {% if post.data.description %}
-    <p class="article-description">{{ post.data.description }}</p>
-    {% endif %}
-  </article>
-{%- endfor -%}
-</div>
+{% sectionCollection  %}
+{% sectionHeader  %}
+## Nos derniers articles
+{% endsectionHeader %}
+{% collection collection="articles", filters=[{"by":"first","value":3}], sortCriterias=[{"by":"date","direction":"desc"}], type="switcher", class="articles-list", itemPartial="card-article" %}{% endcollection %}
+
+{% endsectionCollection %}
 
 Retrouvez la liste complète des articles dans notre [archive](/articles-archive/).
 

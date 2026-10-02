@@ -10,13 +10,17 @@ htmlHead: |-
   <link rel="manifest" href="/assets/files/icons/site.webmanifest" />
 languages:
   - code: fr
-    name: Français
+    status: published
+    keepUrlPrefix: false
     customUrlPrefix:
       prefix: ''
-    status: published
     isCmsDefault: true
     isWebsiteDefault: true
+    name: Français
 collections:
   - articles
   - people
+newTabLinkTypes:
+  - external
+  - file
 lang: fr

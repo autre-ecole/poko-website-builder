@@ -1,8 +1,10 @@
 ---
 translationKey: projet-d-etablissement
-status: published
+order: 6
 name: Le projet d'établissement
+status: published
 ---
+
 # Le projet d’établissement de L'Autre École
 
 La rédaction du projet est le fruit d’un travail collectif des animateurs pour lequel les parents ont été consultés.

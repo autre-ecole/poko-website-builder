@@ -1,11 +1,13 @@
 ---
 translationKey: les-portes-ouvertes
+order: 14
 lang: fr
 createdAt: 2025-10-09T07:01:00.000Z
-uuid: a7660452c3ba
-localizationKey: 66ccc39db44d
 name: Les Portes Ouvertes
+localizationKey: 66ccc39db44d
+uuid: a7660452c3ba
 ---
+
 # **Les Portes Ouvertes**
 
 L'Autre École ouvrira ses portes le **samedi 28 novembre 2026, de 9h à 12h**.

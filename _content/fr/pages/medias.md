@@ -1,12 +1,14 @@
 ---
 translationKey: medias
+order: 15
 lang: fr
 createdAt: 2025-12-11T10:53:00.000Z
-uuid: 3bbc0f6feb9f
-localizationKey: 58c502173bfa
-status: noindex
 name: Medias
+status: noindex
+localizationKey: 58c502173bfa
+uuid: 3bbc0f6feb9f
 ---
+
 # Médias
 
 ## Classe rouge

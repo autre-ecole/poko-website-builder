@@ -1,0 +1,20 @@
+{% set navPages = collections.all | filterCollection([{ by: 'lang', value:
+lang }, { by: 'parent', value: undefined }]) | eleventyNavigation %}
+{% if navPages | length %}
+    <header>
+        <a href="/" class="block">
+            {% image src="/_images/logo-AE-new-blue.svg", alt="", class="nav-logo", width="70" %}
+        </a>
+        <nav>
+            <!-- Main pages navigation -->
+            <ul role="list" id="main-nav" class="cluster">
+                {% for link in navPages %}
+                    <li>
+                        {# prettier-ignore #}
+                        <a href="{{ link.url }}" hreflang="{{ link.lang }}" {% if link.url == page.url %} aria-current="page" {% endif %}>{{ link.title }}</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </header>
+{% endif %}

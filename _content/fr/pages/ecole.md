@@ -1,10 +1,15 @@
 ---
 translationKey: ecole
-status: published
+order: 2
+lang: fr
+createdAt: 2026-10-02T10:00:00.000Z
+ldType: WebPage
 name: L'école
 eleventyNavigation:
-  order: 2
+  add: Nav
+status: published
 ---
+
 # L'Autre École : Un lieu de vie et d'épanouissement
 
 ## Notre identité et notre mission
@@ -28,23 +33,23 @@ Nos espaces sont pensés pour favoriser tant les apprentissages structurés que 
 
 L'Autre École se distingue par son approche pédagogique fondée sur plusieurs piliers essentiels :
 
-### [Nos valeurs]({{ "valeurs" | locale_url }})
+### {% link url="valeurs", type="internal", collection="pages" %}Nos valeurs{% endlink %}
 
 La liberté, la responsabilité, la solidarité, la coopération et le pluralisme sont au cœur de notre projet. Ces valeurs fondatrices, définies dans nos Options Fondamentales (texte rédigé par l'équipe et les parents fondateurs de l'école), guident l'ensemble de notre action éducative et se traduisent concrètement dans l'organisation de la vie scolaire.
 
-### [Notre pédagogie]({{ "pedagogie" | locale_url }})
+### {% link url="pedagogie", type="internal", collection="pages" %}Notre pédagogie{% endlink %}
 
 Inspiré par Célestin Freinet, notre approche pédagogique privilégie l'expression libre, les méthodes naturelles d'apprentissage, le tâtonnement expérimental et la coopération. Nous croyons en la capacité de chaque enfant à construire ses savoirs et à développer son autonomie dans un cadre bienveillant et stimulant.
 
-### [La vie de l'école]({{ "la-vie-de-l-ecole" | locale_url }})
+### {% link url="la-vie-de-l-ecole", type="internal", collection="pages" %}{% endlink %}
 
 La vie quotidienne à l'Autre École est rythmée par des moments collectifs structurants (Forum, Conseil d'école), des ateliers verticaux, des projets de classe et des événements qui renforcent le sentiment d'appartenance à une communauté apprenante. Les enfants sont acteurs de cette vie collective et participent activement aux décisions qui les concernent.
 
-### [Notre projet d'établissement]({{ "projet-d-etablissement" | locale_url }})
+### {% link url="projet-d-etablissement", type="internal", collection="pages" %}Notre projet d'établissement{% endlink %}
 
 Notre projet d'établissement détaille les objectifs pédagogiques et les moyens mis en œuvre pour les atteindre, en conformité avec les prescrits légaux et les Options Fondamentales de l'école. Il est régulièrement actualisé par l'équipe pédagogique et le pouvoir organisateur pour rester en phase avec les besoins des enfants et l'évolution de la société.
 
-_Pour plus d'informations pratiques sur le fonctionnement quotidien de l'école, consultez notre [Règlement d'Ordre Intérieur et notre Règlement des Études]({{ "ressources" | locale_url }})._
+_Pour plus d'informations pratiques sur le fonctionnement quotidien de l'école, consultez notre_ {% link url="ressources", anchor="Règlement d'Ordre Intérieur (ROI)", type="internal", collection="pages" %}_Règlement d'Ordre Intérieur et notre Règlement des Études_{% endlink %}_._
 
 ## Une école participative
 
@@ -75,4 +80,4 @@ En 1996, après des années d'efforts et grâce à l'engagement des parents et d
 
 Toujours fidèle à ses principes fondateurs, l'Autre École a su évoluer avec son temps tout en préservant l'essence de son projet éducatif : permettre à chaque enfant de grandir en liberté et en responsabilité, dans un cadre coopératif et solidaire.
 
-_Le livre d'Henry Landroit « Histoire de l'Autre École 1973-1996 » qui retrace une partie de l'histoire de l'école est disponible. Pour plus d'informations, n'hésitez pas à [nous contacter]({{ "contact" | locale_url }})._
+_Le livre d'Henry Landroit « Histoire de l'Autre École 1973-1996 » qui retrace une partie de l'histoire de l'école est disponible. Pour plus d'informations, n'hésitez pas à_ {% link url="contact", type="internal", collection="pages" %}_nous contacter_{% endlink %}_._

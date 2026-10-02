@@ -1,8 +1,10 @@
 ---
 translationKey: la-vie-de-l-ecole
-status: published
+order: 5
 name: La vie de l'école
+status: published
 ---
+
 # La vie de l'école
 
 L'Autre École est un lieu de vie collégiale où se concrétisent au quotidien les valeurs de coopération, de liberté responsable et de solidarité. Notre organisation quotidienne et les événements qui rythment l'année reflètent directement notre projet pédagogique et nos options fondamentales.

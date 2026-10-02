@@ -1,8 +1,10 @@
 ---
 translationKey: options-fondamentales
-status: inactive
+order: 12
 name: Options fondamentales
+status: inactive
 ---
+
 # Options fondamentales
 
 ## Introduction

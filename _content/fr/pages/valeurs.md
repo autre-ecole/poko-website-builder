@@ -1,8 +1,10 @@
 ---
 translationKey: valeurs
-status: published
+order: 3
 name: Valeurs
+status: published
 ---
+
 # Les options fondamentales
 
 L'Autre École s'inspire des idées politiques et pédagogiques de Célestin Freinet. Quelles sont nos valeurs? Ce sont les convictions profondes qui guident notre jugement pour déterminer si une fin ou un moyen est souhaitable ou non.

@@ -1,9 +1,13 @@
 ---
 translationKey: ressources
-status: published
+order: 9
+lang: fr
+createdAt: 2026-10-02T10:02:00.000Z
+ldType: WebPage
 name: Ressources
 eleventyNavigation:
-  order: 12
+  add: Nav
+status: published
 ---
 
 # Ressources et documentation
@@ -16,19 +20,13 @@ Cette section regroupe les documents fondamentaux qui définissent notre identit
 
 Les Options Fondamentales constituent le texte fondateur de l'Autre École, rédigé par les parents fondateurs. Ce document essentiel définit les valeurs, l'approche pédagogique et les principes organisationnels qui guident notre école depuis sa création.
 
-<p>
-{% icon "tabler:download" %}
-<a href="/assets/files/options_fondamentales.pdf">Télécharger les Options Fondamentales</a>
-</p>
+<p>{% icon "tablerOutline:download" %} {% link url="/assets/files/options_fondamentales.pdf", type="file" %}Télécharger les Options Fondamentales{% endlink %}</p>
 
 ### Règlement d'Ordre Intérieur (ROI)
 
 Le ROI détaille les règles de vie commune et les aspects pratiques du fonctionnement quotidien de l'école, dans le respect des valeurs définies par nos Options Fondamentales.
 
-<p>
-{% icon "tabler:download" %}
-<a href="/assets/files/ROI_fondamental-2024.pdf">Télécharger le Règlement d'Ordre Intérieur</a>
-</p>
+<p>{% icon "tabler:download" %} {% link url="/assets/files/ROI_fondamental-2024.pdf", type="file" %}Télécharger le Règlement d'Ordre Intérieur{% endlink %}</p>
 
 {#
 
@@ -45,7 +43,7 @@ Ce document précise notre approche de l'évaluation, l'organisation des apprent
 
 ### Projet d'établissement
 
-Notre projet d'établissement, accessible sur [sa page dédiée](/projet-d-etablissement/), détaille les objectifs pédagogiques et les moyens mis en œuvre pour les atteindre.
+Notre {% link url="projet-d-etablissement", type="internal", collection="pages" %}projet d'établissement{% endlink %}, détaille les objectifs pédagogiques et les moyens mis en œuvre pour les atteindre.
 
 ## Documents pratiques pour les parents
 
@@ -55,10 +53,7 @@ Cette section rassemble les documents administratifs et pratiques utiles au quot
 
 En cas d'absence de votre enfant en âge d'obligation scolaire (dès 5 ans), vous devez rentrer un justificatif d'absence à l'école. Voici un exemplaire à imprimer et compléter.
 
-<p>
-{% icon "tabler:download" %}
-<a href="/assets/files/Justificatif-Absence-AE.pdf">Télécharger le justificatif d'absence</a>
-</p>
+<p>{% icon "tabler:download" %} {% link url="/assets/files/Justificatif-Absence-AE.pdf", type="file" %}Télécharger le justificatif d'absence{% endlink %}</p>
 
 {#
 

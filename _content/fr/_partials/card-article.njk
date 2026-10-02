@@ -1,0 +1,14 @@
+<article class="article-card breakout-clickable">
+    <h3 class="h4">
+        <a href="{{ url }}">{{ title }}</a>
+    </h3>
+    <div class="article-meta">
+        <time datetime="{{ date | dateToSlug }}" class="article-date">{{ date | toLocaleString(lang, { year: "numeric", month: "long", day: "numeric" }) }}</time>
+        {% if author %}
+            <span class="article-author">par {{ author }}</span>
+        {% endif %}
+    </div>
+    {% if description %}
+        <p class="article-description">{{ description }}</p>
+    {% endif %}
+</article>

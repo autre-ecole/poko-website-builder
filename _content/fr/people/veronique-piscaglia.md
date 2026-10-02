@@ -16,7 +16,7 @@ vars:
 dataList:
   - type: image
     key: imgVerso
-    src: /_images/Photo-V%C3%A9ronique.webp
+    src: /_images/Photo-Veronique.webp
     alt: ''
     title: ''
     width: null

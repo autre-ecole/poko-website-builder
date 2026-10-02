@@ -1,14 +1,18 @@
 ---
 translationKey: inscription
-status: published
+order: 11
+lang: fr
+createdAt: 2026-10-02T10:03:00.000Z
+ldType: WebPage
 name: Inscription
 eleventyNavigation:
-  order: 20
-vars: {}
+  add: Nav
+status: published
 ---
+
 # S'inscrire à l'Autre École
 
-## Une inscription qui est avant tout une adhésion
+Une inscription qui est avant tout une adhésion {.poko .font-bold .text-pretty .h2}
 
 Inscription à l'Autre École signifie avant tout adhésion à son projet pédagogique. Choisir notre école, c'est s'engager dans un parcours éducatif différent, fondé sur les principes de la pédagogie Freinet et sur des valeurs fortes comme la liberté, la responsabilité, la solidarité, la coopération et le pluralisme.
 
@@ -18,7 +22,18 @@ Conformément à nos Options Fondamentales, nous considérons que:
 
 Cette adhésion implique une réelle cohérence entre les valeurs véhiculées à l'école et celles transmises dans le milieu familial, ainsi qu'une participation active des parents à la vie de l'école.
 
-{% section type="", vars={}, blocks=[{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/IMG_4718.webp"},{"alt":"","title":"","width":null,"aspectRatio":null,"loading":"","rawAttrs":"","type":"image","src":"/_images/patchwork-1.webp"}], advanced={"sectionSlug":"side-by-side","vars":null} %}
+{% sectionTwoColumns  %}
+
+{% twoColumns  %}
+{% twoColumnsItem  %}
+{% image src="/_images/IMG_4718.webp", aspectRatio="1.6180/1" %}
+{% endtwoColumnsItem %}
+{% twoColumnsItem  %}
+{% image src="/_images/patchwork-1.webp", aspectRatio="1.6180/1" %}
+{% endtwoColumnsItem %}
+{% endtwoColumns %}
+
+{% endsectionTwoColumns %}
 
 ## Comprendre notre projet avant de s'engager
 
@@ -41,7 +56,7 @@ Cette structure verticale signifie que chaque classe accueille des enfants d'âg
 
 Le nombre de places disponibles varie d'année en année en fonction des départs et est généralement plus important en classes maternelles qu'en primaire.
 
-<img src="/_images/cour-vue-balade-verte.webp" alt="" />
+{% image src="/_images/cour-vue-balade-verte.webp" %}
 
 ## Processus d'inscription
 
@@ -85,6 +100,6 @@ Cette asbl vous proposera/demandera :
 
 Cet engagement parental est l'une des spécificités et des forces de notre projet. Il permet de construire une véritable communauté éducative autour des enfants et contribue à la richesse de notre école.
 
----
+***
 
 _Merci de noter que pour des raisons organisationnelles, nous ne sommes pas en mesure de répondre aux demandes individuelles par téléphone concernant les inscriptions. Toutes les informations nécessaires seront communiquées lors des séances d'information et sur notre site web._
