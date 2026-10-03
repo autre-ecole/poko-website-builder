@@ -5,7 +5,7 @@ lang: fr
 createdAt: 2026-06-13T15:54:00.000Z
 ldType: WebPage
 name: media-test
-status: draft
+status: noindex
 localizationKey: 9b76779e5302
 uuid: e2e474c8502d
 ---
