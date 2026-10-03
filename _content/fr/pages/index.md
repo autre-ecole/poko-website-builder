@@ -47,7 +47,7 @@ Nous accueillons les enfants de 2½ à 12 ans dans un cadre à taille humaine o�
 
 ## Un projet éducatif unique
 
-L'Autre École se distingue par son approche globale de l'éducation qui s'articule autour de principes fondamentaux:
+L'Autre École se distingue par son approche globale de l'éducation qui s'articule autour de principes fondamentaux: 
 
 - **Méthodes naturelles d'apprentissage**: apprendre en faisant, par tâtonnement expérimental et en fonction des besoins réels
 - **Expression libre et créative**: donner la parole à l'enfant sous toutes ses formes
@@ -62,4 +62,4 @@ L'Autre École se distingue par son approche globale de l'éducation qui s'artic
 
 Consultez nos documents institutionnels, les outils pédagogiques et les ressources pour les familles.
 
-[Accéder aux ressources]({{ "ressources" | locale_url }})
+{% link url="ressources", type="internal", collection="pages" %}Accéder aux ressources{% endlink %}
