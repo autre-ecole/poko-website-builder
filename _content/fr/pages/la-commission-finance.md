@@ -43,13 +43,11 @@ Nous aidons l'ASBL à suivre la situation financière de l'école, à préparer 
 ## Nous contacter
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
-- Ou par mail Louis administrateur d'Alternative Pédagogique: louis.michiels@gmail.com
+- Ou par mail Louis administrateur d'Alternative Pédagogique: {% link url="louis.michiels@gmail.com", type="email" %}{% endlink %}
 
 ## Nous rejoindre
 
-Tu n'as pas besoin d'être expert-comptable.
-
-Tu peux trouver ta place si tu es:
+Tu n'as pas besoin d'être expert-comptable. Tu peux trouver ta place si tu es:
 
 - à l'aise avec les chiffres ou l'organisation administrative
 - rigoureux·se et discret·ète
