@@ -53,7 +53,7 @@ On cherche aussi à créer du lien : ces journées travaux sont autant des mom
 ## Nous contacter
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
-- Ou par mail [commissiontravaux@autre-ecole.org](mailto:commission-travaux@autre-ecole.org)
+- Ou par mail: {% link url="commissiontravaux@autre-ecole.org", type="email" %}{% endlink %}
 
 ## Nous rejoindre
 
