@@ -112,8 +112,9 @@
   margin-block-start: 0;
 }
 
-main > img {
-  max-inline-size: var(--width-body);
+/* This is the default rule so should be removed once poko is fixed */
+:where(img, picture, video, svg) {
+  max-inline-size: var(--max-width, 100%);
 }
 
 a[href$=".pdf"]::after {
