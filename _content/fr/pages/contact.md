@@ -68,12 +68,12 @@ Pour toute autre demande de visite, merci de contacter au préalable le secréta
 
 ## Contacter une commission spécifique
 
-Dans l'esprit participatif de l'Autre École, plusieurs commissions composées de parents et de membres de l'équipe pédagogique gèrent différents aspects de la vie de l'école. Selon la nature de votre demande, vous pouvez contacter directement la commission concernée:
+Dans l'esprit participatif de l'Autre École, plusieurs {% link url="les-commissions", type="internal", collection="pages" %}Commissions{% endlink %} composées de parents et de membres de l'équipe pédagogique gèrent différents aspects de la vie de l'école. Selon la nature de votre demande, vous pouvez contacter directement la commission concernée:
 
-- **Commission travaux**: pour les questions liées aux locaux et à l'infrastructure
-- **Commission Jardin**: pour les projets liés aux espaces extérieurs et au potager
-- **Commission Fêtes**: pour l'organisation des événements communautaires
-- **Commission Informatique**: pour les questions liées au site web et à la gestion des données
-- **Commission Finances**: pour les questions administratives et financières
+- **Commission** {% link url="la-commission-travaux", type="internal", collection="pages" %}**Travaux**{% endlink %}: pour les questions liées aux locaux et à l'infrastructure
+- **Commission** {% link url="la-commission-jardin", type="internal", collection="pages" %}**Jardin**{% endlink %}: pour les projets liés aux espaces extérieurs et au potager
+- **Commission** {% link url="la-commission-fetes", type="internal", collection="pages" %}**Fêtes**{% endlink %}: pour l'organisation des événements communautaires
+- **Commission** {% link url="la-commission-digitale", type="internal", collection="pages" %}**Digitale**{% endlink %}: pour les questions liées au site web et à la gestion des données
+- **Commission** {% link url="la-commission-finance", type="internal", collection="pages" %}**Finance**{% endlink %}: pour les questions administratives et financières
 
 Pour obtenir les coordonnées spécifiques de chaque commission, n'hésitez pas à contacter le secrétariat.
