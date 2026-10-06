@@ -38,14 +38,14 @@ Nous incarnons aussi les valeurs de Freinet : coopération, tâtonnement expér
 
 - Gladys (maman de …)
 - Claire Dosin (maman de Lisa, Hugo et Loïc)
-- Anaïs (maman de …)
-- … (papa de Youri et Léna)
-- … (papa de …)
+- Anaïs Osele (maman de Ysaline et Eliott)
+- Alexei Kounine (papa de Yuri et Léna)
+- Thomas Doneux (papa de Océane et Mattéo)
 
 ## Nous contacter
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
-- Par mail: [commissionfetes@gmail.com](mailto:commissionfetes@gmail.com)
+- Par mail: {% link url="commissionfetes@gmail.com", type="email" %}{% endlink %}
 
 ## Nous rejoindre
 
