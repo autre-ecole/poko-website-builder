@@ -1,6 +1,9 @@
 ---
 translationKey: options-fondamentales
 order: 12
+lang: fr
+createdAt: 2026-10-06T20:47:00.000Z
+ldType: WebPage
 name: Options fondamentales
 status: inactive
 ---
@@ -149,7 +152,7 @@ Le fait de poser les problèmes, d'en parler est libérateur et aide l'enfant à
 
 Ainsi, l'école favorise l'acceptation de l'existence des conflits, leur prise de conscience et leur résolution pacifique. Cette approche positive des conflits et des règles fait partie de la vie coopérative par laquelle les enfants réalisent aussi des projets communs, étudient L’Autre École Options Fondamentales ensemble, s'entraident et s'évaluent, apprenant de la sorte à grandir en interaction, à développer leur capacité d'échange et de construction d'une société plus coopérante. Cette vie coopérative constitue pour nous l'apprentissage autant que l'exercice de la démocratie et de la liberté. 
 
-**Méthodes naturelles d’apprentissage&#160;**
+**Méthodes naturelles d’apprentissage** 
 
 Les programmes de la Felsi, inspirés des pédagogies dites actives, sont suffisamment larges pour nous permettre de faire des choix en fonction de nos options. L’équipe pédagogique détermine donc les contenus et les méthodes en accord à la fois avec les programmes, les référentiels, les préceptes pédagogiques de C. Freinet et avec nos options fondamentales. 
 
@@ -163,7 +166,7 @@ Apprendre vraiment quelque chose, c'est se l'approprier, le faire sien. De ce po
 
 Quant à l'aspect affectif, il interfère sans cesse avec les autres domaines. De ce point de vue, l'animateur a le souci de maintenir une relation enseignant-enseigné où il n'est ni le détenteur du pouvoir, ni de tout le savoir, ni de la vérité, mais dans laquelle il se situe comme un être humain avec ses humeurs, sa personnalité propre, comme un être susceptible de se tromper, c'est-à-dire dans une relation authentique avec l'enfant. L'animateur est un accompagnateur structurant et, dans ce cadre, il apprend de et avec l'enfant. Il est aussi l'intermédiaire entre les contraintes sociales et celles que les enfants mettent en place dans le groupe. Il invite les enfants à clarifier les règles si elles ne sont plus respectées ou posent problème, à les modifier, à en supprimer, à en fixer de nouvelles si nécessaire. Bien que l'enseignant soit aussi un membre du groupe qui agit en interaction avec celui-ci, il a néanmoins son rôle propre: il est le garant des règles afin que tout se passe pour le mieux. 
 
-**Évaluation&#160;**
+**Évaluation** 
 
 A l’Autre Ecole, il n’y a ni points, ni comparaison entre enfants ou classement. 
 
@@ -182,17 +185,17 @@ Les moments de bilans sont des moments importants pour l’enfant, le regard sou
 
 En s'évaluant lui-même, en confrontant cette évaluation avec celles de l'animateur et du groupe, en évaluant avec les autres l'action de son groupe, l'enfant ne se conforme plus au seul désir de l'adulte, mais construit peu à peu ses propres systèmes de référence. L’évaluation de l’adulte veille à communiquer une image complète de l’enfant. Sa relation au travail et aux autres sera évoquée. L’enfant sera comparé à lui-même. Il pourra ainsi que ses parents, prendre la dimension de son évolution. 
 
-**Prise de conscience et de responsabilité&#160;**
+**Prise de conscience et de responsabilité** 
 
 Nous le voyons, ces choix et pratiques pédagogiques amènent l'enfant à une prise de conscience des réalités tant personnelles que collectives et à jouer un rôle actif dans la vie du groupe en y assumant sa part de responsabilité.
 
-## Chapitre 3: **L’organisation&#160;**
+## Chapitre 3: **L’organisation** 
 
-L'Autre École fonctionne selon les principes de cogestion et de participation dans le respect des valeurs fondamentales. Celles-ci servent de référence ultime pour arbitrer les divergences, décider, élire. **L'adhésion à ces valeurs est une condition d'admission à l'a.s.b.l. Animation-Éducation&#32;**qui est le pouvoir organisateur de l'Autre École et dont sont membres les animateurs et tous les parents. 
+L'Autre École fonctionne selon les principes de cogestion et de participation dans le respect des valeurs fondamentales. Celles-ci servent de référence ultime pour arbitrer les divergences, décider, élire. \*\*L'adhésion à ces valeurs est une condition d'admission à l'a.s.b.l. Animation-Éducation \*\*qui est le pouvoir organisateur de l'Autre École et dont sont membres les animateurs et tous les parents. 
 
-**Ces Options Fondamentales sont portées par l’asbl Alternative Pédagogique, dont tous les parents de l’Autre École font partie.&#32;**Alternative Pédagogique a pour missions de soutenir l’asbl Animation Education et de la doter des moyens utiles et nécessaires à son bon fonctionnement. 
+\*\*Ces Options Fondamentales sont portées par l’asbl Alternative Pédagogique, dont tous les parents de l’Autre École font partie. \*\*Alternative Pédagogique a pour missions de soutenir l’asbl Animation Education et de la doter des moyens utiles et nécessaires à son bon fonctionnement. 
 
-**Inscription-adhésion&#160;**
+**Inscription-adhésion** 
 
 L 'inscription d'un enfant a valeur de contrat d'adhésion aux options fondamentales de l'Autre École et de participation active telles qu'elles sont définies dans la présente brochure. 
 
@@ -202,25 +205,25 @@ Un enfant de l'Autre École, comme tout enfant, a besoin d'un minimum de temps p
 
 Les parents doivent bien se rendre compte qu'en même temps que des connaissances, l'enfant doit acquérir une série d'attitudes et que celles-ci sont aussi fondamentales pour l'avenir que les connaissances. Un projet comme celui de l'Autre École n'est réalisable dans une société comme la nôtre que grâce à un investissement important de la part de chacun, non seulement un soutien, mais aussi une participation active. En effet, la dualité du concept de citoyenneté implique son accès non seulement par l'exercice de nos droits, mais également de nos devoirs. A l'Autre École, les parents et les animateurs sont amenés à comprendre, par la pratique du partage de la gestion, que le pouvoir leur appartient et qu'ils ont à l'exercer. 
 
-Pour éviter la tentation du "pouvoir aux spécialistes", il faut considérer que le temps qui semble parfois perdu à faire circuler l'information vers les parents et à les faire s'exprimer est largement regagné en efficacité profonde. La grande vertu d'une démocratie est la prise de conscience collective des problèmes et des projets ainsi que leur prise en charge. **Il est donc essentiel et conforme à notre souci de solidarité et de coopération que chacun des parents soit présent au minimum aux Assemblées générales et réunions de classe.&#160;**
+Pour éviter la tentation du "pouvoir aux spécialistes", il faut considérer que le temps qui semble parfois perdu à faire circuler l'information vers les parents et à les faire s'exprimer est largement regagné en efficacité profonde. La grande vertu d'une démocratie est la prise de conscience collective des problèmes et des projets ainsi que leur prise en charge. **Il est donc essentiel et conforme à notre souci de solidarité et de coopération que chacun des parents soit présent au minimum aux Assemblées générales et réunions de classe.** 
 
 Dans ce même souci de vie coopérative à l’école, l’asbl Alternative Pédagogique demande au secrétariat de l’Autre École d’organiser un planning de **nettoyage des classes**. **Chaque famille viendra entretenir un local durant le week-end (+/- 3 fois par an)**. Les clefs vous seront transmises, le jeudi, dans le cartable de votre enfant. Elles vous sont transmises dans une pochette au nom du local à nettoyer. Pour vous éviter de devoir effectuer ce nettoyage plusieurs week-ends d’affilé, il est nécessaire de déposer la pochette (avec les clés à l’intérieur) dans la boite aux lettres de l’école. 
 
-**Structures et fonctionnement&#160;**
+**Structures et fonctionnement** 
 
 Nous voulons que les structures et leur fonctionnement soient au service de la vie et de notre volonté de solidarité et de coopération. Pour répondre aux exigences juridiques, les fondateurs de L'Autre École ont créé une association sans but lucratif qui est le Pouvoir organisateur de l'école. Pour que l'école soit reconnue officiellement et que les charges financières soient raisonnables, ils l'ont fait reconnaitre comme école subventionnée. Enfin, pour assurer son pluralisme, ils se sont situés comme école non confessionnelle et laïque. 
 
 L'inscription d'un enfant à l'école s'accompagne de l'affiliation des parents (père, mère, tuteur) comme membres de l'a.s.b.l. La participation au fonctionnement de l'école comme animateur permanent s'accompagne également de l'affiliation comme membre de l'a.s.b.l. Toute autre personne travaillant régulièrement à l'école peut s'affilier à l'a.s.b.l. Cette affiliation est gratuite. 
 
-L’affiliation en tant que membre donne droit à une et une seule voix en Assemblée générale. **L'a.s.b.l. est gérée par l'Assemblée générale et le Conseil d'administration.&#32;**Il y a en outre le Conseil de classe, le Conseil d'école, le Conseil des animateurs, la direction et les commissions. 
+L’affiliation en tant que membre donne droit à une et une seule voix en Assemblée générale. \*\*L'a.s.b.l. est gérée par l'Assemblée générale et le Conseil d'administration. \*\*Il y a en outre le Conseil de classe, le Conseil d'école, le Conseil des animateurs, la direction et {% link url="les-commissions", type="internal", collection="pages" %}les commissions{% endlink %}. 
 
-Enfin, la Fédération Wallonie-Bruxelles a créé, par Décret, un organe de discussions et d’échanges au sein des écoles : le Conseil de Participation. 
+Enfin, la Fédération Wallonie-Bruxelles a créé, par Décret, un organe de discussions et d’échanges au sein des écoles: le Conseil de Participation. 
 
-**L’Assemblée Générale&#160;**
+**L’Assemblée Générale** 
 
 Deux Assemblées générales sont organisées chaque année. Au cours de ces assemblées sont traités les grands problèmes, sont définies les grandes orientations de l'école, les grandes lignes de son développement et de sa gestion. 
 
-Elle est le pouvoir souverain de l'association. Elle a le pouvoir de modifier les statuts, de nommer et de révoquer les administrateurs, d'approuver les budgets et les comptes annuels, d'élaborer des règlements d'ordre intérieur, d'exclure des membres, de dissoudre anticipativement l'association - ces deux derniers types de décision requièrent une majorité des deux tiers des voix exprimées - et en général de prendre toutes les décisions qui dépassent les limites des pouvoirs légalement et statutairement dévolus au Conseil d'administration. L'Assemblée générale crée en son sein des groupes de travail ou des commissions, organes de consultation ou de décision. 
+Elle est le pouvoir souverain de l'association. Elle a le pouvoir de modifier les statuts, de nommer et de révoquer les administrateurs, d'approuver les budgets et les comptes annuels, d'élaborer des règlements d'ordre intérieur, d'exclure des membres, de dissoudre anticipativement l'association - ces deux derniers types de décision requièrent une majorité des deux tiers des voix exprimées - et en général de prendre toutes les décisions qui dépassent les limites des pouvoirs légalement et statutairement dévolus au Conseil d'administration. L'Assemblée générale crée en son sein des groupes de travail ou des {% link url="les-commissions", type="internal", collection="pages" %}commissions{% endlink %}, organes de consultation ou de décision. 
 
 L'assemblée statutaire annuelle a lieu dans le courant du mois de juin pour décharger les administrateurs sortants et élire les nouveaux membres du Conseil d'administration. Elle se réunit également dans le courant du mois de janvier pour la présentation du budget. En outre, l'Assemblée générale peut être convoquée par le Conseil d'administration pour examiner les questions d'intérêt social, général ou particulier relatives au projet défini dans les options fondamentales. L'Assemblée générale doit se réunir extraordinairement lorsqu'un cinquième des membres en fait la demande. 
 
@@ -232,7 +235,7 @@ Chaque membre effectif possède une voix. Chaque participant à la réunion peut
 
 Les membres de l’asbl sont tenus de vérifier qu’ils reçoivent bien le Billet du Jeudi dans leur boite mail. Un rappel est effectué à cet effet lors des réunions de rentrée.
 
-**Le Conseil d'Administration&#160;**
+**Le Conseil d'Administration** 
 
 L'association est gérée par un Conseil d'administration de neuf personnes au plus et de six personnes au moins. Parmi elles, trois mandats sont attribués à des membres du Conseil des animateurs. C’est le cas depuis la création de l’école et cela semble être une des conditions de son bon fonctionnement car cela assure une circulation de l’information tout en laissant aux parents une large majorité dans cet organe décisionnel. Ces personnes sont toutes membres de l'association, élues par l'Assemblée générale (pour un mandat d’une durée de deux ans) et sont rééligibles. Le Conseil d'administration répartit parmi ses membres les fonctions de présidence, de secrétariat, de trésorerie et toute autre fonction qu'il juge utile. Le Conseil d'administration se réunit chaque mois sur convocation du président. 
 
@@ -242,7 +245,7 @@ Le Conseil d'administration possède les pouvoirs les plus étendus pour exercer
 
 Un rapport de chaque réunion du Conseil d'administration est publié dans le Billet du Jeudi. Un exemplaire de chaque rapport est conservé au siège de l'association et en format numérique.
 
-**Le Conseil de classe&#160;**
+**Le Conseil de classe** 
 
 Dans chaque classe, il existe un Conseil de classe qui rassemble les enfants du groupe, leur animateur et éventuellement des invités (stagiaires, autres animateurs permanents ou animateurs occasionnels). Chez les moins de six ans, ce Conseil de classe se réunit fréquemment, sans qu'une fréquence fixe soit déterminée. Chez les plus de six ans, le Conseil de classe se réunit: 
 
@@ -259,7 +262,7 @@ Le Conseil de classe traite:
 
 Toutefois, il arrive que les problèmes relationnels soient plutôt traités au cours d'une séance spécifique afin que - surtout à la naissance d'un groupe - ces problèmes n'envahissent pas le Conseil de classe au détriment du temps destiné à l'organisation des activités. Le rôle de l'animateur lors des réunions du Conseil de classe est de faciliter l'autogestion du groupe. Il peut déléguer une part de son autorité à un des enfants. Celui-ci prépare, organise, gère le Conseil de groupe avec l'aide de l'animateur. L'animateur fait aussi sentir aux enfants les limites institutionnelles de leur Conseil de classe et les renvoie, lorsque l'ordre du jour ou le niveau des problèmes l'exige, au Conseil d'école, au Conseil des animateurs, au Conseil d'administration ou à l'Assemblée générale. 
 
-**Le Conseil d'école&#160;**
+**Le Conseil d'école** 
 
 Le Conseil d'école est constitué de deux délégués de chaque Conseil de classe et présidé par un animateur. Il a lieu une fois par semaine. Il peut en outre être convoqué par les animateurs ou par les délégués d'un Conseil de classe. La participation des délégués est variable en fonction de l’année de la scolarité. Les conseils de classe envoient leurs délégués (élus et motivés) de la P3 à la P6. La présence est libre chez les P1/P2. Les classes maternelles sont représentées par des élèves de P3 à P6 qui viennent leur faire rapport du Conseil d’école et qui remontent ensuite les points soulevés par les plus jeunes. 
 
@@ -280,7 +283,7 @@ Les décisions du Conseil d'école sont soumises à l'approbation du Conseil des
 
 Les délégués de classe font un rapport oral de la réunion du Conseil d'école à leur groupe. Un compte rendu est rédigé par l’adulte et communiqué à chaque classe. 
 
-**Le Conseil des animateurs&#160;**
+**Le Conseil des animateurs** 
 
 La direction et les animateurs sont les membres du Conseil des animateurs. Celui-ci peut inviter toute personne à participer à ses réunions. 
 
@@ -308,7 +311,7 @@ Tout animateur, permanent ou occasionnel, peut mettre une question à l'ordre du
 
 Les décisions sont prises, dans la mesure du possible, à l'unanimité. Si l'unanimité ne peut être réalisée, les décisions sont prises à la majorité des deux tiers des membres. En cas de conflit, tout animateur peut demander un arbitrage au Conseil d'administration, éventuellement par la convocation d'une réunion extraordinaire du Conseil d'administration. 
 
-**La direction&#160;**
+**La direction** 
 
 La direction est chargée des tâches suivantes: 
 
@@ -322,7 +325,7 @@ La direction est choisie parmi les candidats conjointement par le Conseil d'admi
 
 La direction est responsable de la bonne exécution de sa mission devant le Conseil des animateurs pour les questions administratives et, en cas de conflit au sein des animateurs, devant le Conseil d'administration qui a rôle d'arbitrage. 
 
-**Les commissions&#160;**
+{% link url="les-commissions", type="internal", collection="pages" %}**Les commissions**{% endlink %}
 
 Le bon fonctionnement de l'école repose, en dehors des obligations minimales, sur la participation la plus large à la vie et aux problèmes qui se présentent. Chaque parent peut déterminer l'étendue de sa participation supplémentaire en fonction de ses disponibilités de temps, ses autres choix, son gout de l'action dans le domaine précis, etc. 
 
@@ -330,33 +333,33 @@ Même peu participant, aucun ne doit oublier son droit à la parole, à la criti
 
 Les différentes dates liées aux évènements que les commissions organisent tout au long de l’année sont communiquées via le Billet du Jeudi. Les commissions demandent parfois à la direction d’appuyer une demande de soutien, de participation pour le bon déroulement d’une activité organisée. 
 
-Les commissions sont ouvertes et, parfois, elles oeuvrent de concert. D'autres commissions sont toujours susceptibles de voir le jour en fonction des circonstances ou au contraire de disparaitre si leur existence ne se justifie plus. Chaque année un certain nombre de groupes se constituent: leur action et leur enthousiasme sont vitaux pour la bonne marche de l'école. 
+{% link url="les-commissions", type="internal", collection="pages" %}Les commissions{% endlink %} sont ouvertes et, parfois, elles oeuvrent de concert. D'autres commissions sont toujours susceptibles de voir le jour en fonction des circonstances ou au contraire de disparaitre si leur existence ne se justifie plus. Chaque année un certain nombre de groupes se constituent: leur action et leur enthousiasme sont vitaux pour la bonne marche de l'école. 
 
-**- La Commission fêtes&#160;**
+**- La Commission fêtes** 
 
 Cette commission organise des activités festives pour les parents et amis, pour les enfants ou pour les deux : soirée de rentrée des parents, promenade-vélo, goûter et marché de Noël, ... ou accompagne l'organisation d'événements de la vie de l’école : journée travaux, fête de fin d’année, spectacle des enfants, week-end en gîte, ... Ces fêtes sont des moments de délassement favorisant la rencontre des familles entre-elles. 
 
-**- La Commission finances&#160;**
+**- La Commission finances** 
 
 Elle aide le trésorier pour toutes les questions qui concernent la gestion financière et les budgets de l'école. Cette commission recherche régulièrement des personnes susceptibles de donner un coup de main. 
 
-**- La Commission travaux&#160;**
+**- La Commission travaux** 
 
 La Commission travaux s'est chargée de veiller au bon état du bâtiment et aux réparations à y effectuer par l'appel ponctuel aux compétences de parents, par l'organisation de journées travaux où ceux-ci sont effectués collectivement ou par l'appel aux corps de métiers adéquats. 
 
 Chaque année scolaire, la commission travaux organise deux ou trois journées consacrées à l’entretien et l’amélioration du bâtiment. Les parents qui constituent cette commission demandent à chaque famille de **participer au minimum à l’une des trois journées**. 
 
-- **La Commission jardin écologique&#160;**
+- **La Commission jardin écologique** 
 
 Elle veille à l’entretien du jardin créé (par des élèves de l’école) sur la Place Félix Govaert et à la végétation qui borde le bâtiment. La commission Jardin organise généralement ses journées d’action à un moment distinct des journées travaux. 
 
 Si un projet de nouvelle commission vous tente, n’hésitez pas à en parler autour de vous et à vous lancer. L’équipe pédagogique viendra certainement vous soutenir. 
 
-**LE CONSEIL DE PARTICIPATION&#160;**
+**LE CONSEIL DE PARTICIPATION** 
 
-_Le Conseil de Participation est une instance de CONCERTATION, pas de DECISION.&#160;_
+_Le Conseil de Participation est une instance de CONCERTATION, pas de DECISION._ 
 
-_Les décisions sont prises par le Pouvoir Organisateur de l’école.&#160;_
+_Les décisions sont prises par le Pouvoir Organisateur de l’école._ 
 
 Les Conseils de Participation (COPA) ont été créés par le Décret Mission de la Communauté française. 
 
@@ -364,7 +367,7 @@ Leur principale mission est de débattre du projet d’établissement qui défin
 
 Le COPA permet à des personnes extérieures d’être représentées dans un lieu où l’on échange, débat et initie des projets en lien avec le projet pédagogique de l’Autre École. 
 
-**Le COPA réunit ses membres quatre fois par année civile:&#160;**
+**Le COPA réunit ses membres quatre fois par année civile:** 
 
 Des membres de droit:
 
@@ -380,7 +383,7 @@ Des membres élus: 
 
 Des membres avec voix consultative:
 
-**Missions du Conseil de Participation&#160;**
+**Missions du Conseil de Participation** 
 
 - Projet d’Etablissement : débattre, amender, compléter et proposer des adaptations en lien avec le plan de pilotage (si nécessaire). Le proposer ensuite à l’approbation du Pouvoir Organisateur. 
 - Contrat d’Objectifs : remettre un avis sur le plan de pilotage avant qu’il ne soit remis au DCO; bénéficier de retours sur l’évaluation de la mise en oeuvre du Contrat d’Objectifs_. _
