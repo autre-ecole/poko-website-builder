@@ -38,12 +38,12 @@ Nous aidons l'ASBL à suivre la situation financière de l'école, à préparer 
 
 ## Qui nous sommes
 
-- Louis Michiels (papa d'Alexandre et Élisabeth)
+- Louis (papa d'Alexandre et Élisabeth)
 
 ## Nous contacter
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
-- Ou par mail Louis administrateur d'Alternative Pédagogique: {% link url="louis.michiels@gmail.com", type="email" %}{% endlink %}
+- Ou par mail à Louis, administrateur d'Alternative Pédagogique: {% link url="louis.michiels@gmail.com", type="email" %}{% endlink %}
 
 ## Nous rejoindre
 
