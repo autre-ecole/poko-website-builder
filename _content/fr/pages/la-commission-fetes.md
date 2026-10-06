@@ -36,9 +36,11 @@ Nous incarnons aussi les valeurs de Freinet : coopération, tâtonnement expér
 
 ## Qui nous sommes
 
-- …
-- …
-- …
+- Gladys (maman de …)
+- Claire Dosin (maman de Lisa, Hugo et Loïc)
+- Anaïs (maman de …)
+- … (papa de Youri et Léna)
+- … (papa de …)
 
 ## Nous contacter
 
