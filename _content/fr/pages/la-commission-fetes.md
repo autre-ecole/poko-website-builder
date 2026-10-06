@@ -41,6 +41,7 @@ Nous incarnons aussi les valeurs de Freinet : coopération, tâtonnement expér
 - Anaïs (maman de Ysaline et Eliott)
 - Alexei (papa de Yuri et Léna)
 - Thomas (papa de Océane et Mattéo)
+- Sophie (maman d'Anis et Idris)
 
 ## Nous contacter
 
