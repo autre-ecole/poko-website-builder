@@ -36,11 +36,11 @@ Nous incarnons aussi les valeurs de Freinet : coopération, tâtonnement expér
 
 ## Qui nous sommes
 
-- Gladys François (maman de Louane)
-- Claire Dosin (maman de Lisa, Hugo et Loïc)
-- Anaïs Osele (maman de Ysaline et Eliott)
-- Alexei Kounine (papa de Yuri et Léna)
-- Thomas Doneux (papa de Océane et Mattéo)
+- Gladys (maman de Louane)
+- Claire (maman de Lisa, Hugo et Loïc)
+- Anaïs (maman de Ysaline et Eliott)
+- Alexei (papa de Yuri et Léna)
+- Thomas (papa de Océane et Mattéo)
 
 ## Nous contacter
 
