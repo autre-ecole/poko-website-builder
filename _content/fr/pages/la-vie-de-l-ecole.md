@@ -152,11 +152,11 @@ Tout au long de l'année, de nombreuses sorties sont organisées:
 
 La vie de l'école repose sur l'engagement des parents et des animateurs au sein de différentes {% link url="les-commissions", type="internal", collection="pages" %}Commissions{% endlink %} thématiques:
 
-- Commission **Travaux**
-- Commission **Jardin**
-- Commission **Fêtes**
-- Commission **Finances**
-- Commission **Informatique**
+- Commission {% link url="la-commission-travaux", type="internal", collection="pages" %}**Travaux**{% endlink %}
+- Commission {% link url="la-commission-jardin", type="internal", collection="pages" %}**Jardin**{% endlink %}
+- Commission {% link url="la-commission-fetes", type="internal", collection="pages" %}**Fêtes**{% endlink %}
+- Commission {% link url="la-commission-digitale", type="internal", collection="pages" %}**Digitale**{% endlink %}
+- Commission {% link url="la-commission-finance", type="internal", collection="pages" %}**Finance**{% endlink %}
 
 Chaque commission se réunit régulièrement pour travailler sur ses projets et rendre compte de ses actions lors des assemblées générales.
 
