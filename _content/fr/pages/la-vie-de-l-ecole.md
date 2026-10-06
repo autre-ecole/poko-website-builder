@@ -1,6 +1,9 @@
 ---
 translationKey: la-vie-de-l-ecole
 order: 5
+lang: fr
+createdAt: 2026-10-06T20:39:00.000Z
+ldType: WebPage
 name: La vie de l'école
 status: published
 ---
@@ -147,7 +150,7 @@ Tout au long de l'année, de nombreuses sorties sont organisées:
 
 ### Les commissions
 
-La vie de l'école repose sur l'engagement des parents et des animateurs au sein de différentes commissions thématiques:
+La vie de l'école repose sur l'engagement des parents et des animateurs au sein de différentes {% link url="les-commissions", type="internal", collection="pages" %}Commissions{% endlink %} thématiques:
 
 - Commission **Travaux**
 - Commission **Jardin**
