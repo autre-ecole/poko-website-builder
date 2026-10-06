@@ -9,7 +9,7 @@ name: La commission fêtes
 
 # La Commission Fêtes
 
-Cette commission organise des activités festives pour les parents et  amis, pour les enfants ou pour les deux : soirée de rentrée des  parents, promenade-vélo, goûter et marché de Noël,... ou  accompagne l'organisation d'événements de la vie de l’école : journée travaux, fête de fin d’année, spectacle des enfants, week-end  en gîte,... Ces fêtes sont des moments de délassement favorisant la  rencontre des familles entre-elles.
+Cette commission organise des activités festives pour les parents et  amis, pour les enfants ou pour les deux: soirée de rentrée des  parents, promenade-vélo, goûter et marché de Noël,... ou  accompagne l'organisation d'événements de la vie de l’école: journée travaux, fête de fin d’année, spectacle des enfants, week-end  en gîte,... Ces fêtes sont des moments de délassement favorisant la  rencontre des familles entre-elles.
 
 ## Notre mission
 
