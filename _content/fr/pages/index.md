@@ -27,7 +27,8 @@ Si vous êtes intéressés par une de ces places, prenez contact avec le {% link
 
 Si vous souhaitez assister à nos {% link url="les-portes-ouvertes", type="internal", collection="pages" %}**Portes ouvertes**{% endlink %}, rendez-vous sur l'onglet Inscriptions. Les informations ont été mises à jour.
 
-{% image src="/_images/Batiment-accueil.webp", aspectRatio="2" %}
+{% image src="/_images/dscf0355-banner-site-web.webp", aspectRatio="2" %}
+
 
 ## Notre identité
 
