@@ -25,4 +25,6 @@ Les commissions sont ouvertes et, parfois, elles œuvrent de concert. D'autres 
 
 {% link url="la-commission-digitale", type="internal", collection="pages" %}Commission Digitale{% endlink %} {.poko .font-bold .h2}
 
+{% link url="la-commission-finance", type="internal", collection="pages" %}Commission Finance{% endlink %}{.poko .font-bold .h2}
+
 Si un projet de nouvelle commission vous tente, n’hésitez pas à en parler autour de vous et à vous lancer. L’équipe pédagogique viendra certainement vous soutenir.
