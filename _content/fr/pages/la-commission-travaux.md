@@ -46,7 +46,7 @@ On cherche aussi à créer du lien : ces journées travaux sont autant des mom
 - Justine (maman d'Elouan)
 - Félix (papa de Maëlle, Lou et Nel)
 - Alex (papa de Lisa, Loïc et Hugo)
-- Joana (maman de Youri et Léna)
+- Joana (maman de Yuri et Léna)
 - Gil (papa de Talia)
 - Julien (papa de Emmylou, Madi et Suzon)
 
