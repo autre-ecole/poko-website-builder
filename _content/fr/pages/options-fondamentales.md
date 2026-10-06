@@ -335,21 +335,21 @@ Les différentes dates liées aux évènements que les commissions organisent to
 
 {% link url="les-commissions", type="internal", collection="pages" %}Les commissions{% endlink %} sont ouvertes et, parfois, elles oeuvrent de concert. D'autres commissions sont toujours susceptibles de voir le jour en fonction des circonstances ou au contraire de disparaitre si leur existence ne se justifie plus. Chaque année un certain nombre de groupes se constituent: leur action et leur enthousiasme sont vitaux pour la bonne marche de l'école. 
 
-**- La Commission fêtes** 
+**-** {% link url="la-commission-fetes", type="internal", collection="pages" %}**La Commission fêtes**{% endlink %} 
 
 Cette commission organise des activités festives pour les parents et amis, pour les enfants ou pour les deux : soirée de rentrée des parents, promenade-vélo, goûter et marché de Noël, ... ou accompagne l'organisation d'événements de la vie de l’école : journée travaux, fête de fin d’année, spectacle des enfants, week-end en gîte, ... Ces fêtes sont des moments de délassement favorisant la rencontre des familles entre-elles. 
 
-**- La Commission finances** 
+**-** {% link url="la-commission-finance", type="internal", collection="pages" %}**La Commission finance**{% endlink %}
 
 Elle aide le trésorier pour toutes les questions qui concernent la gestion financière et les budgets de l'école. Cette commission recherche régulièrement des personnes susceptibles de donner un coup de main. 
 
-**- La Commission travaux** 
+**-** {% link url="la-commission-travaux", type="internal", collection="pages" %}**La Commission travaux**{% endlink %}
 
 La Commission travaux s'est chargée de veiller au bon état du bâtiment et aux réparations à y effectuer par l'appel ponctuel aux compétences de parents, par l'organisation de journées travaux où ceux-ci sont effectués collectivement ou par l'appel aux corps de métiers adéquats. 
 
 Chaque année scolaire, la commission travaux organise deux ou trois journées consacrées à l’entretien et l’amélioration du bâtiment. Les parents qui constituent cette commission demandent à chaque famille de **participer au minimum à l’une des trois journées**. 
 
-- **La Commission jardin écologique** 
+- {% link url="la-commission-jardin", type="internal", collection="pages" %}**La Commission jardin écologique**{% endlink %}
 
 Elle veille à l’entretien du jardin créé (par des élèves de l’école) sur la Place Félix Govaert et à la végétation qui borde le bâtiment. La commission Jardin organise généralement ses journées d’action à un moment distinct des journées travaux. 
 
