@@ -38,13 +38,10 @@ Notre rôle est donc de prendre soin de cet espace et de permettre à la nature 
 ## Qui nous sommes
 
 - Anne (maman de Lou, Maëlle et Nel)
-- …
-- …
 
 ## Nous contacter
 
 - Via la liste de coordonnées partagée dans l’école (cf Billet du Jeudi)
-- Ou par mail
 
 ## Nous rejoindre
 
