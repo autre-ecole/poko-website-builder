@@ -1,14 +1,20 @@
 ---
-status: published
+translationKey: nouveau-site-2025
+order: null
+lang: fr
+createdAt: 2026-10-06T20:56:00.000Z
+ldType: Article
 name: Nouveau site 2025
 metadata:
   title: new website
   image:
     src: /_images/new-website-2025.webp
     alt: new website
+status: published
 author: Marc
 date: 2025-08-27
 ---
+
 # Un nouveau site éco-conçu pour l'Autre École
 
 Il était temps, non? 😅
@@ -122,8 +128,8 @@ Ce site, comme le reste de l'école, est conçu comme un espace collaboratif, o�
 - **Partage des retours**: ce qui fonctionne bien, ce qui pourrait être amélioré...
 - **Signale les problèmes**: liens cassés, informations à mettre à jour...
 
-Aucune compétence technique n'est requise pour participer à l'évolution du site. Tu peux simplement contacter la commission informatique ({{ "commission-informatique@autre-ecole.org" | emailLink}}) pour partager tes contributions ou discuter de tes idées.
+Aucune compétence technique n'est requise pour participer à l'évolution du site. Tu peux simplement contacter {% link url="la-commission-digitale", type="internal", collection="pages" %}commission digitale{% endlink %} ({{ "commission-informatique@autre-ecole.org" | emailLink}}) pour partager tes contributions ou discuter de tes idées.
 
----
+***
 
-_Ce site a été développé bénévolement pour l'Autre École. Si tu es intéressé par des solutions web similaires pour ton organisation, n'hésite pas à contacter&#32;[Tess](https://www.tess-h.be/)&#32;ou&#32;[Marc](https://www.m4rr.co/fr/)&#32;pour en parler. C'est&#32;[notre métier](https://www.mookai.be)._
+_Ce site a été développé bénévolement pour l'Autre École. Si tu es intéressé par des solutions web similaires pour ton organisation, n'hésite pas à contacter [Tess](https://www.tess-h.be/) ou [Marc](https://www.m4rr.co/fr/) pour en parler. C'est [notre métier](https://www.mookai.be)._
