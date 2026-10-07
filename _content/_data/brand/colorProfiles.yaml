@@ -1,0 +1,16 @@
+colorProfiles:
+  - name: main
+    text: read
+    bg: neutral
+    border: pop
+    text-decoration: pop
+    text--marker: pop
+    a:
+      bg__a--hover: pop
+    selection:
+      text--selection: read
+      bg--selection: pop
+    mark:
+      bg__mark: pop
+    svg:
+      icon-stroke: pop

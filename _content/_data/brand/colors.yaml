@@ -1,0 +1,11 @@
+colors:
+  - name: white
+    value: '#ffffffff'
+  - name: black
+    value: '#000000ff'
+  - name: blue
+    value: '#343c90ff'
+  - name: yellow
+    value: '#ebda00ff'
+  - name: gray-shadow
+    value: '#00000040'

@@ -148,7 +148,7 @@ Tout au long de l'année, de nombreuses sorties sont organisées:
 
 ## La vie associative et participative
 
-{% link url="les-commissions", type="internal", collection="pages" %}Les commissions{% endlink %}{.poko .font-bold .h3}
+{% link url="les-commissions", type="internal", collection="pages" %}Les commissions{% endlink %} {.poko .font-bold .h3}
 
 La vie de l'école repose sur l'engagement des parents et des animateurs au sein de différentes {% link url="les-commissions", type="internal", collection="pages" %}commissions{% endlink %} thématiques:
 

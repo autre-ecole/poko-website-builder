@@ -1,0 +1,6 @@
+palettes:
+  - name: main
+    read: blue
+    tone: gray-shadow
+    pop: yellow
+    neutral: white

@@ -12,11 +12,6 @@ languages:
   - code: fr
     status: published
     keepUrlPrefix: false
-    customUrlPrefix:
-      prefix: ''
-    isCmsDefault: true
-    isWebsiteDefault: true
-    name: Français
 collections:
   - articles
   - people
